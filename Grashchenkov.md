@@ -874,8 +874,8 @@ man romantic.SHORT as one of his life tasks is conquest of.woman<br/>
 'A man is romantic, as one of his life's tasks is to conquer a woman.'
 
 (64) Russian<br/>
-* Muzhchina romantichesk, tak kak odnoy iz ego zhiznennykh zadach yavlyaetsya zavoevanie zhenshchiny.<br/>
-  * man romantic.SHORT as one of his life tasks is conquest of.woman<br/>
+\*Muzhchina romantichesk, tak kak odnoy iz ego zhiznennykh zadach yavlyaetsya zavoevanie zhenshchiny.<br/>
+\*man romantic.SHORT as one of his life tasks is conquest of.woman<br/>
   '*A man is romantic, as one of his life's tasks is to conquer a woman.'
 
 **Comparative.** The comparative is structured similarly to adverbs and the short form:
@@ -891,8 +891,8 @@ business in Russia a.little more.specific than in west or in USA, Asia.<br/>
 'Business in Russia is a little more specific than in the West or in the USA, Asia.'
 
 (67) Russian<br/>
-\* Biznes v Rossii nemnogo spetsificheskee, chem na zapade ili v SShA, Azii.<br/>
-\* business in Russia a.little more.specific than in west or in USA, Asia.<br/>
+\*Biznes v Rossii nemnogo spetsificheskee, chem na zapade ili v SShA, Azii.<br/>
+\*business in Russia a.little more.specific than in west or in USA, Asia.<br/>
   '*Business in Russia is a little more specific than in the West or in the USA, Asia.'
 
 Regarding the prohibition of morphological comparatives (MC), N. A. Yanko-Trinitskaya also notes: "Not all qualitative adjectives form synthetic forms of the comparative degree. These forms are not present in: 1) adjectives with the suffix _-sk-_: _druzheskiy_ (friendly), _komicheskiy_ (comical) (cf. _komichnyy_ 'comical' - _komichnee_ 'more comical'), _rebyacheskiy_ (childish), _khanzheskiy_ (hypocritical), _priyatel'skiy_ (friendly), _tovarishcheskiy_ (comradely), etc.; 2) many adjectives with the suffix _-l-_: _vpalyy_ (sunken), _vyalyy_ (listless), _doshlyy_ (shrewd), _iskhudalyy_ (emaciated), _bleklyy_ (faded), _sipilyy_ (hoarse), _khripilyy_ (hoarse), etc.; 3) some adjectives with suffixes _-n-_, _-ov-_, _-k-_, for example: _ranniy_ (early), _lishniy_ (excess), _vneshniy_ (external), _zlostnyy_ (malicious), _prazdnyy_ (idle), _bol'noy_ (sick) (the form _bol'nee_ only correlates with the adverb _bol'no_); _delovoy_ (business-like), _boyevoy_ (combat), _peredovoy_ (leading), _ryadovoy_ (ordinary), _massovyy_ (mass); _gromozdkiy_ (cumbersome), _derzkiy_ (bold), _lipkiy_ (sticky), _skol'zkiy_ (slippery); 4) individual suffixless adjectives: _vetkhiy_ (dilapidated), _nishchiy_ (poor), _gordyy_ (proud), _khmuriy_ (gloomy)" (Yanko-Trinitskaya 1989: 68).
@@ -931,8 +931,8 @@ despite on fantasticness, series of.images of.animals made with deep knowledge o
 'Despite the fantastical nature, a number of animal images are made with deep knowledge of the animals' features and habits…'
 
 (71) (internet)<br/>
-\* Nesmotrya na fantasticheskost', ryad izobrazheniy zhivotnykh sdelan s glubokim znaniem chert i povadok zverey…<br/>
-\* despite on fantasticness, series of.images of.animals made with deep knowledge of.features and habits of.animals…<br/>
+\*Nesmotrya na fantasticheskost', ryad izobrazheniy zhivotnykh sdelan s glubokim znaniem chert i povadok zverey…<br/>
+\*despite on fantasticness, series of.images of.animals made with deep knowledge of.features and habits of.animals…<br/>
   '*Despite the fantasticalness, a number of animal images are made with deep knowledge of the animals' features and habits…'
 
 From this regularity, however, a number of exceptions are observed:
@@ -1051,12 +1051,12 @@ It is evident that complex derivatives to which an adjective suffix attaches in 
 
 Thus, using the examples of _-n_ and _-sk_, we observed that Russian adjective suffixes implement the following functions:
 
-(87) Properties of Russian adjective suffixes:
-a. Suffixal markers of adjectival derivation form stems of various part-of-speech affiliations, as well as stems lacking features of any lexical category (borrowings, syntactic complexes);
-b. Such markers provide the stems formed with their help the ability to form attributive forms (_-n_, _-sk_);
-c. Suffixes are divided into two types depending on the distributional properties that the units formed with their help will possess;
-d. Suffixes of the first type allow the stems formed with their help to form adverbs, short forms, comparatives, abstract nouns, and evaluative adjectives (_-n_);
-e. Suffixes of the second type do not license all the contexts listed above (_-sk_);
+(87) Properties of Russian adjective suffixes:<br/>
+a. Suffixal markers of adjectival derivation form stems of various part-of-speech affiliations, as well as stems lacking features of any lexical category (borrowings, syntactic complexes);<br/>
+b. Such markers provide the stems formed with their help the ability to form attributive forms (_-n_, _-sk_);<br/>
+c. Suffixes are divided into two types depending on the distributional properties that the units formed with their help will possess;<br/>
+d. Suffixes of the first type allow the stems formed with their help to form adverbs, short forms, comparatives, abstract nouns, and evaluative adjectives (_-n_);<br/>
+e. Suffixes of the second type do not license all the contexts listed above (_-sk_);<br/>
 f. Derivational suffixes have restrictions on compatibility with stems of a certain type – similar to how syntactic units can only attach certain types of projections (verbal, nominal, etc.), suffixes also impose restrictions on the part-of-speech category of the elements with which they combine.
 
 At the same time, the role of the suffixes _-n_ and _-sk_ themselves differs: _-n_ can be called a full adjectivizer – it converts the original stem into a new category with all functions available for that category. In contrast, _-sk_ is only an attributivizer – it assigns the stem features necessary for use in the function of a modifier, without making the newly formed lexeme a full adjective. An important property of adjectival and attributive morphology is the selective ability of suffixes. The suffix built on at the next stage "knows" what type of stem from the previous derivation stage it can (or cannot) attach to.
@@ -1075,21 +1075,21 @@ An important semantic property of adjectives is the ability of the property they
 
 The opposition between stage-level and individual-level predicates introduced by G. Carlson can be reflected in the availability of different interpretations. For example, nominal predications with multiple indefinite noun phrases in the case of the adjective *available* denote an actual state, while with the adjective *intelligent*, they can only be interpreted as universal quantification:
 
-(88) English (Carlson 1980: 74)
-a. Doctors are available.
+(88) English (Carlson 1980: 74)<br/>
+a. Doctors are available.<br/>
 b. Doctors are intellegent.
 
 There are many other variants of how adjective semantics relates to time, connected with the opposition of open and closed scales, etc.
 
 One of the most important semantic characteristics of adjectives began to be discussed thanks to B. Partee's works. The meaning of a number of adjectives when combined with nouns represents the intersection of sets defined by the adjective and noun separately:
 
-(89) English (Partee 1984: 11)
+(89) English (Partee 1984: 11)<br/>
 || carnivorous mammals || = || carnivorous || ∩ || mammals ||
 = { x | x is carnivorous and x is a mammal }
 
 Such adjectives are called intersective. There are also other adjectives:
 
-(90) English (Partee 1984: 12)
+(90) English (Partee 1984: 12)<br/>
 || skillful violinist || ≠ || skillful || ∩ || violinist ||
 ≠ { x | x is skillful and x is a violinist }
 
@@ -1097,7 +1097,7 @@ The meaning of the noun phrase *skilful violinist* cannot be represented as the 
 
 An important property of adjectives is also the possibility of restrictive and non-restrictive use. The following English noun phrase has two interpretations:
 
-(91) English (Partee 1984: 6)
+(91) English (Partee 1984: 6)<br/>
 the curious student
 
 In the case of the first (non-restrictive / appositive) interpretation, it is asserted that a certain student is curious. The second (restrictive) interpretation helps to establish reference within a certain group of students.
@@ -1106,44 +1106,44 @@ Let us turn to the taxonomy of adjectival meanings. Various approaches to the se
 
 One of the most influential works addressing the semantic classification of adjectives was R. Dixon's article (Dixon 1977), see also (Dixon 2004). The identification of semantic classes of adjectives was carried out both on the basis of an analysis of adjective properties in English and taking into account typological material. Dixon established 7 classes of adjectives with similar (within the class) semantic and grammatical properties:
 
-(92) Semantic classes of adjectives according to (Dixon 1977)
-Size (_bol'shoy_ 'big', _malen'kiy_ 'small', _dlinnyy_ 'long', _korotkiy_ 'short', _shirokiy_ 'wide', _uzkiy_ 'narrow', …)
-Physical properties (_zhestkiy_ 'hard', _myagkiy_ 'soft', _tyazhelyy_ 'heavy', _legkiy_ 'light', …)
-Color (_chernyy_ 'black', _belyy_ 'white', _krasnyy_ 'red', …)
-Human states (_revnivyy_ 'jealous', _schastlivyy_ 'happy', _dobryy_ 'kind', _umnyy_ 'smart', _veselyy_ 'cheerful', _zhestokiy_ 'cruel', …)
-Time (_novyy_ 'new', _molodoy_ 'young', _staryy_ 'old', …)
-Evaluation (_khoroshiy_ 'good', _plokhoy_ 'bad', _pravil'nyy_ 'correct', _sovershennyy_ 'perfect', …)
+(92) Semantic classes of adjectives according to (Dixon 1977)<br/>
+Size (_bol'shoy_ 'big', _malen'kiy_ 'small', _dlinnyy_ 'long', _korotkiy_ 'short', _shirokiy_ 'wide', _uzkiy_ 'narrow', …)<br/>
+Physical properties (_zhestkiy_ 'hard', _myagkiy_ 'soft', _tyazhelyy_ 'heavy', _legkiy_ 'light', …)<br/>
+Color (_chernyy_ 'black', _belyy_ 'white', _krasnyy_ 'red', …)<br/>
+Human states (_revnivyy_ 'jealous', _schastlivyy_ 'happy', _dobryy_ 'kind', _umnyy_ 'smart', _veselyy_ 'cheerful', _zhestokiy_ 'cruel', …)<br/>
+Time (_novyy_ 'new', _molodoy_ 'young', _staryy_ 'old', …)<br/>
+Evaluation (_khoroshiy_ 'good', _plokhoy_ 'bad', _pravil'nyy_ 'correct', _sovershennyy_ 'perfect', …)<br/>
 Speed (_bystryy_ 'fast', _medlennyy_ 'slow', …)
 
 Dixon's work examined 17 (unrelated) languages with a small number of adjectival lexemes. Based on what meanings are expressed by adjectives in these languages, Dixon identified the most "typologically in-demand" semantic classes. The hierarchy of such typological relevance of adjectival semantics is as follows (from rarer to more frequent meanings):
 
-(93) Semantic types regularly realized as adjectives (Dixon 1977)
-Speed
-Human states
-Physical properties
+(93) Semantic types regularly realized as adjectives (Dixon 1977)<br/>
+Speed<br/>
+Human states<br/>
+Physical properties<br/>
 -----------
-Size
-Evaluation = Color
+Size<br/>
+Evaluation = Color<br/>
 Time
 
 Below the line are meanings that have the strongest predisposition to be expressed using adjectives in a given language. It can be said that no matter how few adjectives there are in a given language, these classes (at least partially) will be expressed by adjectives.
 
 Another work dedicated to the classification of adjectives is the monograph (Shramm 1979), based on an analysis of 10,000 adjectives. Adjectives are divided into empirical and rational. Empirical adjectives define properties that are perceived by the senses. Properties introduced by rational adjectives are identified through specific reflection and/or analysis. Adjectives are also subdivided into types depending on the mode of perception:
 
-(94) Classes of adjectives according to (Shramm 1979)
-**Empirical**
-Vision (_chernyy_ 'black', _usatyy_ 'mustachioed', _pologiy_ 'gently sloping', …)
-Hearing (_tikhiy_ 'quiet', _gromkiy_ 'loud', _bezzvuchnyy_ 'silent', …)
-Smell (_medvyanoy_ 'honey-like', _chadnyy_ 'stuffy', _zatkhlyy_ 'musty', …)
-Taste (_sladkiy_ 'sweet', _solenyy_ 'salty', _presnyy_ 'bland', …)
-Touch (_zhidkiy_ 'liquid', _goryachiy_ 'hot', _sukhoi_ 'dry', _myagkiy_ 'soft', …)
-Muscle tension (_legkiy_ 'light', _krepkiy_ 'strong', _myagkiy_ 'soft', …)
+(94) Classes of adjectives according to (Shramm 1979)<br/>
+**Empirical**<br/>
+Vision (_chernyy_ 'black', _usatyy_ 'mustachioed', _pologiy_ 'gently sloping', …)<br/>
+Hearing (_tikhiy_ 'quiet', _gromkiy_ 'loud', _bezzvuchnyy_ 'silent', …)<br/>
+Smell (_medvyanoy_ 'honey-like', _chadnyy_ 'stuffy', _zatkhlyy_ 'musty', …)<br/>
+Taste (_sladkiy_ 'sweet', _solenyy_ 'salty', _presnyy_ 'bland', …)<br/>
+Touch (_zhidkiy_ 'liquid', _goryachiy_ 'hot', _sukhoi_ 'dry', _myagkiy_ 'soft', …)<br/>
+Muscle tension (_legkiy_ 'light', _krepkiy_ 'strong', _myagkiy_ 'soft', …)<br/>
 Several organs simultaneously (_yasnyy_ 'clear', _rykhlyy_ 'loose', _zrelyy_ 'ripe', …)
 
-**Rational**
-Specific human traits (_sil'nyy_ 'strong', _umnyy_ 'smart', _unylyy_ 'gloomy', …)
-Specific animal traits (_porodistyy_ 'pedigreed', _odichalyy_ 'feral', _khishchnyy_ 'predatory', …)
-Specific object traits (_smeshannyy_ 'mixed', _ustoychivyy_ 'stable', _zastoyalyy_ 'stagnant', _dolgiy_ 'long', …)
+**Rational**<br/>
+Specific human traits (_sil'nyy_ 'strong', _umnyy_ 'smart', _unylyy_ 'gloomy', …)<br/>
+Specific animal traits (_porodistyy_ 'pedigreed', _odichalyy_ 'feral', _khishchnyy_ 'predatory', …)<br/>
+Specific object traits (_smeshannyy_ 'mixed', _ustoychivyy_ 'stable', _zastoyalyy_ 'stagnant', _dolgiy_ 'long', …)<br/>
 Traits of human / animal / objects (_otlichnyy_ 'excellent', _simpatichnyy_ 'nice', _poleznyy_ 'useful', _gadkiy_ 'nasty', _krasivyy_ 'beautiful', …)
 
 Such semantic types can receive further subdivision with the participation of features 'relates to inanimate object', 'relates to living creature', e.g.: _nerovnaya liniya_ 'uneven line', _iskhudalyy chelovek_ 'emaciated person', etc. Shramm also identifies a class of Evaluative adjectives with different evaluation criteria.
@@ -1154,40 +1154,53 @@ As we will show in Chapter 3, in the area of adjectival government in Russian, t
 
 Adjectives in Russian serve an extremely wide range of vocabulary – possibly even more extensive than in some European languages. Let's first list the classes of Russian adjectives that can introduce their own participants, and then other significant semantic classes of adjectives in Russian:
 
-(95) Semantic classes of Russian adjectives that take dependents
-a. EVALUATIVE
+(95) Semantic classes of Russian adjectives that take dependents<br/>
+a. EVALUATIVE<br/>
    _vazhnyy_ 'important', _velikiy_ 'great', _vtorostepennyy_ 'secondary', _gadkiy_ 'nasty', _dorogoy_ 'dear', _zhutkiy_ 'creepy', _zabavnyy_ 'funny', _zagadochnyy_ 'mysterious', _zamanchivyy_ 'tempting', _zanyatnyy_ 'amusing', _zarazitel'nyy_ 'infectious', _interesnyy_ 'interesting', _omerzitel'nyy_ 'disgusting', _otvratitel'nyy_ 'repulsive', _prekrasnyy_ 'beautiful', _plokhoy_ 'bad', _skuchnyy_ 'boring', _udachnyy_ 'successful', _khoroshiy_ 'good', _chudovishchnyy_ 'monstrous'…
-b. TEMPORAL
-   DURATION (_novyy_ 'new', _staryy_ 'old')
+
+b. TEMPORAL<br/>
+   DURATION (_novyy_ 'new', _staryy_ 'old')<br/>
    SPEED (_dolgiy_ 'long', _kratkiy_ 'brief')
-c. SPATIAL
+
+c. SPATIAL<br/>
    _blizhniy_ 'near', _blizkiy_ 'close', _dalekiy_ 'far', _dal'niy_ 'distant'
-d. IDENTITY
+
+d. IDENTITY<br/>
    _zhenatyy_ 'married', _identichnyy_ 'identical', _odinakovyy_ 'same', _parallel'nyy_ 'parallel', _pokhozhiy_ 'similar', _ravnyy_ 'equal', _razlichnyy_ 'different', _raznyy_ 'various', _skhozhiy_ 'similar', _tozhdestvennyy_ 'identical', _ekvivalentnyy_ 'equivalent'
-e. EMOTIONAL RELATION
+
+e. EMOTIONAL RELATION<br/>
    _agressivnyy_ 'aggressive', _bezrazlichnyy_ 'indifferent', _bespristrastnyy_ 'impartial', _blagozhelatel'nyy_ 'benevolent', _vezhlivyy_ 'polite', _vnimatel'nyy_ 'attentive', _vrazhdebnyy_ 'hostile', _gostepriimnyy_ 'hospitable', _grubyy_ 'rude', _dobrozhelatel'nyy_ 'kind', _dobryy_ 'good', _druzhelyubnyy_ 'friendly', _zabotlivyy_ 'caring', _zloy_ 'evil', _miloserdnyy_ 'merciful', …
-f. BENEFACTIVE
+
+f. BENEFACTIVE<br/>
    _vrednyy_ 'harmful', _vygodnyy_ 'profitable', _opasnyy_ 'dangerous', _poleznyy_ 'useful', _udobnyy_ 'convenient', _tsennyy_ 'valuable', _chrevatyy_ 'fraught'
-g. KNOWNNESS
+
+g. KNOWNNESS<br/>
    _znakomyy_ 'familiar', _znamenityy_ 'famous', _izvestnyy_ 'known', _populyarnyy_ 'popular', _proslavlennyy_ 'renowned'
-h. TYPICALITY
+
+h. TYPICALITY<br/>
    _obyknovennyy_ 'ordinary', _obychnyy_ 'usual', _privychnyy_ ' привычный', _svoystvennyy_ 'characteristic', _spetsificheskiy_ 'specific', _tipichnyy_ 'typical', _kharakternyy_ 'characteristic', …
-i. CONTENT
+
+i. CONTENT<br/>
    _bogatiy_ 'rich', _bednyy_ 'poor', _polnyy_ 'full', _pustoy_ 'empty'
 
-(96) Semantic classes of Russian adjectives that do not have dependents
-j. SIZE
+(96) Semantic classes of Russian adjectives that do not have dependents<br/>
+j. SIZE<br/>
    _dlinnyy_ 'long', _korotkiy_ 'short', _vysokiy_ 'tall', _nizkiy_ 'low', _shirokiy_ 'wide', _uzkiy_ 'narrow', _glubokiy_ 'deep', _protyazhennyy_ 'extended', …
-k. PHYSICAL PROPERTIES
-   COLOR (_chernyy_ 'black', _krasnyy_ 'red', _zelenyy_ 'green', …)
-   TOUCH (_zhidkiy_ 'liquid', _goryachiy_ 'hot', _sukhoi_ 'dry', _myagkiy_ 'soft', …)
-   HEARING (_tikhiy_ 'quiet', _gromkiy_ 'loud', _bezzvuchnyy_ 'silent', …)
-   SMELL (_medvyanoy_ 'honey-like', _chadnyy_ 'stuffy', _zatkhlyy_ 'musty', …)
-   TASTE (_syroy_ 'raw', _sladkiy_ 'sweet', _solenyy_ 'salty', _gor'kiy_ 'bitter', …)
+
+k. PHYSICAL PROPERTIES<br/>
+   COLOR (_chernyy_ 'black', _krasnyy_ 'red', _zelenyy_ 'green', …)<br/>
+   TOUCH (_zhidkiy_ 'liquid', _goryachiy_ 'hot', _sukhoi_ 'dry', _myagkiy_ 'soft', …)<br/>
+   HEARING (_tikhiy_ 'quiet', _gromkiy_ 'loud', _bezzvuchnyy_ 'silent', …)<br/>
+   SMELL (_medvyanoy_ 'honey-like', _chadnyy_ 'stuffy', _zatkhlyy_ 'musty', …)<br/>
+   TASTE (_syroy_ 'raw', _sladkiy_ 'sweet', _solenyy_ 'salty', _gor'kiy_ 'bitter', …)<br/>
    WEIGHT (_tverdyy_ 'hard', _legkiy_ 'light', _krepkiy_ 'strong', _myagkiy_ 'soft', …)
+
 l. CHARACTER TRAITS AND HUMAN STATES (_revnivyy_ 'jealous', _schastlivyy_ 'happy', _dobrodushnyy_ 'good-natured', _umnyy_ 'smart', _veselyy_ 'cheerful', _ugryumyy_ 'gloomy', …)
+
 m. PLACE (_novgorodskiy_ 'Novgorod', _rechnoy_ 'river', …)
+
 n. NATIONALITY (_nemetskiy_ 'German', _yaponskiy_ 'Japanese', …)
+
 o. MATERIAL (_kamennyy_ 'stone', _zolotoy_ 'golden', …)
 
 In subsequent sections, we will show that elements within one class often demonstrate similarity in grammatical properties. Adjectives of different classes, on the contrary, may be contrasted with each other by their distributional features in Russian or by how they are represented in a given language.
@@ -1233,29 +1246,32 @@ An adjunct (AP) is a phrase that attaches to some maximal level of projection. U
 
 Let's start by defining whether an attributive adjective is a head or a phrase. In Russian, full forms (FF) of adjectives with complements are permissible in attributive function:
 
-(98) (internet)
-a. Opytnyy gipnotizer smozhet vvesti v gipnoz lyubogo [AdjP soglasnogo [na eto]] cheloveka.
-   experienced hypnotist will.be.able introduce into hypnosis any agreeing to this person
+(98) (internet)<br/>
+a. Opytnyy gipnotizer smozhet vvesti v gipnoz lyubogo [AdjP soglasnogo [na eto]] cheloveka.<br/>
+   experienced hypnotist will.be.able introduce into hypnosis any agreeing to this person<br/>
    'An experienced hypnotist will be able to hypnotize anyone who agrees to it.'
-b. Kazhdyy [AdjP zhenatyy [na inostranke]] muzhchina dolzhen dokazat', chto sposoben obespechit' zhenu.
-   every married on foreigner man must prove that able provide wife
+
+b. Kazhdyy [AdjP zhenatyy [na inostranke]] muzhchina dolzhen dokazat', chto sposoben obespechit' zhenu.<br/>
+   every married on foreigner man must prove that able provide wife<br/>
    'Every man married to a foreign woman must prove that he is able to provide for his wife.'
-c. Ya dazhe ne znayu, gde mozhno nayti [AdjP dovol'nuyu [svoim rostom]] nizkuyu devushku.
-   I even not know where can find satisfied by.her height short girl
+
+c. Ya dazhe ne znayu, gde mozhno nayti [AdjP dovol'nuyu [svoim rostom]] nizkuyu devushku.<br/>
+   I even not know where can find satisfied by.her height short girl<br/>
    'I don't even know where one can find a short girl satisfied with her height.'
 
 In some languages, attributive adjectives cannot attach complements, but the ability to combine with intensifiers seems universal:
 
-(99) English
+(99) English<br/>
 an [AdjP enormously large] number of combinations
-(100) Kalmyk
-[ AdjP yir ukhata ] kövün
-very smart boy
+
+(100) Kalmyk<br/>
+[ AdjP yir ukhata ] kövün<br/>
+very smart boy<br/>
 'very smart boy'
 
-(101) Portuguese
-o trabalho [ AdjP mais difícil ]
-DEF work most difficult
+(101) Portuguese<br/>
+o trabalho [ AdjP mais difícil ]<br/>
+DEF work most difficult<br/>
 'the most difficult work'
 
 From the examples above, it can be concluded that attributive adjectives have the status of a phrase, not a head. The following analysis options have been proposed for determining the position of adjectives in the noun phrase, see also the overview in (Pysz 2008).
@@ -1271,13 +1287,13 @@ is, perhaps, the inability of such an analysis to explain a certain kind of orde
 
 Secondly, according to the approach adopted in the so-called cartographic paradigm, adjectives in the noun phrase can be considered as elements of functional structure, see (Cinque 1993; 2010). With this approach, two analysis options are possible: in (Cinque 1993), adjectives were considered as specifiers of functional projections, see also (Bernstein 1993; Laenzlinger 2000), etc. Cinque, Bernstein, et al. propose that adjectives, primarily adjectives of nationality, are generated in the specifier position of a nominal projection and can express semantic roles. In cases like:
 
-(103) Italian
-l'invasione italiana dell'Albania
+(103) Italian<br/>
+l'invasione italiana dell'Albania<br/>
 'the Italian invasion of Albania'
 
 the adjective of nationality is the agent for the action noun _vtorzhenie_ 'invasion' and is originally located in the specifier of the projection headed by this noun. After the noun raises, we observe the indicated surface structure:
 
-(104) Italian
+(104) Italian<br/>
 l'invasione t [ NP italiana t] dell'Albania
 
 Arguments in favor of locating adjectives in the specifier projection include a fixed linear order in the case of multiple adjectives and a restriction on the number of possible adjectives determined by the set of functional projections. The supposed advantages of such an approach, it seems, are simultaneously its disadvantages: restrictions on order are not truly full-fledged restrictions, and the number of adjectives, it appears, depends only on working memory and parsing ease. The approach to adjectives as specifiers of relevant functional projections can be represented as follows:
@@ -1287,8 +1303,8 @@ Arguments in favor of locating adjectives in the specifier projection include a 
 
 In later works, see primarily (Cinque 2010), Cinque tends to view adjectives (of so-called direct modification) as functional heads. This approach harks back to S. Abney's dissertation, who considered attributive adjectives to be A⁰-heads with an NP-complement:
 
-(106) English
-(Abney 1987: 208)
+(106) English<br/>
+(Abney 1987: 208)<br/>
 [ DP a [ AP [ A proud ] [ NP man ]]]
 
 Cinque proposed that there can be several adjective projections, and they are hierarchically ordered depending on semantics. The lowest adjective in the hierarchy takes the noun phrase as its complement:
@@ -1302,14 +1318,14 @@ Regardless of whether adjectives are considered specifiers or heads, there is an
 
 A third possibility is to consider the adjective phrase as deriving from a (reduced) relative clause. In English-language literature, such an analysis is primarily associated with (Kayne 1994) and the same foundational work by Cinque (Cinque 1993). Many researchers have been interested in the reasons for the difference in adjective placement in Romance and Germanic languages (postposition and pre-position, respectively). Striving to create a universal structure from which any surface order of attributes could be derived, R. Kayne proposes a structure with a reduced subordinate clause and subsequent noun raising. Kayne suggests that the noun phrase 'yellow book' in French and English (_le livre jaune_ and _the yellow book_ respectively) begin to be generated identically, occupying a predicate position:
 
-(108) (Kayne 1994: 100-101)
-a. le [ CP [C 0 [ TP [ livre ] [I 0 [ jaune ]]]]]
+(108) (Kayne 1994: 100-101)<br/>
+a. le [ CP [C 0 [ TP [ livre ] [I 0 [ jaune ]]]]]<br/>
 b. the [ CP [C 0 [ TP [ book ] [I 0 [ yellow ]]]]]
 
 In both languages, the adjective then raises to the specifier position of the subordinate clause, Spec, CP:
 
-(109) (Kayne 1994: 100-101)
-a. le [ CP [ XP jaune ] j [C 0 [ TP [ livre ] [I 0 [e] j ]]]]
+(109) (Kayne 1994: 100-101)<br/>
+a. le [ CP [ XP jaune ] j [C 0 [ TP [ livre ] [I 0 [e] j ]]]]<br/>
 b. the [ CP [ XP yellow ] j [C 0 [ TP [ book ] [I 0 [e] j ]]]]
 
 Finally, in French, the head noun moves to the position of some functional projection F⁰ dominating the relative clause, while in English it remains in situ (see (110) on p. 80).
@@ -1365,33 +1381,38 @@ Instances of noun phrases consisting of the same elements but in different forms
 
 Ultimately, for the chosen semantic classes, 1490 unique examples were obtained, containing 610 non-repeating pairs of adjectives of the following type:
 
-(112) (collection of texts by late 20th-century authors)
-a. V dome, krome nego, ostavalsya lish' Purishkevich, kotoryy podnyalsya v kabinet i nabrasyval chto-to v [bol'shom chernom bloknote], vozmozhno, svoyu zavtrashnyuyu rech' v Dume.
+(112) (collection of texts by late 20th-century authors)<br/>
+a. V dome, krome nego, ostavalsya lish' Purishkevich, kotoryy podnyalsya v kabinet i nabrasyval chto-to v [bol'shom chernom bloknote], vozmozhno, svoyu zavtrashnyuyu rech' v Dume.<br/>
    'In the house, besides him, only Purishkevich remained, who went up to the office and sketched something in a [big black notebook], possibly his tomorrow's speech in the Duma.'
-b. Ta sidela delovitaya, v [serom angliyskom kostyume], vela razgovor s klientom, uvidela Shevrikuku, vskochila.
+
+b. Ta sidela delovitaya, v [serom angliyskom kostyume], vela razgovor s klientom, uvidela Shevrikuku, vskochila.<br/>
    'She sat business-like, in a [gray English suit], conversed with a client, saw Shevrikuka, and jumped up.'
-c. …oni preodoleli rasstoyanie v 6700 km i dostigli Kupangi, [nebol'shoy gollandskoy faktorii] na ostrove Timor…
+
+c. …oni preodoleli rasstoyanie v 6700 km i dostigli Kupangi, [nebol'shoy gollandskoy faktorii] na ostrove Timor…<br/>
    '…they covered a distance of 6700 km and reached Kupang, a [small Dutch trading post] on the island of Timor…'
-d. Imenno ona svoim verdiktom vynosila nedavno obvinitel'nyy prigovor [plokhikh rossiyskim dorogam] i neradivym stroitelyam etikh samykh dorog.
+
+d. Imenno ona svoim verdiktom vynosila nedavno obvinitel'nyy prigovor [plokhikh rossiyskim dorogam] i neradivym stroitelyam etikh samykh dorog.<br/>
    'It was she who recently, with her verdict, issued a condemning sentence for [bad Russian roads] and the negligent builders of those very roads.'
-e. Pozvonil [staryy belyy telefon] s gerbom SSSR.
+
+e. Pozvonil [staryy belyy telefon] s gerbom SSSR.<br/>
    'An [old white telephone] with the USSR emblem rang.'
 
 The number of class-grouped pairs was counted. For instance, the SIZE-COLOR order was observed in 773 cases, and the reverse order in 95; the COLOR-MATERIAL order in 6 cases, and the reverse in 5, and so on.⁶ As a result, the following pairs of classes showing significant correlations were formed:
 
 ⁶ The data were evaluated in two ways. Firstly, the possibility that the variation results in pairs coincided with an equiprobable distribution (0.5 – half of the cases in direct order, half in reverse order) was checked. If the significance level of such an outcome was below 0.33, the pairs were considered ordered. Additionally, using the χ² criteria (with Yates' correction in case of small expected frequencies) and Fisher's exact test at a significance level of 0.05, the hypothesis that each specific pair was ordered non-randomly was tested.
 
-(113) Ordered pairs of Russian attributive adjectives of different semantic classes
+(113) Ordered pairs of Russian attributive adjectives of different semantic classes<br/>
 SIZE-TIME; SIZE-EVALUATION; SIZE-COLOR; SIZE-MATERIAL; SIZE-NATIONALITY; SIZE-PLACE; EVALUATION-COLOR; EVALUATION-NATIONALITY; TIME-COLOR; TIME-MATERIAL; TIME-NATIONALITY; TIME-PLACE; COLOR-MATERIAL; COLOR-NATIONALITY
 
 Such pairs of classes are consistently ordered into the following sequence (classes on the same vertical level do not show mutual priority):
 
-(114) Order of Russian attributive adjectives of different semantic classes
-SIZE
-EVALUATION
-TIME
-COLOR
-MATERIAL NATIONALITY
+(114) Order of Russian attributive adjectives of different semantic classes<br/>
+SIZE<br/>
+EVALUATION<br/>
+TIME<br/>
+COLOR<br/>
+MATERIAL<br/>
+NATIONALITY<br/>
 PLACE
 
 The very fact that no contradictions arise when ordering individual pairs indicates the presence of a hierarchy. As can be seen, adjectives of the semantic class SIZE are located "farthest" from the noun, while adjectives of the classes MATERIAL, NATIONALITY, and PLACE are "closest" to the head noun. The classes EVALUATION and TIME are located after SIZE, followed by COLOR, and then the three final classes.
@@ -1407,13 +1428,16 @@ In Cinque's works, see also (Pereltsvaig 2007), et al., it is argued that the or
 
 Cinque provides the following restrictions on the order of adjectives in the world's languages:
 
-(116) (Cinque 2010: 39)
-a. English, Chinese
-> A_size > A_color > A_nationality > N
+(116) (Cinque 2010: 39)<br/>
+a. English, Chinese<br/>
+A_size > A_color > A_nationality > N<br/>
+
 b. * A_nationality > A_color > A_size > N
-c. Welsh, Irish
+
+c. Welsh, Irish\
 N > A_size > A_nationality > N
-d. Indonesian, Yoruba
+
+d. Indonesian, Yoruba\
 [ A_size [ A_color [ A_nationality N ] ] ]
 
 In languages like English or Russian, all elements receive surface expression in their base positions. In languages with pre-nominal adjectives, one of two scenarios is possible. On the one hand, the core noun phrase (the noun and some minimal projection of it) can successively raise to the specifier of some higher functional projection – this yields an order of type (c):
@@ -1428,12 +1452,14 @@ Another scenario is movement in the spirit of "pied-piping", see (Testelec 2001:
 
 Note that a similar analysis was previously proposed to explain facts of the Greek language, see (Alexiadou, Wilder 1998). As we can see, the inversion of different adjective types according to Cinque is a consequence of the initial movement of the noun phrase's core projection. Russian, utilizing a certain freedom of placement, which seems universally available to adjectives, exhibits variations in order. The examples provided below were obtained within the framework of the experiment described above and correspond to the orders A_nationality > A_color > N; A_nationality > A_size > N and A_color > A_size > N:
 
-(119) (collection of texts by late 20th-century authors)
-a. Rezko povernuvshis' na vinte tabureta, ko mne obratilsya nebol'shogo rosta chelovek s [frantsuzskoy chernoy borodkoy]…
+(119) (collection of texts by late 20th-century authors)<br/>
+a. Rezko povernuvshis' na vinte tabureta, ko mne obratilsya nebol'shogo rosta chelovek s [frantsuzskoy chernoy borodkoy]…<br/>
    'Turning sharply on the stool's screw, a man of short stature with a [French black goatee] turned to me…'
-b. Kak na [yaponskom melkom kalendare], pri smeshchenii ego, voznikaet novaya kartinka…
+
+b. Kak na [yaponskom melkom kalendare], pri smeshchenii ego, voznikaet novaya kartinka…<br/>
    'As on a [Japanese small calendar], upon its shifting, a new picture appears…'
-c. …gorbun, okazyvaetsya, pristal'no smotrit na menya, a na [krasnykh dlinnykh gubakh] ego bluzhdaet ulybka…
+
+c. …gorbun, okazyvaetsya, pristal'no smotrit na menya, a na [krasnykh dlinnykh gubakh] ego bluzhdaet ulybka…<br/>
    '…the hunchback, it turns out, looks intently at me, and a smile wanders on his [red long lips]…'
 
 Such variations in order, according to Cinque's proposed mechanism, should be impossible in languages with pre-nominal adjectives, since the adjective phrase cannot move on its own – only with the head of the noun phrase.
@@ -1451,12 +1477,13 @@ As we have seen, the variability in adjective order in the Russian noun phrase s
 
 The absence of a strict order is demonstrated, for example, by Uralic languages:
 
-(121) Moksha
-(Pleshak 2017: 64)
-a. Mə̈n' jakšar toštə̑ jupkə̑-m čie-m.
+(121) Moksha<br/>
+(Pleshak 2017: 64)<br/>
+a. Mə̈n' jakšar toštə̑ jupkə̑-m čie-m.<br/>
    I red old skirt-ACC wear-NPST-1.SG
-b. Mə̈n' toštə̑ jakšar jupkə̑-m čie-m.
-   I old red skirt-ACC wear-NPST-1.SG
+
+b. Mə̈n' toštə̑ jakšar jupkə̑-m čie-m.<br/>
+   I old red skirt-ACC wear-NPST-1.SG<br/>
 'I will put on an old red skirt.'
 
 It appears that what we observe in Russian, English, and other languages is in reality not a strict ordering of different types of projections, but rather a tendency towards a specific arrangement. Adjunction is more consistent with regularities of this kind than a hierarchy of functional projections. The following facts speak in favor of adjunction: i) an arbitrary number of adjectives in the noun phrase; ii) a relatively free order of their placement; iii) the absence in individual adjective classes of characteristic grammatical features that would be checked during derivation in a given functional projection.
@@ -1472,13 +1499,16 @@ Let us present the results of another small study, this time related to the diac
 (122) Old Russian<br/>
 (Syntacticus: Lavr. let.)<br/>
 a. … probězha lęḑskuyu zemlyu …<br/>
-   '… ran through the Polish land …'<br/>
+   '… ran through the Polish land …'
+
 b . … so vsěmi lyud'mi grech'skimi na vsya lěta …<br/>
-   '… with all Greek people for all years …'<br/>
+   '… with all Greek people for all years …'
+
 c. Pridosha pechenězi na rusku zemlyu …<br/>
-   'The Pechenegs came to the Russian land …'<br/>
+   'The Pechenegs came to the Russian land …'
+
 d. … ponezhe uchilŭ est' yazykŭ slověneskŭ …<br/>
-   '… because he taught the Slavic language …'<br/>
+   '… because he taught the Slavic language …'
 
 It must be noted immediately that the lexical type of the head (at least at first glance) does not determine the order of adjectives. For example, the nouns _zemlya_ 'land' and _yazyk_ 'language' allow both pre- and post-position.
 
@@ -1496,28 +1526,29 @@ The restructuring of the noun phrase with adjectives in the history of the Russi
 
 In the Mishar dialect of Tatar, as in other Turkic languages, there are a number of markers capable of forming both individual stems and entire constituents, see Chapter 4 for more details. When attached to individual (nominal) stems, such markers generally form gradable adjectives. The order of placement in pairs of derived and non-derived adjectives is relatively free (as in Russian translations):
 
-(123) Mishar
-a. keč-le üźin yeget
-   strength-ATR tall guy
+(123) Mishar<br/>
+a. keč-le üźin yeget<br/>
+   strength-ATR tall guy<br/>
    'a strong tall guy'
-b. üźin keč-le yeget
-   tall strength-ATR guy
+
+b. üźin keč-le yeget<br/>
+   tall strength-ATR guy<br/>
    'a tall strong guy'
 
 However, if markers like _-lɤ_ attach to a constituent, the order becomes fixed:
 
-(124) Mishar
-[ ak tap ]- lɤ zur sɤjɤr
-white spot-ATR big cow
-i) 'a big cow with white spots'
-ii) * 'a cow with big white spots'
+(124) Mishar<br/>
+[ ak tap ]- lɤ zur sɤjɤr<br/>
+white spot-ATR big cow<br/>
+i) 'a big cow with white spots'<br/>
+ii) * 'a cow with big white spots'<br/>
 iii) * 'a big white spotted cow'
 
-(125) Mishar
-zur ak tap-lɤ sɤjɤr
-big white spot-ATR cow
-i) * 'a big cow with white spots'
-ii) 'a cow with big white spots' {[ zur ak tap ]- lɤ sɤjɤr }
+(125) Mishar<br/>
+zur ak tap-lɤ sɤjɤr<br/>
+big white spot-ATR cow<br/>
+i) * 'a big cow with white spots'<br/>
+ii) 'a cow with big white spots' {[ zur ak tap ]- lɤ sɤjɤr }<br/>
 iii) * 'a big white spotted cow'
 
 As the examples show, placing an attributivized constituent after a single adjective entails a change in meaning. The marker _-lɤ_ requires all preceding adjectives to be associated with the stem it modifies (while all adjectives to the right of _-lɤ_ relate to the head noun). It appears there are two reasons why extended dependents with _-lɤ_ must be located to the left of adjectives.
@@ -1530,15 +1561,15 @@ The second reason why the order "branching first, then non-branching dependents"
 
 The following two examples present Mishar noun phrases with leftward extraction of heavy dependents (what actually occurs) and a (hypothetical) structure with an attributivized constituent in situ:
 
-(126) Mishar
-zenger küz-le matur kyz
-1 / 1 1 / 2 1 / 3 1 / 4 (1 + 1 / 2 + 1 / 3 + 1 / 4) / 4 = 100 %
+(126) Mishar<br/>
+zenger küz-le matur kyz<br/>
+1 / 1 1 / 2 1 / 3 1 / 4 (1 + 1 / 2 + 1 / 3 + 1 / 4) / 4 = 100 %<br/>
 'a beautiful girl with blue eyes'
 
-(127) Mishar
-* [ matur ] [ zenger küz-le ] [ kɤz ]
-beautiful blue eye-ATR girl
-1 / 1 2 / 2 2 / 3 3 / 4 ( 1 + 1 + 2⁄3 + 3⁄4) / 4 = 85 %
+(127) Mishar<br/>
+\*[ matur ] [ zenger küz-le ] [ kɤz ]<br/>
+beautiful blue eye-ATR girl<br/>
+1 / 1 2 / 2 2 / 3 3 / 4 ( 1 + 1 + 2⁄3 + 3⁄4) / 4 = 85 %<br/>
 Expected: 'a beautiful girl with blue eyes'
 
 The parsing efficiency in the first case is 100%, and in the second - 85%. The structure in which attributivized constituents are placed before single adjectives turns out to be more economical from the perspective of the listener's working memory. As a consequence, it is this structure that becomes grammaticalized in Turkic languages.
@@ -1558,31 +1589,31 @@ Thus, for languages with attributive adjective agreement, the following approach
 
 However, agreement in the noun phrase, as is known, is a parameter of typological variation. Russian prohibits the use of modifiers without an agreement position: *_khaki kurtka_ 'khaki jacket', *_lyuks otel'_ 'luxury hotel'. Such indeclinable units can be used attributively within genitives of quality¹¹: _kurtka tsveta khaki_ 'jacket of khaki color', _otel' klassa lyuks_ 'hotel of luxury class', etc. In the examples from other languages provided below, adjectives are also obliged to reflect grammatical categories relevant to the noun phrase:
 
-(128) Estonian
-need punased õunad
-this.NOM.PL red.NOM.PL apple.Nom.Pl
+(128) Estonian<br/>
+need punased õunad<br/>
+this.NOM.PL red.NOM.PL apple.Nom.Pl<br/>
 'these red apples'
 
-(129) French
-grand-e-s maison-s vert-e-s
-big-F-PL house-PL green-F-PL
+(129) French<br/>
+grand-e-s maison-s vert-e-s<br/>
+big-F-PL house-PL green-F-PL<br/>
 'big green houses'
 
-(130) Danish
-(Norris et al. 2014: 627)
-det stor-e gul-e håndklæde
-DEF big-DEF yellow-DEF towel
+(130) Danish<br/>
+(Norris et al. 2014: 627)<br/>
+det stor-e gul-e håndklæde<br/>
+DEF big-DEF yellow-DEF towel<br/>
 'the big yellow towel'
 
-(131) Swahili
-(Carstens 2016: 7)
-kitabu ki-zuri sana
-book(7) 7-good very
+(131) Swahili<br/>
+(Carstens 2016: 7)<br/>
+kitabu ki-zuri sana<br/>
+book(7) 7-good very<br/>
 'a very good book'
 
-(132) Bagvalal
-c'inu=b mašina
-new=N machine
+(132) Bagvalal<br/>
+c'inu=b mašina<br/>
+new=N machine<br/>
 'a new car'
 
 ¹¹ For genitives of quality, see section 4.4.
@@ -1591,26 +1622,26 @@ In the Estonian example, adjectives copy the values of number and case; in Frenc
 
 In many languages, however, attributive adjectives do not receive any grammatical markers:
 
-(133) Tubalar
-…t'aš kiž-ler-ni qar-a su-p-ler
-young person-PL-ACC snow-DAT hide-PRES-3.PL
+(133) Tubalar<br/>
+…t'aš kiž-ler-ni qar-a su-p-ler<br/>
+young person-PL-ACC snow-DAT hide-PRES-3.PL<br/>
 '…they bury young people in the snow.'
 
-(134) Kalmyk
-(Internet)
-shin degtr-müd-in tusk survr-mud
-new book-PL-GEN about question-PL
+(134) Kalmyk<br/>
+(Internet)<br/>
+shin degtr-müd-in tusk survr-mud<br/>
+new book-PL-GEN about question-PL<br/>
 'questions about new books'
 
-(135) Moksha
-(Pleshak 2017: 64)
-Mə̈n' toštə̑ jakšar jupkə̑-m čie-m.
-I old red skirt-ACC wear-NPST-1.SG
+(135) Moksha<br/>
+(Pleshak 2017: 64)<br/>
+Mə̈n' toštə̑ jakšar jupkə̑-m čie-m.<br/>
+I old red skirt-ACC wear-NPST-1.SG<br/>
 'I will put on an old red skirt.'
 
-(136) Circassian
-Pase zemany-m adyge-khe-m zy khabze ya-I-et.
-early time-ERG Adyghe-PL-ERG one custom 3.PL.AG-have-REL.PAST
+(136) Circassian<br/>
+Pase zemany-m adyge-khe-m zy khabze ya-I-et.<br/>
+early time-ERG Adyghe-PL-ERG one custom 3.PL.AG-have-REL.PAST<br/>
 'In former times, the Adyghe people had such a custom.'
 
 As we can see, adjectives in the noun phrases of Tubalar, Kalmyk, Moksha, and Circassian do not express any grammatical information. All grammatical markers relevant to noun phrases in these languages are located on the nominal head, which is at the end of the nominal constituent. In this regard, the following questions arise: i) Is the "non-agreement" strategy only related to the absence of corresponding morphology on the adjective, or does the absence of agreement also extend to nouns? ii) What do grammatical markers mark in the absence of agreement – only the nominal head or the entire nominal constituent?
@@ -1619,54 +1650,54 @@ We believe that grammatical markers (case, number, etc.) in languages without no
 
 Firstly, when substantivized in such languages, adjectives necessarily express all the same grammatical meanings as nouns:
 
-(137) Tubalar
-Men kara-tar-nɨ köre-m.
-I black-PL-ACC see-1.SG
+(137) Tubalar<br/>
+Men kara-tar-nɨ köre-m.<br/>
+I black-PL-ACC see-1.SG<br/>
 'I saw some black ones.'
 
 The example from Tubalar shows that adjectives, in the absence of a noun, can freely take number and case markers. Consequently, the point is not at all that nouns in such languages have a morphological position for expressing grammatical meanings while adjectives do not.
 
 Furthermore, if an adjective appears in the noun phrase after the noun, then grammatical markers are expressed on the adjective, not the noun. Above, we observed that in Circassian, the ergative marker can express a locative meaning, marking the (final) noun in the noun phrase 'in former times'. The following Circassian example contains a noun phrase in which the adjective is placed after the noun:
 
-(138) Circassian
-Gu ts'yq'w-m i-ri-ɣe-t'ysḥe-r-i
-cart small-ERG LOC-3.SG.AG-CAUS-sit-ABS-AOR
-y adә-r ḥwəmurə bgy-m n-i-še-sa-ś.
-his father-ABS quietly mountain-ERG DIR-3.SG.AG-carry-LOC-AOR
+(138) Circassian<br/>
+Gu ts'yq'w-m i-ri-ɣe-t'ysḥe-r-i<br/>
+cart small-ERG LOC-3.SG.AG-CAUS-sit-ABS-AOR<br/>
+y adә-r ḥwəmurə bgy-m n-i-še-sa-ś.<br/>
+his father-ABS quietly mountain-ERG DIR-3.SG.AG-carry-LOC-AOR<br/>
 'He put his father in the small cart and quietly drove him to the mountain.'
 
 As we can see, the ergative (also with a locative meaning) here attaches to the adjective, or rather, it still marks the end of the nominal constituent. In Basque, adjectives are always in post-position and also take all grammatical markers:
 
-(139) Basque
-Aitak bi zuhaitz zaharr-i adarrak moztu
-father two tree old-DAT branches cut
-z-i-zki-e-n.
-3.SG-DAT-3.PL-3.PL-PST
+(139) Basque<br/>
+Aitak bi zuhaitz zaharr-i adarrak moztu<br/>
+father two tree old-DAT branches cut<br/>
+z-i-zki-e-n.<br/>
+3.SG-DAT-3.PL-3.PL-PST<br/>
 'The father cut the branches from two old trees.'
 
 The situation is similar in the Sino-Tibetan language Manang, where adjectives are also in post-position and take case marking:
 
-(140) Manang
-(Genetti, Hildebrandt 2004: 90)
-²kyu ¹thyʌ-pʌ=ri ¹thē¹tʌ-tsi.
-water big-NMN=LOC throw become-PFCT
+(140) Manang<br/>
+(Genetti, Hildebrandt 2004: 90)<br/>
+²kyu ¹thyʌ-pʌ=ri ¹thē¹tʌ-tsi.<br/>
+water big-NMN=LOC throw become-PFCT<br/>
 'They throw [it] into the big water.'
 
 As we can see, we are faced with two types of languages. On the one hand, languages that have a special position in the word form structure (adjectival, nominal, etc.) allowing the expression of relevant grammatical categories. On the other, languages without such a position.
 
 It can be assumed that in languages like Russian or Estonian, the adjective word form contains a special marker responsible for the agreement mechanism. Such an analysis was substantiated in (Halle, Matushansky 2006) using Russian data. Halle and Matushansky propose that the Russian adjectival word form contains a special functional element, phonologically realized as _oj_ and responsible for adjectives expressing the category of case:
 
-(141) (Halle, Matushansky 2006: 360)
+(141) (Halle, Matushansky 2006: 360)<br/>
 STEM + oj + AGR
 
 This element is contained in the morphological structure of FF adjectives, which allows full forms to express case grammeme values. Short forms do not have such an element in their word form structure and are, accordingly, deprived of this possibility. According to (Halle, Matushansky 2006), both FF adjectives and nouns have similar thematic markers. In the case of adjectives, the presence of this morpheme is, in fact, responsible for attributive usage.
 
 Thus, in the case of languages with agreement, a functional element (labeled as _adj_ in the diagram below) responsible for agreement and attributive usage can be established. It can be argued that in languages without agreement, word forms (both adjectival and nominal) do not contain a position responsible for copying grammatical features, and the relevant grammatical markers mark the entire noun phrase. The A projection, responsible for attributive usage, is universal and present in the word form structure of any language:
 
-(142) Languages with agreement (Russian, Estonian, …)
+(142) Languages with agreement (Russian, Estonian, …)<br/>
 [ NP … [ adj [ adj {number,case, …} ] [ A A [ Adj Adj]]] … [N NOUN]]
 
-(143) Languages without agreement (English, Tubalar, …)
+(143) Languages without agreement (English, Tubalar, …)<br/>
 [ NP … [ A A [ Adj Adj]] … [N NOUN]]-{number,case, …}
 
 It is noteworthy that in Russian, the belonging of a lexeme to the adjective class is not linked to the agreement head [adj]. On the contrary, the fact that a certain unit belongs to this class allows it to attach [adj]. Stems that either inherently contain an indication of belonging to the adjectival category or are marked with the corresponding marker (_-n_, _-sk_, …) gain the ability to express agreement.
@@ -1702,16 +1733,17 @@ Let us say a few words about the nature of the head A, responsible for attributi
 
 In Tatar, as in other Turkic languages, adjectival and nominal lexemes may not differ morphologically. Information about which category a stem belongs to is nevertheless accessible during syntactic derivation. In the examples below, a lexeme of one type (the adjective _zur_) can be used as a modifier in a noun phrase, while a lexeme of another type (the noun _kayen_) cannot. To use a noun as a modifier, it is necessary to form a so-called izafet construction – case (148b):
 
-(147) Tatar
-zur botak
-big branch
+(147) Tatar<br/>
+zur botak<br/>
+big branch<br/>
 'big branch'
 
-(148) Tatar
-a. * kayen botak
+(148) Tatar<br/>
+a. * kayen botak<br/>
    birch branch
-b. kayen bota-gy
-   birch branch-3
+
+b. kayen bota-gy<br/>
+   birch branch-3<br/>
    'birch branch'
 
 Thus, the function of head A is to license the use of a certain unit as a pre-nominal attribute.
@@ -1722,69 +1754,71 @@ Below, we will examine a typologically widespread construction in which nouns ca
 
 English is known for its productivity in the area of so-called nominal compounds: _travel agency_ – 'travel agency', _quality product_ – 'quality product'…, and compounds: _ice-cream_ – 'ice cream', _headache_ – 'headache'…, see (Marchand 1955; Baker 2003: 202; Booij 2007; Lieber, Stekauer 2009), et al. Alongside this, there exists one typologically extremely widespread model, observed both in English and beyond. This refers to appositive modifiers with the meaning of material. Such modifiers in many languages are formed by unmarked contact juxtaposition of a noun with the meaning of the derived material and the head:
 
-(149) English
-stone wall
+(149) English<br/>
+stone wall<br/>
 'stone house'
 
-(150) Circassian
-pχe wəne
-wood house
+(150) Circassian<br/>
+pχe wəne<br/>
+wood house<br/>
 'wooden house'
 
-(151) Mongolian
-(Orlovskaya 1961: 4)
-temer khurz
-iron shovel
+(151) Mongolian<br/>
+(Orlovskaya 1961: 4)<br/>
+temer khurz<br/>
+iron shovel<br/>
 'iron shovel'
 
-(152) Tatar
-aǧach küper
-wood bridge
+(152) Tatar<br/>
+aǧach küper<br/>
+wood bridge<br/>
 'wooden bridge'
 
-(153) Burmese
-(Mazo 1978)
-Svej² thi³
-gold umbrella
+(153) Burmese<br/>
+(Mazo 1978)<br/>
+Svej² thi³<br/>
+gold umbrella<br/>
 'golden umbrella'
 
-(154) Komi
-(A. P. Leont'yev, p.c.)
-bumaga kerob-ys
-paper box-3.SG
+(154) Komi<br/>
+(A. P. Leont'yev, p.c.)<br/>
+bumaga kerob-ys<br/>
+paper box-3.SG<br/>
 'paper boxes'
 
 As can be seen from the translations, in Russian, adjectives of the MATERIAL class form a similar meaning. Typologically, this does not seem to be the most common strategy. The appositive attributes given above, or the marking of the modifier with a genitive marker, appear to be more regular.
 
 Looking at the examples from this language sample, one might assume that the meaning of material is encoded by nominal appositives in languages where noun phrase agreement is absent. However, German and Greenlandic examples refute this regularity. These languages have both appositive constructions with the meaning of material and agreement in the noun phrase:
 
-(155) German
-(Ye. A. Lyutikova, p.c.)
-a. Steinmauer
-   stone.wall
+(155) German<br/>
+(Ye. A. Lyutikova, p.c.)<br/>
+a. Steinmauer<br/>
+   stone.wall<br/>
    'stone wall'
-b. großer Baum / großes Mädchen
-   tall.N.SG.NOM tree / tall.F.SG.NOM girl
+
+b. großer Baum / großes Mädchen<br/>
+   tall.N.SG.NOM tree / tall.F.SG.NOM girl<br/>
    'tall tree' / 'tall girl'
 
-(156) Greenlandic
-(Fortescue 1984: 108, 118)
-a. illirviusaq qisuk
-   box wood
+(156) Greenlandic<br/>
+(Fortescue 1984: 108, 118)<br/>
+a. illirviusaq qisuk<br/>
+   box wood<br/>
    'wooden box'
-b. qimmi-t qaqurtu-t
-   dog-PL white-PL
+
+b. qimmi-t qaqurtu-t<br/>
+   dog-PL white-PL<br/>
    'white dogs'
 
 The order of material appositives and adjectives is also noteworthy. The similarity of these types of dependents is complemented by the fact that in languages with post-position, both types of modifiers are placed after the noun:
 
-(157) Greenlandic
-(Baker 2003: 183-184)
-a. illirviusaq qisuk * qisuk illirviusaq
-   box wood wood box
+(157) Greenlandic<br/>
+(Baker 2003: 183-184)<br/>
+a. illirviusaq qisuk / *qisuk illirviusaq<br/>
+   box wood wood box<br/>
    'wooden box'
-b. ilinniartitsisoq franskeq * franskeq ilinniartitsisoq
-   teacher French French teacher
+b. ilinniartitsisoq franskeq / *franskeq ilinniartitsisoq<br/>
+   teacher French French teacher<br/>
    'French teacher'
 
 Appositives with the meaning of material also resemble adjectives in that they possess a certain lexical freedom. Firstly, appositives, like adjectives, can bear independent stress, see (Jespersen et al. 1954: 135; Marchand 1955: 222). Secondly, as stated, for example, in (Plag 2003: 192), the interpretation of noun phrases with material appositives is quite free: _marble museum_ can mean 'museum of marble', 'museum built of marble', etc.
@@ -1793,60 +1827,59 @@ On the other hand, as can be seen from the German and Greenlandic examples, mate
 
 The position of material appositives in the noun phrase is generally restricted: they must be in direct contact with the head noun. Let's give an example from Tatar:
 
-(158) Tatar
-a. zur aǧach küper
+(158) Tatar<br/>
+a. zur aǧach küper<br/>
    big wood bridge
-b. * aǧach zur küper
-   wood big bridge
+
+b. * aǧach zur küper<br/>
+   wood big bridge<br/>
 'big wooden bridge'
 
 Coordination, permissible for two adjectives, is ungrammatical for an adjective and a material appositive:
 
-(159) Kazakh
-a. eski aǧash üy
-   old wood house
+(159) Kazakh<br/>
+a. eski aǧash üy<br/>
+   old wood house<br/>
    'old wooden house'
-b. eski zhəne apatty üy
-   old and dilapidated house
+
+b. eski zhəne apatty üy<br/>
+   old and dilapidated house<br/>
    'old and dilapidated house'
-c. * eski zhəne aǧash üy
-   old and wood house
+
+c. * eski zhəne aǧash üy<br/>
+   old and wood house<br/>
    'old and wooden house'
 
 Furthermore, unmarked dependent nouns in English noun phrases can form quite extended constituents, cf.:
 
-(160) English
+(160) English<br/>
 (Booij 2007: 76)
 <!-- image -->
 
 In the case of dependents with the meaning of material, however, branching is impossible, cf.:
 
-(161) English
-a. * thousand stone(s) wall
-   thousand stone(PL) wall
+(161) English<br/>
+a. * thousand stone(s) wall<br/>
    Expected: 'a wall of a thousand stones'
-b. old stone wall
-   old stone wall
-   i) 'an old stone wall'
+
+b. old stone wall<br/>
+   i) 'an old stone wall'<br/>
    ii) * 'a wall of old stone'
 
 This, it seems, is one of the significant differences between material appositives and adjectives. Adjectives (even) in English allow (left-placed) dependent material, cf. _very nice girl_, _extremely strange person_, …
 
 Another difference between the use of adjectives and appositive nouns with the meaning of material is the former's ability and the latter's inability to function as predicates:
 
-(162) English
-a. The wall was high.
-   'The wall was high.'
-b. * The wall was stone.
-   Expected: 'The wall was stone.'
+(162) English<br/>
+a. The wall was high.<br/>
+b. * The wall was stone.<br/>
 c. The wall was from stone.
-   'The wall was from stone.'
 
 The independent stress and fixed lexical meaning suggest that such structures, like noun phrases with adjectives, are generated in the syntax, not in the lexicon. At the same time, the fixed position of material appositives, their inability to be used with dependents, and their inability to function as the nominal part of a predicate indicate the limited syntactic context of their use.
 
 The properties of material appositive nouns indicate that they are X⁰ (not XP) dependents within the noun phrase. Moreover, nothing indicates a change in the categorical status of such dependents – it can be argued that they do not undergo recategorization but remain nouns. The structure of noun phrases with them appears as follows:
 
-(163) English
+(163) English<br/>
 [ NP [ AP old ] [ NP stone [ N house ]]]
 <!-- image -->
 
@@ -1854,51 +1887,54 @@ Thus, the case of material appositives is associated with the adjunction of a de
 
 There is also another strategy for marking the meaning of material in world languages, related to the use of the genitive. For example, in Hindi, the same means used for expressing possessivity is employed to encode material relations:
 
-(164) Hindi
-a. patter ki diwwar
-   stone GEN wall
+(164) Hindi<br/>
+a. patter ki diwwar<br/>
+   stone GEN wall<br/>
    'stone wall'
-b. lakari kā pul
-   wood GEN bridge
+
+b. lakari kā pul<br/>
+   wood GEN bridge<br/>
    'wooden bridge'
 
 The meaning of material is expressed using the genitive, for example, in Georgian:
 
-(165) Georgian
-Mtaze dgas x-is saxli.
-on.mountain stands wood-GEN house
+(165) Georgian<br/>
+Mtaze dgas x-is saxli.<br/>
+on.mountain stands wood-GEN house<br/>
 'A wooden house stands on the mountain.'
 
 The NATIONALITY adjective class is also absent in many languages. In this case, the expression of the NATIONALITY meaning is carried out in the same way as the encoding of non-referential possessivity. Let's provide examples from Turkish:
 
-(166) Turkish
-a. Türk sınız-ı
-   Turk border-3
+(166) Turkish<br/>
+a. Türk sınız-ı<br/>
+   Turk border-3<br/>
    'Turkish border'
-b. Türk sanat-ı
-   Turk art-3
+
+b. Türk sanat-ı<br/>
+   Turk art-3<br/>
    'Turkish art'
 
 The status of such nominal dependents differs from material appositives. In Turkic languages, they presumably form a nominal projection larger than NP (and even NumP), but smaller than DP, see (Lyutikova, Pereltsvaig 2014a; 2014b). Referential noun phrases at the DP level form very similar constructions, which, however, must be marked with the genitive:
 
-(167) Turkish
-a. Türk-ler-in sınız-ı
-   Turk-PL-GEN border-3
+(167) Turkish<br/>
+a. Türk-ler-in sınız-ı<br/>
+   Turk-PL-GEN border-3<br/>
 'border of the Turks'
 
-b. Türk-ler-in sanat-ı
-   Turk-PL-GEN art-3
+b. Türk-ler-in sanat-ı<br/>
+   Turk-PL-GEN art-3<br/>
    'art of the Turks'
 
 A similar distinction between the attributive meaning of nationality and a referential possessor is found in Mongolic languages¹⁴:
 
-(168) Buryat
-(A. A. Serebryannikova, p.c.)
-a. Orod ger soo gurban komnata.
-   Russian house in three room
+(168) Buryat<br/>
+(A. A. Serebryannikova, p.c.)<br/>
+a. Orod ger soo gurban komnata.<br/>
+   Russian house in three room<br/>
    'There are three rooms in the Russian house.'
-b. Orod-oi ger soo gurban komnata.
-   Russian-GEN house in three room
+
+b. Orod-oi ger soo gurban komnata.<br/>
+   Russian-GEN house in three room<br/>
    'There are three rooms in the house of (this) Russian (person).'
 
 ¹⁴ The difference between Mongolic and Turkic languages is that Mongolic languages have a differently organized head-marking ("izafet") system.
@@ -1921,13 +1957,15 @@ Russian has followed both paths and is a language with a "rich" class of adjecti
 
 In the classic work (Bolinger 1967), the semantics of adjectives is investigated depending on the position in which they are used. D. Bolinger discusses the derivational approach to attributive adjectives adopted in early generativism. According to this approach, adjectives are originally generated in a predicative position, then undergo transformation into a relative clause, after which the relative clause is first reduced to post-position, and then transformed into pre-position. As Bolinger notes, however, many adjectives demonstrate a regular semantic contrast in pre- and post-position, allowing for homonymy in the predicate position, cf.:
 
-(169) English
-(Bolinger 1967: 3-4)
-a. the only navigable river
+(169) English<br/>
+(Bolinger 1967: 3-4)<br/>
+a. the only navigable river<br/>
    'the only navigable river' - permanent property
-b. the only river navigable
+
+b. the only river navigable<br/>
    'the only navigable river' - manifestation of quality (now) at the moment
-c. The only river that is navigable is to the north.
+
+c. The only river that is navigable is to the north.<br/>
    'The only navigable river is to the North.' - i) permanent characteristic; ii) temporary characteristic
 
 Adjectives like _guilty_, _visible_, and many others behave similarly.
@@ -1936,16 +1974,12 @@ Bolinger distinguishes two types of adjective usage: modification of the referen
 
 For a number of adjectives, only modification of reference is available, but not modification of the referent:
 
-(170) English
-(Bolinger 1967: 18-20)
-a true poet vs. * The poet is true.
-'a true poet' vs. '*The poet is true.'
-a regular champion vs. * The champion is regular.
-'a regular champion' vs. '*The champion is regular.'
-our prime suspect vs. * The suspect is prime.
-'our prime suspect' vs. '*The suspect is prime.'
-the future king vs. * The king is future.
-'the future king' vs. '*The king is future.'
+(170) English<br/>
+(Bolinger 1967: 18-20)<br/>
+a true poet vs. / *The poet is true.<br/>
+a regular champion vs. / *The champion is regular.<br/>
+our prime suspect vs. / *The suspect is prime.<br/>
+the future king vs. / *The king is future.<br/>
 
 At the same time, Bolinger distinguishes a class of so-called a-adjectives in English (many of which, surprisingly, begin with _a_): _afraid_, _alike_, _alive_, _agog_, _aware_, etc. Such adjectives can only be used predicatively.
 
@@ -1980,52 +2014,60 @@ In summary: both functions, attributive and predicative, can be considered key f
 
 In some languages, adjectives in the predicate position can receive person and number markers:
 
-(172) Karachay-Balkar
-a. Men aqylli-ma.
-   I smart-1.SG
+(172) Karachay-Balkar<br/>
+a. Men aqylli-ma.<br/>
+   I smart-1.SG<br/>
    'I am smart.'
-b. Sen aqylli-sa.
-   you smart-2.SG
+
+b. Sen aqylli-sa.<br/>
+   you smart-2.SG<br/>
    'You are smart.'
-c. Ol aqylli-dy.
-   he smart-3.SG
+
+c. Ol aqylli-dy.<br/>
+   he smart-3.SG<br/>
    'He is smart.'
 
-(173) Buryat
-a. Bi sesen-bi.
-   I smart-1.SG
+(173) Buryat<br/>
+a. Bi sesen-bi.<br/>
+   I smart-1.SG<br/>
    'I am smart.'
-b. Shi sesen-shi.
-   you smart-2.SG
+
+b. Shi sesen-shi.<br/>
+   you smart-2.SG<br/>
    'You are smart.'
-c. Badma sesen-∅.
-   Badma smart-3.SG
+
+c. Badma sesen-∅.<br/>
+   Badma smart-3.SG<br/>
    'Badma is smart.'
 
 One might assume that adjectives and verbs in Karachay-Balkar and Buryat share common grammatical categories. However, this is not entirely true. Firstly, nouns also have the same person-number markers (for brevity, we will omit further examples from Buryat, which would be structured similarly to Karachay-Balkar):
 
-(174) Karachay-Balkar
-a. Men ustaz-ma.
-   I teacher-1.SG
+(174) Karachay-Balkar<br/>
+a. Men ustaz-ma.<br/>
+   I teacher-1.SG<br/>
    'I am a teacher.'
-b. Sen ustaz-sa.
-   you teacher-2.SG
+
+b. Sen ustaz-sa.<br/>
+   you teacher-2.SG<br/>
    'You are a teacher.'
-c. Ol ustaz-dy.
-   he teacher-3.SG
+
+c. Ol ustaz-dy.<br/>
+   he teacher-3.SG<br/>
    'He is a teacher.'
 
 Moreover, adjectives in such languages are not capable of synthetically expressing aspect-tense categories, and in cases where this is necessary, they use copulas:
 
-(175) Karachay-Balkar
-a. Men aqylli bollyq-ma.
-   I smart be.FUT-1.SG
+(175) Karachay-Balkar<br/>
+a. Men aqylli bollyq-ma.<br/>
+   I smart be.FUT-1.SG<br/>
    'I will be smart.'
-b. Sen aqylli bollyq-sa.
-   you smart be.FUT-2.SG
+
+b. Sen aqylli bollyq-sa.<br/>
+   you smart be.FUT-2.SG<br/>
    'You will be smart.'
-c. Ol aqylli bollyq-dy.
-   he smart be.FUT-3.SG
+
+c. Ol aqylli bollyq-dy.<br/>
+   he smart be.FUT-3.SG<br/>
    'He will be smart.'
 
 It can be concluded that cases of adjectives (and nouns) being marked with person-number markers in such languages correspond to the use of a zero existential copula.
@@ -2034,62 +2076,66 @@ So-called languages with statives or qualitative verbs are structured differentl
 
 Lexemes with adjectival semantics in these languages form the same forms as verbs. In Nivkh, qualitative statives can function as predicates of a finite clause without a copula and must, in such a case (like verbs), be marked with mood indicators and agree in number:
 
-(176) Nivkh
-(Gruzdeva 2012: 467)
-a. Ţ'əŋ-q q'av-ḑ.
-   stove-Q be.hot-IND
+(176) Nivkh<br/>
+(Gruzdeva 2012: 467)<br/>
+a. Ţ'əŋ-q q'av-ḑ.<br/>
+   stove-Q be.hot-IND<br/>
    'The stove is hot.'
-b. Tamk-xun tak-nt-γun.
-   hand-PL be.warm-IND-PL
+
+b. Tamk-xun tak-nt-γun.<br/>
+   hand-PL be.warm-IND-PL<br/>
    'The hands are warm.'
 
 In the attributive function, both qualitative and other verbs are either unmarked or receive the marker _-la_, see (Otaina 1976: 117; Nedyalkov, Otaina 2011: 42)¹⁵. Let's provide an example of unmarked usage:
 
-(177) Nivkh
-(Nedyalkov, Otaina 2011: 42)
-a. Paḥ t'osq-t'.
-   stone crack-IND
+(177) Nivkh<br/>
+(Nedyalkov, Otaina 2011: 42)<br/>
+a. Paḥ t'osq-t'.<br/>
+   stone crack-IND<br/>
    'The stone cracked.'
-b. T'osq vaḥ kut-t'.
-   cracked stone fall-IND
+
+b. T'osq vaḥ kut-t'.<br/>
+   cracked stone fall-IND<br/>
    'The cracked stone fell.'
 
 In the examples above, the dynamic verb 'to crack' is used in the form of a finite predicate and an unmarked attributive modifier. The same uses are available for the qualitative verb 'to be big':
 
-(178) Nivkh
-(Gruzdeva 2012: 477)
-If pil-yvo ch'omsomy-yvu-d'.
-he be.big-CONV be.silent-PROG-IND
+(178) Nivkh<br/>
+(Gruzdeva 2012: 477)<br/>
+If pil-yvo ch'omsomy-yvu-d'.<br/>
+he be.big-CONV be.silent-PROG-IND<br/>
 'Growing up, he becomes silent.'
 
-(179) Nivkh
-(Nedyalkov, Otaina 2011: 50)
-Imṇ pila eri ukh ch'oṇyṇd'.
-they big river on fish caught
+(179) Nivkh<br/>
+(Nedyalkov, Otaina 2011: 50)<br/>
+Imṇ pila eri ukh ch'oṇyṇd'.<br/>
+they big river on fish caught<br/>
 'They fished on the big river.'
 
 The stative 'to be big' is used in the first example as a dependent predicate in the form of a converb, and in the second, as an attributive modifier.
 
 In addition, adjectival statives can attach various aspectual markers, see (Gruzdeva 2012), such as the progressive marker on the predicate 'be.silent' in the example above. Let us also provide an example with a completive marker. Lexemes with gradual semantics marked by it acquire the meaning of reaching a limit as a result of a change in the specified feature over time:
 
-(180) Nivkh
-(Nedyalkov, Otaina 2011: 109)
-a. Raq tuz-d'.
-   porridge be.cold-IND
+(180) Nivkh<br/>
+(Nedyalkov, Otaina 2011: 109)<br/>
+a. Raq tuz-d'.<br/>
+   porridge be.cold-IND<br/>
    'The porridge is cold.'
-b. Raq tuz-γyt-t'.
-   porridge be.cold-COMPL-IND.
+
+b. Raq tuz-γyt-t'.<br/>
+   porridge be.cold-COMPL-IND.<br/>
    'The porridge is completely cold.'
 
 The situation in Archi is similar to Nivkh, with the only difference being that most Archi verb forms are formed analytically. As stated in (Kibrik 1992a), Archi statives functioning as the head of a predication can form all semantically available verbal forms, cf. the imperfect I and II forms in the examples below:
 
-(181) Archi
-(Kibrik 1992a: 150)
-a. Ch'e'p bi'k'w-shi ye-b-di-li lap.
-   cradle be.heavy-CONV be.PST.EV very
+(181) Archi<br/>
+(Kibrik 1992a: 150)<br/>
+a. Ch'e'p bi'k'w-shi ye-b-di-li lap.<br/>
+   cradle be.heavy-CONV be.PST.EV very<br/>
    'The cradle was very heavy.'
-b. K'ob chakh-mat yedi.
-   clothes be.wet-CONTIN be.PST
+
+b. K'ob chakh-mat yedi.<br/>
+   clothes be.wet-CONTIN be.PST<br/>
    'The clothes continued to be wet.'
 
 The use in attributive function for stative and other verbs is formed identically, with the participial marker _-t't'u_: _k'wat'i_- 'to be needed', _k'wat'it't'u boshor_ 'needed man'; _akhas_- 'to lie down' _akhu-t't'ut_ 'having lain down' (Ibid.: 151). It is noteworthy that "although, due to their semantics, statives clearly prefer participial formations from the constative (like _mu-t't'u-t_- 'beautiful'), their derivation from other temporal forms is nevertheless possible, for example, _mushi yedi-t't'ut_ 'who was beautiful'" (Ibid.: 151).
@@ -2136,15 +2182,15 @@ Let us first consider the possibility of deriving FFs from SFs. A number of suff
 
 Such a derivation could even be allowed, assuming that first the SF obtains gender and number features, then case, while the entire set of features {gender, number, case} is subjected to phonetic realization (which is natural for an inflective language):
 
-(184) strash-n {gender, number}+{case} → strashnyy {gender, number, case};
+(184) strash-n {gender, number}+{case} → strashnyy {gender, number, case};<br/>
 slad-yk {gender, number}+{case} → sladkiy {gender, number, case}
 
 However, we are unaware of facts supporting such a derivation order. On the contrary, the SF itself is characteristic only of a certain part of adjectives. This suggests that adjectives without an SF (and these are the majority) would not be able to express gender and number meanings if the latter were contained in the SF.
 
 Thus, we will reject the hypothesis of FF formation from SF and consider the second option, according to which each form is formed in parallel from the same stem:
 
-(185) Formation of SF and FF of Russian adjectives
-star → star, stara, staro, stary
+(185) Formation of SF and FF of Russian adjectives<br/>
+star → star, stara, staro, stary<br/>
 star → staryy, staraya, staroye, staryye, …
 
 Next, we will discuss restrictions on SF derivation, then cases where the short and full forms have different semantics.
@@ -2153,14 +2199,17 @@ As A. A. Zaliznyak points out, "the traditional formula states that non-attribut
 
 The semantic prohibition on SF formation is indeed easily overcome; see also (Pertsov 2015: 168-170) on the distinction between semantic and morphological ungrammaticality. In the following examples, the adjective does not refer to a certain object (_zemlya_ 'earth', _provintsiya_ 'province', _beton_ 'concrete', _komanda_ 'team'), but essentially defines a new quality, somehow related to this object, and the formation of an SF becomes possible:
 
-(186) (Internet)
-Kak ona skudna, Kak ona zemna!
+(186) (Internet)<br/>
+Kak ona skudna, Kak ona zemna!<br/>
 'How poor she is, how earthly she is!'
-Abramovich prost, primitiven, provintsialen.
+
+Abramovich prost, primitiven, provintsialen.<br/>
 'Abramovich is simple, primitive, provincial.'
-{… tam okopalsya Lenin.} On nadoel, on star i betonen.
+
+{… tam okopalsya Lenin.} On nadoel, on star i betonen.<br/>
 '{… Lenin entrenched himself there.} He got tiresome, he is old and concrete-like.'
-My skoree anarkhichny, chem komandny…
+
+My skoree anarkhichny, chem komandny…<br/>
 'We are rather anarchic than team-like…'
 
 Regarding the morphological prohibition on SF formation, it is associated with the use of a number of adjectivizing suffixes, such as _-sk_, _-shn_, _-vsh_, _-ev_, etc. That the cause of ungrammaticality is morphology, not phonology, can be shown by the following examples:
@@ -2220,11 +2269,12 @@ To summarize: i) a significant portion of adjectives can form only FFs and do no
 
 Thus, for those adjectives that have both SFs and FFs, both forms are derived in parallel from the same stem. Adjectives that have only FFs form them from some stem, while SF formation for such adjectives is impossible for some reason:
 
-(189) Formation of SF and FF of Russian adjectives
-a. Adjectives with SFs and FFs
-   star → star, stara, staro, stary
+(189) Formation of SF and FF of Russian adjectives<br/>
+a. Adjectives with SFs and FFs<br/>
+   star → star, stara, staro, stary<br/>
    star → staryy, staraya, staroye, staryye, …
-b. Adjectives with FFs only
+
+b. Adjectives with FFs only<br/>
    russk → russkiy, russkaya, russkoye, russkiye, …
 
 What is the nature of the morphological prohibition on SF formation? As we have seen, SFs are impermissible for adjectives formed with certain suffixes. We assume that the impossibility of forming certain forms (both in morphology and in syntax) is related to the incompatibility between certain grammatical features. For example, in the domain of verbal morphology, there is a prohibition on the formation of participles ending in _-(a/ya)shch_, _-(u/yu)shch_ from prefixed stems like _priplyt'_ 'to swim to': _*priplyvushchiy_ 'swimming to', etc. This is prevented by the incompatibility of the perfective aspect feature, present in the prefix _pri-_, and the present tense feature, contained in the participle ending in _-shch_.
@@ -2256,15 +2306,18 @@ The first works that thoroughly investigated the differences in the behavior of 
 
 The distribution of FFs and SFs of adjectives is asymmetric: FFs can appear in both attributive and predicative positions, while SFs can only be used predicatively:
 
-(192)
-(Isachenko 1963: 83)
-a. zdorovyy mal'chik
+(192)<br/>
+(Isachenko 1963: 83)<br/>
+a. zdorovyy mal'chik<br/>
    'healthy boy'
-c. *zdorov mal'chik
+
+c. *zdorov mal'chik<br/>
    '*healthy boy (SF)'
-b. Mal'chik (byl) zdorovyy.
+
+b. Mal'chik (byl) zdorovyy.<br/>
    'The boy (was) healthy (FF).'
-d. Mal'chik (byl) zdorov.
+
+d. Mal'chik (byl) zdorov.<br/>
    'The boy (was) healthy (SF).'
 
 The only syntactic context available for adjective SFs is primary predication²³. At the same time, adjective FFs, at least at first glance, are not limited to attributive contexts but can also be predicative. Research into the problem of predicative adjectives has largely focused on explaining the asymmetry in the distribution of short and full forms. The fact that SFs lack attributive usage suggests that such asymmetry is nothing more than a superficial expression of a deep symmetry. According to this analysis, adjective FFs in Russian are always attributive and in predicative usage are associated with the presence of a nominal projection²⁴. First proposed in (Isachenko 1963) and developed in (Babby 1973; Siegel 1976; Babby 1994) and other works, such an approach to predicative FFs has become generally accepted in formal Russian studies. In the mentioned works by Babby, Siegel, and Bailyn, as in some others, adjective FFs in predicative usage are considered attributive adjectives with an unrealized nominal head.
@@ -2275,11 +2328,12 @@ The only syntactic context available for adjective SFs is primary predication²�
 
 One of the arguments in favor of this analysis, see (Siegel 1976; Matushansky 2006b; Bailyn 2012) and others, is related to the difference in interpretation of the following pairs of sentences:
 
-(193)
-(Siegel 1976: 297)
-a. Studentka umna. SF, absolute interpretation
+(193)<br/>
+(Siegel 1976: 297)<br/>
+a. Studentka umna. SF, absolute interpretation<br/>
    'The student (FEM) is smart (SF).'
-b. Studentka umnaya. FF, relative interpretation
+
+b. Studentka umnaya. FF, relative interpretation<br/>
    'The student (FEM) is smart (FF).'
 
 The "relative" interpretation observed in (b) arises in this approach due to the presence of a free variable Δ ('Studentka umnaya Δ'), whose domain of variation is the set of common nouns. Such a free variable can correspond to a zero head and be bound by the subject.
@@ -2288,119 +2342,138 @@ However, the assertion about the attributive nature of adjective FFs in predicat
 
 One of the most well-known arguments for the attributive analysis is agreement in number:
 
-(194)
-a. Vy krasivy / *krasiva.
+(194)<br/>
+a. Vy krasivy / *krasiva.<br/>
    'You (PL) are beautiful (PL) / *beautiful (FEM SG).'
-b. Vy krasivaya / *krasivyye.
+
+b. Vy krasivaya / *krasivyye.<br/>
    'You (SG FEM) are beautiful (SG FEM) / *beautiful (PL).'
-c. Vy prishli / *prishla.
+
+c. Vy prishli / *prishla.<br/>
    'You (PL) came (PL) / *came (SG FEM).'
 
 In the case of a single referent for the polite form of the pronoun _Vy_, the SF requires plural agreement—like the verb—while the FF requires singular agreement. This fact, on the one hand, allows us to say that SFs are grouped with verbal forms, see (Babby 1975; Geist 2010), and on the other hand, provides grounds to assume that a zero nominal head stands behind the FF.
 
 The latter claim is questioned in (Geist 2010; Borik 2014). For example, in (Geist 2010), it is argued that reconstructing a phonologically unexpressed head is syntactically impossible – it is unclear which specific noun stands behind it:
 
-(195)
-(Geist 2010: 246)
-Posle ekzamena Ivan byl ustalyy. (ustalyy: chelovek? / student? / Ivan?)
+(195)<br/>
+(Geist 2010: 246)<br/>
+Posle ekzamena Ivan byl ustalyy. (ustalyy: chelovek? / student? / Ivan?)<br/>
 'After the exam Ivan was tired (FF). (tired: person? / student? / Ivan?)'
 
 Another argument is the underspecification of the predicative FF in terms of gender (Geist 2010: 246) and number (Borik 2014: 146). The gender and number values of predicative FFs always replicate those of the noun and do not correspond to the value of the corresponding feature in a possible unexpressed head:
 
-(196)
-(Geist 2010: 246)
-a. Sergey khoroshaya nyanya.
+(196)<br/>
+(Geist 2010: 246)<br/>
+a. Sergey khoroshaya nyanya.<br/>
    'Sergey is a good nanny (FEM).'
-b. *Sergey khoroshaya.
+
+b. *Sergey khoroshaya.<br/>
    '*Sergey is good (FEM).'
-(197)
-(Borik 2014: 146)
-a. Ovoschi byli poleznym produktom.
+
+(197)<br/>
+(Borik 2014: 146)<br/>
+a. Ovoschi byli poleznym produktom.<br/>
    'Vegetables were a useful (INSTR SG) product.'
-b. *Ovoschi byli poleznym.
+
+b. *Ovoschi byli poleznym.<br/>
    '*Vegetables were useful (INSTR SG).'
 
 Instead, (Geist 2010; Borik 2014) propose that adjectives in predicative position are used not as part of a noun phrase with a null element, but in isolation.
 
 To the aforementioned criticism of the attributive analysis of predicative FFs, the following three arguments can be added. Firstly, adjective FFs in predicative position do not retain the idiomatic interpretation observed in attributive position:
 
-(198)
-(Grashchenkov, Grashchenkova 2007)
-a. zolotaya rybka (vneshniy priznak vs. personazh skazki)
+(198)<br/>
+(Grashchenkov, Grashchenkova 2007)<br/>
+a. zolotaya rybka (vneshniy priznak vs. personazh skazki)<br/>
    'goldfish' (external feature vs. fairy tale character)
-b. Rybka (byla) zolotaya. (tol'ko pro tsvet)
+
+b. Rybka (byla) zolotaya. (tol'ko pro tsvet)<br/>
    'The fish (was) golden (FF).' (only about color)
-(199)
-(Grashchenkov, Grashchenkova 2007)
-a. mednyye truby (bibleyskaya metafora vs. material)
+
+(199)<br/>
+(Grashchenkov, Grashchenkova 2007)<br/>
+a. mednyye truby (bibleyskaya metafora vs. material)<br/>
    'brass pipes' (biblical metaphor vs. material)
-b. Truby (byli) mednyye. (tol'ko v znachenii materiala)
+
+b. Truby (byli) mednyye. (tol'ko v znachenii materiala)<br/>
    'The pipes (were) copper (FF).' (only in the meaning of material)
-(200)
-(Grashchenkov, Grashchenkova 2007)
-a. kitayskaya gramota ('nechto slozhnoye i neponyatnoye' vs. natsional'nost')
+
+(200)<br/>
+(Grashchenkov, Grashchenkova 2007)<br/>
+a. kitayskaya gramota ('nechto slozhnoye i neponyatnoye' vs. natsional'nost')<br/>
    'Chinese writing' ('something complex and incomprehensible' vs. nationality)
-b. Gramota (byla) kitayskaya. (tol'ko v znachenii prilagatel'nogo natsional'nosti)
+
+b. Gramota (byla) kitayskaya. (tol'ko v znachenii prilagatel'nogo natsional'nosti)<br/>
    'The writing (was) Chinese (FF).' (only in the meaning of the adjective of nationality)
 
 It seems that the situation in many other languages is analogous, cf. English: _hot dogs_ ('sausages') vs. _*The dogs were hot_; _a golden parachute_ ('large severance pay upon dismissal') vs. _*His parachute was golden_, etc.
 
 Secondly, facts related to the formation of an adjective "chain" demonstrate another contrast between predicative and attributive adjective FFs. The predicative position, unlike the attributive, is impossible with neutral intonation in the case of two or more adjectives:
 
-(201)
-a. shirokoye sineye more
+(201)<br/>
+a. shirokoye sineye more<br/>
    'wide blue sea'
-b. *More (bylo) shirokoye sineye.
+
+b. *More (bylo) shirokoye sineye.<br/>
    '*The sea (was) wide blue (FF).'
-(202)
-a. vysokiy kamennyy dom
+
+(202)<br/>
+a. vysokiy kamennyy dom<br/>
    'tall stone house'
-b. *Dom (byl) vysokiy kamennyy.
+
+b. *Dom (byl) vysokiy kamennyy.<br/>
    '*The house (was) tall stone (FF).'
 
 According to (Baker 2003: 203), the prohibition on two or more unsyndicated predicative adjectives is quite universal:
 
-(203) English
-(Baker 2003: 203)
-a. John is a big strong man.
-b. *John is big strong.
+(203) English<br/>
+(Baker 2003: 203)<br/>
+a. John is a big strong man.<br/>
+b. *John is big strong.<br/>
    Intended: 'John is big and strong.'
-(204) Edo
-(Baker 2003: 203)
-a. ágá khéré pè rhè
-   armchair small flat
+
+(204) Edo<br/>
+(Baker 2003: 203)<br/>
+a. ágá khéré pè rhè<br/>
+   armchair small flat<br/>
    'small flat armchair'
-b. *Né!né ágá yé khéré pè rhè.
-   DEF armchair COP small flat
+
+b. *Né!né ágá yé khéré pè rhè.<br/>
+   DEF armchair COP small flat<br/>
    Intended: 'This armchair is small and flat.'
 
 Thirdly, one variant of the attributive approach to predicative FFs could be an analysis involving the movement of the entire noun phrase, apart from the adjective, into the subject position, (simplified) presented below:
 
-(205)
-a. Dom byl kamennyy.
-   'The house was stone (made of stone).'
-b. [vP byl [DP kamennyy dom]]
+(205)<br/>
+a. Dom byl kamennyy.<br/>
+   'The house was stone (made of stone).'<br/>
+b. [vP byl [DP kamennyy dom]]<br/>
 c. [TP domi [vP byl [DP kamennyy ti]]]
 
 Indeed, in Russian, there are constructions with predicative FFs that clearly derive from predicative noun phrases. Predicative nominal heads in such constructions have a classifying meaning and move into the topic position:
 
-(206)
-(Internet)
-a. Uchitel'nitsa ona byla strogaya.
+(206)<br/>
+(Internet)<br/>
+a. Uchitel'nitsa ona byla strogaya.<br/>
    'A teacher, she was strict (FF).'
-b. Chelovek on byl dobryy.
+
+b. Chelovek on byl dobryy.<br/>
    'A person, he was kind (FF).'
-c. Zhenschina ona byla zlaya.
+
+c. Zhenschina ona byla zlaya.<br/>
    'A woman, she was evil (FF).'
 
 It is noteworthy that substituting FFs with SFs in such cases is impossible, which indeed suggests the original attributive position of FFs:
 
-(207)
-a. *Uchitel'nitsa ona byla stroga.
+(207)<br/>
+a. *Uchitel'nitsa ona byla stroga.<br/>
    '*A teacher, she was strict (SF).'
-b. *Chelovek on byl dobr.
+
+b. *Chelovek on byl dobr.<br/>
    '*A person, he was kind (SF).'
-c. *Zhenschina ona byla zla.
+
+c. *Zhenschina ona byla zla.<br/>
    '*A woman, she was evil (SF).'
 
 However, derivation with the movement/deletion of the head noun is impossible in cases where the subject of the nominal predication is a proper noun or a pronoun. Both of these represent DP-level units, and adjectives (regardless of their role in the noun phrase) are generated within the DP. At the same time, nominal predications like _Petya / On byl veselyy_ 'Petya / He was cheerful' behave analogously to predications like _Dom byl kamennyy_ 'The house was stone'.
@@ -2425,19 +2498,24 @@ A different structure is usually proposed for Russian adjective SFs. Starting wi
 
 An important argument in favor of the absence of PredP in predications with the short form is the fact that the SF can independently assign a semantic role. In (Geist 2010), the following paradigm is given:
 
-(208)
+(208)<br/>
 (Geist 2010: 249-250)
-a. Rebenok bol'noy.
+a. Rebenok bol'noy.<br/>
    'The child is sick (FF).'
-d. Golos u nego bol'noy.
+
+d. Golos u nego bol'noy.<br/>
    'He has a sick voice (FF).'
-b. Rebenok bolen.
+
+b. Rebenok bolen.<br/>
    'The child is sick (SF).'
-e. *Golos u nego bolen.
+
+e. *Golos u nego bolen.<br/>
    '*He has a sick voice (SF).'
-c. Rebenok boleyet.
+
+c. Rebenok boleyet.<br/>
    'The child is sick (verb).'
-f. *Golos u nego boleyet.
+
+f. *Golos u nego boleyet.<br/>
    '*He has a sick voice (verb).'
 
 The semantic restrictions on the subject in this case coincide for the SF and the verb, while for the adjective FF, a metonymic transformation 'possessor' - 'possessed' is permissible. This fact may suggest that the mechanism of semantic role assignment exists for the SF and the verb, while the FF is not capable of independently assigning a semantic role.
@@ -2448,47 +2526,52 @@ Following (Bailyn 2012) to a certain extent, we will analyze predicative FFs as 
 
 Let's consider the following examples:
 
-(209)
-(Internet)
-Byt' zdorovym - dolg pered buduschimi det'mi.
+(209)<br/>
+(Internet)<br/>
+Byt' zdorovym - dolg pered buduschimi det'mi.<br/>
 'To be healthy (INSTR) is a duty to future children.'
-Byt' vezhlivym - znachit umet' sebya vesti i imet' khoroshiye manery.
+
+Byt' vezhlivym - znachit umet' sebya vesti i imet' khoroshiye manery.<br/>
 'To be polite (INSTR) means to know how to behave and have good manners.'
 
 The subjects in the main clauses here are infinitives, forming a nominal predication. The nominal part of such a predication is represented by the instrumental case — one of the possible ways to mark the nominal part in Russian. If we try to change the form of the predicate, however, we find that neither the agreement / nominative strategy with FFs nor SFs are grammatical:
 
-(210)
-*Byt' zdorovyy / zdorov - dolg pered buduschimi det'mi.
+(210)<br/>
+*Byt' zdorovyy / zdorov - dolg pered buduschimi det'mi.<br/>
 '*To be healthy (FF) / healthy (SF) is a duty to future children.'
-*Byt' vezhlivyy / vezhliv - znachit umet' sebya vesti i imet' khoroshiye manery.
+
+*Byt' vezhlivyy / vezhliv - znachit umet' sebya vesti i imet' khoroshiye manery.<br/>
 '*To be polite (FF) / polite (SF) means to know how to behave and have good manners.'
 
 The reason for ungrammaticality, in our opinion, in both cases is that both the nominative FF and the SF require a local subject. From the fact that in the case of the instrumental FF it is not required, we can conclude that in the case of the nominative FF, the ungrammaticality is related to case. Gender and number features are present in both types of FFs and obviously do not lead to ungrammaticality of the instrumental FF. As we will show below, the realization of the case feature is critical in the formation of predicative FFs in the nominative.
 
 The situation with the SF seems different – it has no case, yet its participation in an infinitive clause without a subject is equally ungrammatical. The difference between SF and FF, it seems, indicates that the subject in the case of each form is generated in different positions. The presence of a subject is more critical for the SF, which can receive gender and number features only from it. Instrumental FFs can change gender and number values depending on pragmatics. Thus, gender and number in the following examples can be changed without loss of grammaticality:
 
-(211)
-(Internet)
-Eto yestestvennoye zhelaniye - byt' krasivoy.
-'It is a natural desire to be beautiful (FEM SG).'
-Blagodarim vsekh za stremleniye byt' uspeshnymi!
+(211)<br/>
+(Internet)<br/>
+Eto yestestvennoye zhelaniye - byt' krasivoy.<br/>
+'It is a natural desire to be beautiful (FEM SG).'<br/>
+
+Blagodarim vsekh za stremleniye byt' uspeshnymi!<br/>
 'We thank everyone for the desire to be successful (PL)!'
 
-(212)
-Eto yestestvennoye zhelaniye - byt' krasivym (i).
+(212)<br/>
+Eto yestestvennoye zhelaniye - byt' krasivym (i).<br/>
 'It is a natural desire to be beautiful (MASC SG / NEUT SG).'
-Blagodarim za stremleniye byt' uspeshnym!
+
+Blagodarim za stremleniye byt' uspeshnym!<br/>
 'We thank for the desire to be successful (MASC SG / NEUT SG)!'
 
 Thus, the grammaticality of predication derivation with FFs depends on the possibility for the subject to transmit a case feature (nominative) to the adjective FF. For predication with SFs, the presence of a subject is necessary for the realization of both gender and number features, which occurs as a result of agreement with the subject.
 
 Note that SFs are perfectly acceptable in infinitives of raising:
 
-(213)
-(Internet)
-Ona khotela byt' krasiva.
+(213)<br/>
+(Internet)<br/>
+Ona khotela byt' krasiva.<br/>
 'She wanted to be beautiful (SF).'
-Ty mozhesh' byt' uspeshen vo vremya krizisa.
+
+Ty mozhesh' byt' uspeshen vo vremya krizisa.<br/>
 'You can be successful (SF) during a crisis.'
 
 The facts presented suggest the necessity of a subject at the earliest stages of deriving predications with SFs.
@@ -2523,14 +2606,17 @@ Such an approach explains the difference in interpretation between the sentences
 
 Let's consider the arguments proposed in (Geist 2010) and (Borik 2014). As L. Geist noted, SFs are more selective in subject choice. In the absence of complements, the predicative FF behaves in this regard analogously to the attributive FF, both of them being contrasted with the SF. At the same time, according to O. Borik, attributive FFs with complements are grouped with SFs:
 
-(223)
-a. Mal'chik / Golos byl bol'noy.
+(223)<br/>
+a. Mal'chik / Golos byl bol'noy.<br/>
    'The boy / voice was sick (FF).'
-b. bol'noy golos / mal'chik
+
+b. bol'noy golos / mal'chik<br/>
    'sick voice / boy'
-c. Mal'chik / *Golos byl bolen.
+
+c. Mal'chik / *Golos byl bolen.<br/>
    'The boy / *voice was sick (SF).'
-d. bol'noy anginoy mal'chik / *golos
+
+d. bol'noy anginoy mal'chik / *golos<br/>
    'boy sick with angina / *voice'
 
 As we can see, predicative and attributive FFs without complements, on the one hand, are contrasted with SFs and attributive FFs with complements, on the other. As we will show, this is due to the fact that only SFs and attributive FFs (but not predicative FFs) can have an Adj projection.
@@ -2591,8 +2677,6 @@ We also undertook a detailed analysis of Russian adjectival predication. Such a 
 
 An important result of this section for further discussion was our proposed approach to SFs as projections containing the _res_ head, analogous to statives in languages with "verbal" adjectives. We will elaborate on this idea later in this chapter, as well as in Chapter 3.
 
-(229) [There is no (229) example label in the Russian text, this seems to be a formatting artifact. I will proceed with 2.3. and the subsequent examples.]
-
 ## 2.3. Secondary Predication: Depictives and Resultatives vs. Appositives-Dislocated Elements
 
 Below, we will discuss some types of regular adjective usages that fall outside the scope of attributive and predicative functions (and are not related to comparative uses). We will first address cases of secondary predication, which include depictives and resultatives, and then discuss appositives-dislocated elements.
@@ -2603,31 +2687,38 @@ Depictive secondary predication refers to the use of adjective phrases or noun p
 
 In Russian, secondary predications can be considered all uses of nominal predicates with verbs other than _byt'_ 'to be', _stat'_ ('sdelat'sya') 'to become', and _kazat'sya_ 'to seem'. The three listed verbs allow the adjective SF, which is ungrammatical with other verbs:
 
-(228)
-(Internet)
-a. Protaranivshiy kiosk voditel' byl p'yan.
+(228)<br/>
+(Internet)<br/>
+a. Protaranivshiy kiosk voditel' byl p'yan.<br/>
    'The driver who rammed the kiosk was drunk (SF).'
-b. On chuvstvoval, chto so sta pyatidesyati grammov kon'yaka stal p'yan.
+
+b. On chuvstvoval, chto so sta pyatidesyati grammov kon'yaka stal p'yan.<br/>
    'He felt that after one hundred and fifty grams of cognac, he became drunk (SF).'
-c. Vladelets mashiny kazalsya p'yan, no ot testa na alkogol' otkazalsya.
+
+c. Vladelets mashiny kazalsya p'yan, no ot testa na alkogol' otkazalsya.<br/>
    'The car owner seemed drunk (SF), but refused an alcohol test.'
-(229)
-a. *Petya prishel p'yan.
+
+(229)<br/>
+a. *Petya prishel p'yan.<br/>
    '*Petya came drunk (SF).'
-b. *Ya privel Petyu p'yan.
+
+b. *Ya privel Petyu p'yan.<br/>
    '*I brought Petya drunk (SF).'
-c. *On pochuvstvoval sebya p'yan.
+
+c. *On pochuvstvoval sebya p'yan.<br/>
    '*He felt drunk (SF).'
 
 At the same time, Russian adjective FFs can be used coreferentially with the subject or another participant and agree with it in case:
 
-(230)
-(Internet)
-a. Vchera muzh prishel domoy p'yanyy.
+(230)<br/>
+(Internet)<br/>
+a. Vchera muzh prishel domoy p'yanyy.<br/>
    'Yesterday my husband came home drunk (FF).'
-b. Dyadya Yefim privel yego p'yanogo.
+
+b. Dyadya Yefim privel yego p'yanogo.<br/>
    'Uncle Yefim brought him drunk (ACC FF).'
-c. Nekotoryye tut schitayut, chto yesli urod popalsya p'yanym na chuzhoy mashine, to sovershenno tochno khozyain yeyo peredal yemu uzhe p'yanomu.
+
+c. Nekotoryye tut schitayut, chto yesli urod popalsya p'yanym na chuzhoy mashine, to sovershenno tochno khozyain yeyo peredal yemu uzhe p'yanomu.<br/>
    'Some here believe that if a scoundrel was caught drunk (INSTR FF) in someone else's car, then the owner definitely handed it over to him already drunk (DAT FF).'
 
 Such examples of secondary predications are called depictives; we will also discuss resultatives a little later.
@@ -2636,88 +2727,95 @@ Let's say a few words about why depictive SFs are ungrammatical. Earlier, we pro
 
 Note that in Russian of the 19th and early 20th centuries, the depictive use of SFs was quite common:
 
-(231)
-(A. I. Kuprin. "Granatovyy braslet" [The Garnet Bracelet], 1911)
-Yesli on seychas vyskochil nevredim - vsyo ravno v budushchem schitay yego pogibshim.
+(231)<br/>
+(A. I. Kuprin. "Granatovyy braslet" [The Garnet Bracelet], 1911)<br/>
+Yesli on seychas vyskochil nevredim - vsyo ravno v budushchem schitay yego pogibshim.<br/>
 'If he escaped unharmed (SF) now, still consider him lost in the future.'
-(232)
-(A. F. Koni. "Ivan Aleksandrovich Goncharov", 1911)
-Ya ne mog ponyat', chtoby tot, pred kem ya sklonyal myslenno koleni, lezhal bezdykhanen.
+
+(232)<br/>
+(A. F. Koni. "Ivan Aleksandrovich Goncharov", 1911)<br/>
+Ya ne mog ponyat', chtoby tot, pred kem ya sklonyal myslenno koleni, lezhal bezdykhanen.<br/>
 'I could not understand how he, before whom I mentally knelt, could lie breathless (SF).'
 
 This may be related to the evolution of SFs from attributive to predicative usage, structurally expressed by the inclusion of the _res_ projection in their composition. If one assumes that SFs drift diachronically towards stative usage and that _res_ is a relatively recent formation, one can explain the comparatively recent ungrammaticality of SF-depictives.
 
 Let's return to FFs. The main difference between depictives and appositive detached constructions (see below) is as follows: i) in the case of a depictive, the verb typically precedes the secondary predicate, and the situations they describe are related; ii) there is no pause before the secondary predicate, but there is a pause before an appositive. The first condition can be demonstrated using example (230c) above. This example suggests that the state of 'being drunk' existed at the moment the action began. With non-delimited predicates, however, it is possible for the state to be acquired during the course of the main verb's action:
 
-(233)
-(Internet)
-a. On shel domoy ustalyy.
+(233)<br/>
+(Internet)<br/>
+a. On shel domoy ustalyy.<br/>
    'He walked home tired (FF).'
-b. Devochka rosla zdorovaya.
+
+b. Devochka rosla zdorovaya.<br/>
    'The girl grew up healthy (FF).'
 
 Whether it is precedence or simultaneity, the temporal connection between the situation described by the verb and the depictive is crucial. This distinguishes depictives from detached appositives, cf.: _Vasya peredal den'gi Pete, dovol'nomu svoim vyigryshem_ 'Vasya handed the money to Petya, who was happy about his winnings'; _On shel domoy, samyy schastlivyy chelovek na svete_ 'He walked home, the happiest man in the world'.
 
 As is known, besides the agreement strategy, Russian also allows for the marking of secondary predication with the instrumental case:
 
-(234)
-a. Muzh prishel domoy p'yanym.
+(234)<br/>
+a. Muzh prishel domoy p'yanym.<br/>
    'My husband came home drunk (INSTR).'
-b. Dyadya Yefim_i privel yego_j p'yanym_i/j.
+
+b. Dyadya Yefim_i privel yego_j p'yanym_i/j.<br/>
    'Uncle Yefim_i brought him_j drunk (INSTR)_i/j.'
-c. Khozyain_i peredal mashinu voditelyu_j uzhe p'yanym_i/*j.
+
+c. Khozyain_i peredal mashinu voditelyu_j uzhe p'yanym_i/*j.<br/>
    'The owner_i handed the car over to the driver_j already drunk (INSTR)_i/*j.'
 
 We see that the secondary predicate in the instrumental case can refer only to the subject or direct object, but not to indirectly-object nominal groups, see (234c). Instrumental depictives should be distinguished from lexical complements of verbs like _kazat'sya_ 'to seem':
 
-(235)
-a. Ivan kazhetsya glupym / *glupyy.
+(235)<br/>
+a. Ivan kazhetsya glupym / *glupyy.<br/>
    'Ivan seems stupid (INSTR) / *stupid (NOM).'
-b. Ya schitayu Ivana glupym / *glupogo.
+
+b. Ya schitayu Ivana glupym / *glupogo.<br/>
    'I consider Ivan stupid (INSTR) / *stupid (ACC).'
 
 In the case of verbs like _kazat'sya_ 'to seem', _schitat'_ 'to consider', etc., one can speak of valency for the instrumental case, or, in our terms, that such verbs take a PredP as a complement, which assigns the instrumental case.
 
 Instrumental and agreeing usage are contrasted not only by the syntactic contexts in which they are permissible. Various researchers have pointed out a semantic contrast between agreement and instrumental strategy, see (Nichols 1981; Filip 2001; Richardson 2007; Markman 2008) and others. Possible reasons for using one form or another were linked, in particular, to the distinction between individual-level and stage-level adjectives. It was established, however, that both individual-level (a) and stage-level (b) adjectives can be used with either form:
 
-(236)
-a. Devochka rosla umnaya / umnoy.
+(236)<br/>
+a. Devochka rosla umnaya / umnoy.<br/>
    'The girl grew up smart (NOM FF) / smart (INSTR FF).'
-b. Muzh prishel domoy p'yanyy / p'yanym.
+
+b. Muzh prishel domoy p'yanyy / p'yanym.<br/>
    'My husband came home drunk (NOM FF) / drunk (INSTR FF).'
 
 In (Richardson 2007), the following examples from East Slavic languages are given:
 
-(237)
-(Richardson 2007: 123)
-Ivan prishel domoy iz bol'nitsy zdorovyy / zdorovym.
+(237)<br/>
+(Richardson 2007: 123)<br/>
+Ivan prishel domoy iz bol'nitsy zdorovyy / zdorovym.<br/>
 'Ivan came home from the hospital healthy (NOM FF) / healthy (INSTR FF).'
 
-(238) Belarusian
-(Richardson 2007: 123)
-Yanka priyshov dadomu z shpitalya zdarovy / zdarovym.
-came.3SG.M home from hospital healthy-NOM / healthy-INSTR
+(238) Belarusian<br/>
+(Richardson 2007: 123)<br/>
+Yanka priyshov dadomu z shpitalya zdarovy / zdarovym.<br/>
+came.3SG.M home from hospital healthy-NOM / healthy-INSTR<br/>
 'Yanka came home from the hospital healthy (NOM) / healthy (INSTR).'
 
-(239) Ukrainian
-(Richardson 2007: 124)
-Borys pryyshov dodomu z lykarny zdorovyy / zdorovym.
-came.3SG.M home from hospital healthy-NOM / healthy-INSTR
+(239) Ukrainian<br/>
+(Richardson 2007: 124)<br/>
+Borys pryyshov dodomu z lykarny zdorovyy / zdorovym.<br/>
+came.3SG.M home from hospital healthy-NOM / healthy-INSTR<br/>
 'Borys came home from the hospital healthy (NOM) / healthy (INSTR).'
 
 According to Richardson's conclusion, see (Richardson 2007: 124), the agreement strategy is characterized by the following semantic features: i) there is no implication of a change of state as a result of the verb's action; ii) there is no assertion that the object has definitively transitioned into the state prescribed by the adjective; iii) the state prescribed by the adjective may be actual at the moment of speech, i.e., it is not tied to a specific time interval. The features of instrumental interpretation according to (Richardson 2007) are as follows: i) during the action described by the verb, the object transitioned into the state defined by the adjective (went to the hospital not being healthy and recovered there); ii) the transition to the new state ('to be healthy') occurred definitively; iii) by the moment of speech, the state may have already changed (came healthy, but is no longer healthy now), i.e., the state defined by the adjective is associated with a specific point in time.
 
 In the case of non-delimited predicates, however, the mentioned contrast is not observed:
 
-(240)
-(Internet)
-a. On shel ustalyy.
+(240)<br/>
+(Internet)<br/>
+a. On shel ustalyy.<br/>
    'He walked tired (FF).'
-a′. On shel ustalym.
+a′. On shel ustalym.<br/>
    'He walked tired (INSTR FF).'
-b. Devochka rosla zdorovaya.
-   'The girl grew up healthy (FF).'
-b′. Devochka rosla zdorovoy.
+
+b. Devochka rosla zdorovaya.<br/>
+   'The girl grew up healthy (FF).'<br/>
+b′. Devochka rosla zdorovoy.<br/>
    'The girl grew up healthy (INSTR FF).'
 
 In both variants of the example _On shel ustalyy / ustalym_ ('He walked tired / tired'), the state of 'being tired' most likely occurred before the person started walking. In both agreement and instrumental cases, there is no information about how definitive the transition to this state is, cf.: _Pervuyu chast' puti on shel ustalyy / ustalym, no potom vypil chayu i vsyu ostal'nuyu dorogu ispytyval priliv sil._ 'He walked the first part of the way tired (NOM/INSTR), but then drank tea and felt a surge of energy for the rest of the journey.'
@@ -2739,27 +2837,30 @@ One can conclude that agreeing depictives with adjective FFs are backed by struc
 
 As in the case of nominal predication, the case marking of the depictive in agreement is determined by which position the adjective's internal subject occupies in the clause structure; see a similar approach in (Grebenyova 2005). Consider the following examples:
 
-(244)
-a. Priyti na rabotu p'yanym / *p'yanyy ne vkhodilo v moi plany.
+(244)<br/>
+a. Priyti na rabotu p'yanym / *p'yanyy ne vkhodilo v moi plany.<br/>
    'To come to work drunk (INSTR) / *drunk (NOM) was not part of my plans.'
-b. Ya ne khotel priyti na rabotu p'yanym / p'yanyy.
+   
+b. Ya ne khotel priyti na rabotu p'yanym / p'yanyy.<br/>
    'I didn't want to come to work drunk (INSTR) / drunk (NOM).'
 
 In example (a), where the infinitive itself occupies the subject position, the subject of the infinitive clause is linked to arbitrary control. In example (b), conversely, the subject raises from the infinitive's subject position, as a result of which it can transmit the nominative feature down the derivation chain. Agreeing nominative usage of the depictive, therefore, is available only in (b), but not in (a).
 
 The reliability of the infinitive test can be confirmed by the so-called floating quantifier _sam_ 'self', see, for example, (Madariaga 2006). When correlated with an infinitive subject, such units can appear either in the nominative or in the dative — if the nominative is unavailable:
 
-(245)
-(Internet)
-a. Pogibat' samomu ne vkhodilo v yego plany.
+(245)<br/>
+(Internet)<br/>
+a. Pogibat' samomu ne vkhodilo v yego plany.<br/>
    'To die oneself (DAT) was not part of his plans.'
-b. Ya ne khotel ukhodit' sam.
+
+b. Ya ne khotel ukhodit' sam.<br/>
    'I didn't want to leave myself (NOM).'
 
-(246)
-a. *Pogibat' sam ne vkhodilo v yego plany.
+(246)<br/>
+a. *Pogibat' sam ne vkhodilo v yego plany.<br/>
    '*To die oneself (NOM) was not part of his plans.'
-b. *Ya ne khotel ukhodit' samomu.
+
+b. *Ya ne khotel ukhodit' samomu.<br/>
    '*I didn't want to leave myself (DAT).'
 
 The availability of the nominative feature, therefore, is observed only in raising predicates (b) — precisely in those cases where agreeing depictives are possible. In the case of subject infinitives, the depictive can be in the instrumental, but not in the nominative, because the nominative case feature cannot be spread by the subject from the matrix predication²⁶.
@@ -2768,9 +2869,9 @@ The availability of the nominative feature, therefore, is observed only in raisi
 
 Let's consider the case of control from a direct object:
 
-(247)
-(Grebenyova 2005: 77)
-Pavel poprosil Ivana ne idti na prazdnik *grustnogo / grustnym.
+(247)<br/>
+(Grebenyova 2005: 77)<br/>
+Pavel poprosil Ivana ne idti na prazdnik *grustnogo / grustnym.<br/>
 'Pavel asked Ivan not to go to the party *sad (ACC) / sad (INSTR).'
 
 In (Grebenyova 2005), which also proposes a derivational approach to the formation of depictives, the following argumentation is presented. To check the accusative feature, the noun phrase _Ivan_ must raise into the matrix vP from the position of the local subject of the secondary predication. The acquisition of the accusative feature during such a derivation, thus, turns out to be "delayed." By the time it is necessary to check the case feature on the secondary predicate, the accusative value has not yet been obtained.
@@ -2797,29 +2898,33 @@ In the case of agreeing depictives at any level, one can speak of a multiple agr
 
 Let's turn to the instrumental strategy. As in the case of nominal predication with SFs, the Pred head is responsible for the instrumental. Instrumental marking of a depictive with dative tri-argument verbs is impossible, while the agreement strategy is permissible²⁷:
 
-(250)
-(Internet)
-a. Nekotoryye tut schitayut, chto yesli urod popalsya p'yanym na chuzhoy mashine, to sovershenno tochno khozyain yeyo peredal yemu uzhe p'yanomu.
+(250)<br/>
+(Internet)<br/>
+a. Nekotoryye tut schitayut, chto yesli urod popalsya p'yanym na chuzhoy mashine, to sovershenno tochno khozyain yeyo peredal yemu uzhe p'yanomu.<br/>
    'Some here believe that if a scoundrel was caught drunk (INSTR) in someone else's car, then the owner definitely handed it over to him already drunk (DAT).'
-b. Zlodei vtoropyakh ne umeli snyat' doroguyu grivnu i dlya togo otrubili yemu golovu uzhe mertvomu.
+
+b. Zlodei vtoropyakh ne umeli snyat' doroguyu grivnu i dlya togo otrubili yemu golovu uzhe mertvomu.<br/>
    'In their haste, the villains couldn't remove the expensive hryvnia and for that purpose cut off his head already dead (DAT).'
 
-(251)
-a. *Khozyain peredal mashinu voditelyu_j uzhe p'yanym_j.
+(251)<br/>
+a. *Khozyain peredal mashinu voditelyu_j uzhe p'yanym_j.<br/>
    '*The owner handed the car over to the driver_j already drunk (INSTR)_j.'
-b. *Zlodei otrubili yemu golovu uzhe mertvym.
+
+b. *Zlodei otrubili yemu golovu uzhe mertvym.<br/>
    '*The villains cut off his head already dead (INSTR).'
 
 ²⁷ It is noteworthy that sometimes the instrumental is possible, for example, in the case of preposed adjective phrases and experiential dative: _Eshche malen'kim mne nravilos' begat' k kedram_ 'When I was still little (INSTR), I liked to run to the cedars' (Internet).
 
 Furthermore, the context of oblique cases appears ungrammatical for both types of depictives; let's provide examples with verbs governing the instrumental²⁸:
 
-(252)
-a. *Direktor upravlyal zavodom_j sovsem bednym_j.
+(252)<br/>
+a. *Direktor upravlyal zavodom_j sovsem bednym_j.<br/>
    '*The director managed the factory_j quite poor (INSTR)_j.'
-b. *Vrag zavladel gorodom uzhe pustym.
+
+b. *Vrag zavladel gorodom uzhe pustym.<br/>
    '*The enemy took possession of the city already empty (INSTR).'
-c. *Vse verteli Petey bezvol'nym.
+
+c. *Vse verteli Petey bezvol'nym.<br/>
    '*Everyone manipulated Petya (INSTR) spineless (INSTR).'
 
 ²⁸ Note that all such examples can become grammatical with special intonational emphasis. In this case, they already represent an appositive construction, see below.
@@ -2832,16 +2937,18 @@ The unavailability of the dative participant for the instrumental can be explain
 
 Subjects of nominal predication (whether main or secondary) must receive a semantic role. Such a role can be assigned either within the adjectival projection Adj, or by the Pred head. In the case of agreeing secondary predicates, as we have seen, the Pred head is absent (otherwise it is difficult to explain the ungrammaticality of agreeing nominal predicates-nouns). If only an adjective phrase is possible in the role of an agreeing predicate, then only adjectivals, but not attributives, can be used as a secondary predicate. Indeed, only adjectivals can assign a semantic role to a participant within the Adj projection. Such a prediction, it seems to us, is borne out²⁹:
 
-(253)
-Rayon voshel v sostav Moskvy uzhe promyshlennym / *promyshlennyy / ?ogromnyy.
+(253)<br/>
+Rayon voshel v sostav Moskvy uzhe promyshlennym / *promyshlennyy / ?ogromnyy.<br/>
 'The district entered the composition of Moscow already industrial (INSTR) / *industrial (NOM) / ?huge (NOM).'
-Moskva poglotila novyy rayon uzhe promyshlennym / *promyshlennyy / ??ogromnyy.
+
+Moskva poglotila novyy rayon uzhe promyshlennym / *promyshlennyy / ??ogromnyy.<br/>
 'Moscow absorbed the new district already industrial (INSTR) / *industrial (NOM) / ??huge (NOM).'
 
-(254)
-Kvartira prodavalas' dvukhkomnatnoy / *dvukhkomnatnaya / uzhe staraya.
+(254)<br/>
+Kvartira prodavalas' dvukhkomnatnoy / *dvukhkomnatnaya / uzhe staraya.<br/>
 'The apartment was sold two-room (INSTR) / *two-room (NOM) / already old (NOM).'
-Petya prodaval kvartiru dvukhkomnatnoy / *dvukhkomnatnuyu / uzhe staruyu.
+
+Petya prodaval kvartiru dvukhkomnatnoy / *dvukhkomnatnuyu / uzhe staruyu.<br/>
 'Petya sold the apartment two-room (INSTR) / *two-room (ACC) / already old (ACC).'
 
 ²⁹ These examples should be distinguished from cases of topicalization of the head noun: _Devushka (ona) rosla umnaya t devushka._ 'The girl (she) grew up a smart t girl.'
@@ -2850,147 +2957,157 @@ The grammaticality of agreeing depictives that have SFs (_ogromen_ 'huge', _star
 
 Let's say a few words about the typology of depictive case marking. A number of languages opt for a strictly agreement strategy, cf.:
 
-(255) Polish
-(Richardson 2007:109)
-Wyszedłem bogaty / ??/* bogatym, wróciłem biedny / ??/* biednym.
-left.1SG wealthy-NOM / ??/* wealthy-INS returned.1SG poor-NOM / ??/* poor-INS
+(255) Polish<br/>
+(Richardson 2007:109)<br/>
+Wyszedłem bogaty / ??/* bogatym, wróciłem biedny / ??/* biednym.<br/>
+left.1SG wealthy-NOM / ??/* wealthy-INS returned.1SG poor-NOM / ??/* poor-INS<br/>
 'I left wealthy and returned poor.'
 
-(256) Hill Mari
-(N. M. Abovyan, pers. comm.)
-a. T͡ydy Masha-m vashlin sylyk.
-   He Masha-ACC met sad
+(256) Hill Mari<br/>
+(N. M. Abovyan, pers. comm.)<br/>
+a. T͡ydy Masha-m vashlin sylyk.<br/>
+   He Masha-ACC met sad<br/>
    'He met Masha sad.'
-b. T͡ydy Masha-m sylyk-ym vashlin.
-   He Masha-ACC sad-ACC met
+
+b. T͡ydy Masha-m sylyk-ym vashlin.<br/>
+   He Masha-ACC sad-ACC met<br/>
    'He met Masha sad.'
 
 In other languages, on the contrary, the secondary predicate requires case marking that differs from the case of its subject. For example, in Ossetian, the ablative is used for depictive contexts, while the nominative is used in nominal predication:
 
-(257) Ossetian
-Nyjjardžyttæ Alan-y sx'omyl kodtoj tyx"džyn-æj / *tyx"džyn.
-Parents Alan-GEN raised strong-ABL / strong
+(257) Ossetian<br/>
+Nyjjardžyttæ Alan-y sx'omyl kodtoj tyx"džyn-æj / *tyx"džyn.<br/>
+Parents Alan-GEN raised strong-ABL / strong<br/>
 'Parents raised Alan strong.'
 
-(258) Ossetian
-Mæ caexæradon styr / *styr-æj u.
-my garden big / big-ABL COP
+(258) Ossetian<br/>
+Mæ caexæradon styr / *styr-æj u.<br/>
+my garden big / big-ABL COP<br/>
 'My garden is big.'
 
 In Buryat, the instrumental is also preferred with depictives:
 
-(259) Buryat
-Modon ündər-өөr ur-gaa.
-Tree high-INS grow-IPF
+(259) Buryat<br/>
+Modon ündər-өөr ur-gaa.<br/>
+Tree high-INS grow-IPF<br/>
 'The tree grew tall.'
 
-(260) Buryat
-Bi shülə xaluun-aar edi-deg-bi.
-I soup.ACC hot-INS eat-HAB-1.SG
+(260) Buryat<br/>
+Bi shülə xaluun-aar edi-deg-bi.<br/>
+I soup.ACC hot-INS eat-HAB-1.SG<br/>
 'I eat soup hot.'
 
 In Finnish, two cases are used for coding secondary predication: the essive and the translative. The essive is reserved for the depictive, and the translative for the resultative:
 
-(261) Finnish
-(Fong 2003: 204)
-a. Sointu paisto-i kala-n kuiva-na.
-   Sointu.NOM fry-PST.3.SG fish-ACC raw-ESS
+(261) Finnish<br/>
+(Fong 2003: 204)<br/>
+a. Sointu paisto-i kala-n kuiva-na.<br/>
+   Sointu.NOM fry-PST.3.SG fish-ACC raw-ESS<br/>
    'Sointu fries the fish raw.'
-b. Sointu paisto-i kala-n kuiva-ksi.
-   Sointu.NOM fry-PST.3.SG fish-ACC raw-TRS
+
+b. Sointu paisto-i kala-n kuiva-ksi.<br/>
+   Sointu.NOM fry-PST.3.SG fish-ACC raw-TRS<br/>
    'Sointu fries the fish raw.'
 
 ## 2.3.2. Resultatives
 
 The Finnish examples from the previous section demonstrate the following: i) in addition to depictive, there is also resultative usage of adjectives; ii) Russian (see translation) is not sensitive to distinguishing between depictives and resultatives. The following Finnish example can demonstrate a context more characteristic of a resultative:
 
-(262) Finnish
-(Matushansky 2012: 9)
-Me maalas-i-mme seinä-n keltaise-ksi.
-We paint-PAST-1.PL wall-ACC yellow-TRS
+(262) Finnish<br/>
+(Matushansky 2012: 9)<br/>
+Me maalas-i-mme seinä-n keltaise-ksi.<br/>
+We paint-PAST-1.PL wall-ACC yellow-TRS<br/>
 'We painted the wall yellow.'
 
 The Russian translation in this case is not entirely accurate. The instrumental depictive in Russian carries the meaning of acquiring a certain feature by a specific moment. However, the moment the new state begins is not linked to the action of the main verb. In the case of a resultative, the onset of the state described by the adjective is the result of the verb's action. Classic examples of resultatives are the following English sentences:
 
-(263) English
-a. John hammered the metal flat.
+(263) English<br/>
+a. John hammered the metal flat.<br/>
    'John hammered the metal so that it became flat.'
-b. John kicked the door closed.
+
+b. John kicked the door closed.<br/>
    'John kicked the door so that it closed.'
 
-(264) English
-a. John talked himself hoarse.
+(264) English<br/>
+a. John talked himself hoarse.<br/>
    'John talked so much that he became hoarse.'
-b. John ran his sneakers threadbare.
+
+b. John ran his sneakers threadbare.<br/>
    'John ran so much that his sneakers became worn out.'
 
 The action described by the main verb (John hammers the metal, kicks the door, talks, runs) leads to the onset of the state described by the resultative adjective (the metal is flattened, the door is closed, John is hoarse, the sneakers are worn out). The second pair of sentences above presents intransitive verbs that, in the absence of a resultative adjective, are ungrammatical with a direct object: _\*John talked himself_; _\*John ran his sneakers_. The use of a reflexive in the context of a resultative constitutes a case of so-called fake reflexives.
 
 The Russian language does not have resultative constructions with adjectives or participles:
 
-(265)
-a. *Dzhon rasplyushchil metall ploskim / ploskiy.
+(265)<br/>
+a. *Dzhon rasplyushchil metall ploskim / ploskiy.<br/>
    '*John flattened the metal flat (INSTR) / flat (NOM).'
-b. *Dzhon pnul dver' zakrytoy / zakrytuyu.
+
+b. *Dzhon pnul dver' zakrytoy / zakrytuyu.<br/>
    '*John kicked the door closed (INSTR) / closed (ACC).'
-c. *Dzhon zagovoril sebya khriplym / khriplogo.
+
+c. *Dzhon zagovoril sebya khriplym / khriplogo.<br/>
    '*John talked himself hoarse (INSTR) / hoarse (ACC).'
-d. *Dzhon vybegal svoi krossovki stoptannymi / stoptannyye.
+
+d. *Dzhon vybegal svoi krossovki stoptannymi / stoptannyye.<br/>
    '*John ran his sneakers worn out (INSTR) / worn out (ACC).'
 
 At the same time, Russian allows the use of resultative adverbs and prepositional phrases in the same contexts:
 
-(266)
-a. Dzhon rasplyushchil metall v lepeshku.
+(266)<br/>
+a. Dzhon rasplyushchil metall v lepeshku.<br/>
    'John flattened the metal into a pancake.'
-b. Dzhon otkryl dver' naraspashku.
+
+b. Dzhon otkryl dver' naraspashku.<br/>
    'John opened the door wide open.'
-c. Dzhon nagovorilsya do khripoty.
+
+c. Dzhon nagovorilsya do khripoty.<br/>
    'John talked himself hoarse.'
-d. Dzhon iznosil krossovki do dyr.
+
+d. Dzhon iznosil krossovki do dyr.<br/>
    'John wore out his sneakers until holes (appeared).'
 
 Typologically, resultatives appear to be a rarer construction than depictives. For example, in Kalmyk and Ossetian, the resultative use of adjectives is also ungrammatical:
 
-(267) Kalmyk
-*Bi ger /-in ulan shirdv.
-I house/-ACC red painted
+(267) Kalmyk<br/>
+*Bi ger /-in ulan shirdv.<br/>
+I house/-ACC red painted<br/>
 Intended: 'I painted the house so that it became red.'
 
-(268) Ossetian
-*Alan a-lenk kodta fællad-æj / fællad.
-Alan PREF-swam tired-ABL / tired
-i) '*Alan swam so much that he became tired.'
+(268) Ossetian<br/>
+*Alan a-lenk kodta fællad-æj / fællad.<br/>
+Alan PREF-swam tired-ABL / tired<br/>
+i) '*Alan swam so much that he became tired.'<br/>
 ii) 'Alan swam tired.'
 
 Here are examples of adjectives functioning as resultatives outside of English:
 
-(269) German
-(Kratzer 2005: 177)
-die Teekanne leer trinken
-DEF teapot empty drink
+(269) German<br/>
+(Kratzer 2005: 177)<br/>
+die Teekanne leer trinken<br/>
+DEF teapot empty drink<br/>
 'drink the teapot empty.'
 
-(270) Warlpiri
-(Simpson 2005: 85)
-Yulpu-karda janka-ja pirrjirdi-wangu-karda, yilara.
-Soft-TRS fry-PST hard-CAR-TRS meat
+(270) Warlpiri<br/>
+(Simpson 2005: 85)<br/>
+Yulpu-karda janka-ja pirrjirdi-wangu-karda, yilara.<br/>
+Soft-TRS fry-PST hard-CAR-TRS meat<br/>
 'It fried the meat to a soft state, so that it is no longer (pleasant and) hard.'
 
 Adjectives marked with the translative (cf. Finnish!) in Warlpiri can function as both depictives and resultatives (Simpson 2005); the example above presents a resultative.
 
 Resultatives are close to another well-known phenomenon in the world's languages: serialization. One regular type of serialization is formed with the participation of a verb and an adjective (stative) and possesses resultative semantics:
 
-(271) East Kayah
-(Solnit 2006: 149)
-ʔa ce li bēʔū.
-3.SG paint red clothes
+(271) East Kayah<br/>
+(Solnit 2006: 149)<br/>
+ʔa ce li bēʔū.<br/>
+3.SG paint red clothes<br/>
 'He/she painted the clothes so that they became red.'
 
-(272) Semelai
-(Kruspe 2004: 301)
-Cɔkwɛn βəp!
-throw.out be.far
+(272) Semelai<br/>
+(Kruspe 2004: 301)<br/>
+Cɔkwɛn βəp!<br/>
+throw.out be.far<br/>
 'Throw (it) far away!'
 
 Resultatives and serial constructions are similar in that: i) they have the meaning of transitioning into a final state, defined by the adjective; ii) the internal participant of the situation defined by the verb is the sole participant of the situation defined by the adjective³⁰.
@@ -3001,43 +3118,44 @@ M. Baker (Baker 2003) considers resultative constructions quite important for un
 
 Firstly, resultatives must be located before prepositional phrases with instrumental semantics (a), while depictives can follow such PPs (b):
 
-(273)
-(Baker 2004: 220)
-a. I wiped the table (clean) with a damp cloth (*clean).
+(273)<br/>
+(Baker 2004: 220)<br/>
+a. I wiped the table (clean) with a damp cloth (*clean).<br/>
    'I wiped the table (clean = 'thoroughly') with a damp cloth (*clean = 'thoroughly').'
+
 b. I ate the meat (?raw) with a fork (raw).
-   'I ate the meat (?raw) with a fork (raw).'
 
 Secondly, if both secondary predicates are present in a sentence, the resultative always precedes the depictive:
 
-(274)
-(Baker 2004: 220)
-a. I washed the car clean cold.
+(274)<br/>
+(Baker 2004: 220)<br/>
+a. I washed the car clean cold.<br/>
    'I washed the car clean while frozen.'
-b. *I washed the car cold clean.
+
+b. *I washed the car cold clean.<br/>
    '*I washed the car frozen clean.'
 
 Thirdly, only depictives, but not resultatives, can follow the verb phrase of a bitransitive verb:
 
-(275)
-(Baker 2004: 220)
-a. *I broke Chris a coconut open.
+(275)<br/>
+(Baker 2004: 220)<br/>
+a. *I broke Chris a coconut open.<br/>
    'I broke a coconut for Chris so that it opened.'
+
 b. I gave Chris the meat raw.
-   'I gave Chris the meat raw.'
 
 Fourthly, resultative constructions (in English) are always object-oriented (a)³¹, while depictives can refer to either the object (b) or the subject (c):
 
-(276)
-(Baker 2004: 220)
-a. The file_i sanded the wood_j smooth_*i/j.
+(276)<br/>
+(Baker 2004: 220)<br/>
+a. The file_i sanded the wood_j smooth_*i/j.<br/>
    'The file sanded the wood so that it became smooth.'
 
 ³¹ Cf., however, examples like _The water froze solid_, as well as cases of "fake reflexives" like _John talked himself hoarse_, etc.
 
 b. I ate the meat raw.
-   'I ate the meat raw.'
-c. I left Chris angry.
+
+c. I left Chris angry.<br/>
    'I_i left Chris_j angry_i/j.'
 
 Based on these facts, Baker proposes a decompositional analysis of verb structure, including an adjectival resultative:
@@ -3048,7 +3166,7 @@ Based on these facts, Baker proposes a decompositional analysis of verb structur
 
 According to (Baker 2004), the verb phrase, containing various levels of lexical projection, includes a resulting state, expressed in the case of the verb _wipe_ by the adjective _wiped_. Above such an adjective phrase,
 
-³² _I wiped the table clean_ 'I wiped the table clean'.
+³² _I wiped the table clean_.
 
 lexical projections responsible for the eventive part of the situation are built. The syntactic "sister" of the adjective _wiped_ in this case becomes the adjective _clean_, which, according to Baker, is also part of the verb phrase.
 
@@ -3086,137 +3204,136 @@ In Russian, no category can function as a resultative. Both facts are explained 
 
 In Russian, two types of discontinuous constructions with adjectives regularly occur: postposition and left dislocation. In postposition, detached attributes are placed after the head noun, often contiguously (_snegiri — neobyknovennye sredi moroza i snega_ 'bullfinches — unusual amidst the frost and snow'), sometimes discontinuously (_arestanty poshli domoy, ustalyye, no sovershenno dovol'nyye_ 'the prisoners went home, tired, but completely satisfied'):
 
-(279)
-(SinTagRus)
-Murlykali i delovito koposhilis' na torcashchem iz-pod snega tatarnike snegiri -neobyknovennye sredi moroza i snega, kak tropicheskiye ptitsy…
+(279)<br/>
+(SinTagRus)<br/>
+Murlykali i delovito koposhilis' na torcashchem iz-pod snega tatarnike snegiri -neobyknovennye sredi moroza i snega, kak tropicheskiye ptitsy…<br/>
 'The bullfinches purred and busily bustled on the tatarnik sticking out from under the snow — unusual amidst the frost and snow, like tropical birds…'
 
-(280)
-(F. M. Dostoyevsky. "Notes from the House of the Dead")
-Rovno za polchasa do barabana zadannyy urok byl okonchen, i arestanty poshli domoy, ustalyye, no sovershenno dovol'nyye…
+(280)<br/>
+(F. M. Dostoyevsky. "Notes from the House of the Dead")<br/>
+Rovno za polchasa do barabana zadannyy urok byl okonchen, i arestanty poshli domoy, ustalyye, no sovershenno dovol'nyye…<br/>
 'Exactly half an hour before the drum, the assigned lesson was finished, and the prisoners went home, tired, but completely satisfied…'
 
 With left dislocation, the adjective phrase is located at the absolute beginning of the sentence:
 
-(281)
-(SinTagRus)
-«Vol'nyye v knyaz'yakh», novgorodtsy mogli prognat' knyazya, okazavshegosya neugodnym, i prizvat' na yego mesto drugogo, no knyazheskiy stol u nikh pochti nikogda ne byval vakantnym.
+(281)<br/>
+(SinTagRus)<br/>
+«Vol'nyye v knyaz'yakh», novgorodtsy mogli prognat' knyazya, okazavshegosya neugodnym, i prizvat' na yego mesto drugogo, no knyazheskiy stol u nikh pochti nikogda ne byval vakantnym.<br/>
 '"Free in princes," the Novgorodians could drive away a prince who proved displeasing, and summon another in his place, but their princely throne was almost never vacant.'
 
-(282)
-(SinTagRus)
-Gromko razreklamirovannyy, yego proyekt opirayetsya na ofitsial'nuyu ideologiyu privedeniya strany v poryadok, chto dobavlyayet yemu privlekatel'nosti v glazakh kremlevskikh obitateley.
+(282)<br/>
+(SinTagRus)<br/>
+Gromko razreklamirovannyy, yego proyekt opirayetsya na ofitsial'nuyu ideologiyu privedeniya strany v poryadok, chto dobavlyayet yemu privlekatel'nosti v glazakh kremlevskikh obitateley.<br/>
 'Loudly advertised, his project relies on the official ideology of bringing the country to order, which adds to its appeal in the eyes of the Kremlin inhabitants.'
 
 Despite the fact that it is sometimes problematic to insert additional material between the adjective and the noun, adjectives with left dislocation are not in their base position, as can be seen from the demonstrative pronoun in the case of _Gromko razreklamirovannyy, yego proyekt_ ('Loudly advertised, his project') (instead of _yego gromko razreklamirovannyy proyekt_ 'his loudly advertised project').
 
 Both instances of such constructions will hereinafter be referred to as appositive detachment (AD). At first glance, the "condition for existence" of AD appears to be the presence of more than one attributive word form. Single adjectives in the same examples (and with neutral intonation) appear ungrammatical:
 
-(283)
-*Murlykali i koposhilis' snegiri neobyknovennye.
+(283)<br/>
+*Murlykali i koposhilis' snegiri neobyknovennye.<br/>
 '*The bullfinches purred and bustled, unusual.'
 
-(284)
-*Razreklamirovannyy yego proyekt opirayetsya na ofitsial'nuyu ideologiyu.
+(284)<br/>
+*Razreklamirovannyy yego proyekt opirayetsya na ofitsial'nuyu ideologiyu.<br/>
 '*His advertised project relies on the official ideology.'
 
 Analogues of Russian ADs exist in other languages:
 
-(285) English
-(Internet)
-a. …comfortable bed, and the bathroom, while not large, was quite adequate.
-   '…a comfortable bed, and the bathroom, though not large, was quite adequate.'
+(285) English<br/>
+(Internet)<br/>
+a. …comfortable bed, and the bathroom, while not large, was quite adequate.<br/>
 b. Although not necessarily dirty, the rooms are old, the furniture is cheap.
-   'Though not necessarily dirty, the rooms were old, the furniture - cheap.'
 
-(286) French
-(G. Flaubert. "Bouvard and Pécuchet")
-Pecuchet, bilieux et de tendances autoritaires, se declara sansculotte et meme robespierriste.
+(286) French<br/>
+(G. Flaubert. "Bouvard and Pécuchet")<br/>
+Pecuchet, bilieux et de tendances autoritaires, se declara sansculotte et meme robespierriste.<br/>
 'Bilious, authoritarian Pécuchet declared himself a sans-culotte and even a Robespierrist.'
 
-(287) French
-(T. Gautier. "Arria Marcella")
-Voluptueux et positif, il ne se payait pas d'illusions et n'avait en amour aucun prejuge.
+(287) French<br/>
+(T. Gautier. "Arria Marcella")<br/>
+Voluptueux et positif, il ne se payait pas d'illusions et n'avait en amour aucun prejuge.<br/>
 'Sensuous and grounded in his own experiences, he harbored no illusions and had no prejudices in love.'
 
 Prosodic marking is key for ADs. The boundaries of the constituent are marked by a pause, and a falling tone is present on the adjective or at the end of the AD. In left dislocation, the pause is placed after the adjective (phrase), while in postposition, it is placed before it. With intonational marking, even single adjectives become grammatical:
 
-(288)
-Murlykali i koposhilis' snegiri, _neobyknovennye_ ↓ .
+(288)<br/>
+Murlykali i koposhilis' snegiri, _neobyknovennye_↓.<br/>
 'The bullfinches purred and bustled, _unusual_ (falling tone).'
 
-(289)
-(SinTagRus)
-Do poloviny proydena zemnaya zhizn', vperedi vtoraya polovina, _khudshaya_ ↓ .
+(289)<br/>
+(SinTagRus)<br/>
+Do poloviny proydena zemnaya zhizn', vperedi vtoraya polovina, _khudshaya_↓.<br/>
 'Half of earthly life has been passed, ahead is the second half, _the worst_ (falling tone).'
 
-(290)
-Razreklamirovannyy ↓ _, yego proyekt opirayetsya na ofitsial'nuyu ideologiyu.
+(290)<br/>
+_Razreklamirovannyy_↓, yego proyekt opirayetsya na ofitsial'nuyu ideologiyu.<br/>
 '_Advertised_ (falling tone), his project relies on the official ideology.'
 
-(291)
-(Internet)
-Rasstroyennaya ↓ _, moya zhena prinyalas' sobirat' so stola gryaznyye tarelki.
+(291)<br/>
+(Internet)<br/>
+_Rasstroyennaya_ ↓, moya zhena prinyalas' sobirat' so stola gryaznyye tarelki.<br/>
 '_Upset_ (falling tone), my wife began to clear the dirty dishes from the table.'
 
 From the perspective of information structure, ADs are always rhemes. Left-dislocated ADs are in focus, acquiring a possible meaning of cause or concession, see (Sannikov 2010).
 
 In (AG-80-2: §§ 2108-2116), detached clauses are distinguished, which include participial / substantival / adjectival clauses, semi-predication, pre- and postposition. Example (a) below has a causal meaning, and (b) a concessive meaning:
 
-(292)
-(AG-80-2: §§ 2108)
-a. Sogretyy solntsem, mokh rastsvyol belymi krokhotnymi tsvetami.
+(292)<br/>
+(AG-80-2: §§ 2108)<br/>
+a. Sogretyy solntsem, mokh rastsvyol belymi krokhotnymi tsvetami.<br/>
    'Warmed by the sun, the moss bloomed with tiny white flowers.'
-b. Otrezannyye ot vsego mira, ural'tsy s chest'yu vyderzhali kazach'yu osadu.
+
+b. Otrezannyye ot vsego mira, ural'tsy s chest'yu vyderzhali kazach'yu osadu.<br/>
    'Cut off from the whole world, the Ural Cossacks honorably withstood the Cossack siege.'
 
 The overwhelming majority of examples with ADs contain either adjectives with their own dependents or conjoined adjectives. As for dependents, they can vary. The examples below consistently show cases of postposition and left dislocation with adjectives extended by prepositional-case forms or intensifiers:
 
-(293)
-(SinTagRus)
-Spamery atakuyut domashniye komp'yutery, mnogiye iz kotorykh dazhe ne snabzheny bazovoy sistemoy zashchity firewall (sposobnoy obnaruzhivat' lyubyye vtorzheniya).
+(293)<br/>
+(SinTagRus)<br/>
+Spamery atakuyut domashniye komp'yutery, mnogiye iz kotorykh dazhe ne snabzheny bazovoy sistemoy zashchity firewall (sposobnoy obnaruzhivat' lyubyye vtorzheniya).<br/>
 'Spammers attack home computers, many of which are not even equipped with a basic firewall protection system (capable of detecting any intrusions).'
 
-(294)
-(Internet)
-Dovol'nyy svoyey zhizn'yu i kar'yeroy, etot chelovek, u kotorogo ne khvatilo vremeni zanyat'sya psikhoanalizom… gotov pogovorit' ob etom i mnogom drugom.
+(294)<br/>
+(Internet)<br/>
+Dovol'nyy svoyey zhizn'yu i kar'yeroy, etot chelovek, u kotorogo ne khvatilo vremeni zanyat'sya psikhoanalizom… gotov pogovorit' ob etom i mnogom drugom.<br/>
 'Satisfied with his life and career, this man, who didn't have time for psychoanalysis… is ready to talk about this and much more.'
 
-(295)
-(SinTagRus)
-Prichem rech' idet o glubinnom, vnutrennem stresse, vneshne nezametnom, no na fiziologicheskom urovne on nepremenno proyavitsya.
+(295)<br/>
+(SinTagRus)<br/>
+Prichem rech' idet o glubinnom, vnutrennem stresse, vneshne nezametnom, no na fiziologicheskom urovne on nepremenno proyavitsya.<br/>
 'Moreover, it's about a deep, internal stress, externally unnoticeable, but it will certainly manifest itself on a physiological level.'
 
-(296)
-Vneshne nezametnyy, etot stress nepremenno proyavitsya.
+(296)<br/>
+Vneshne nezametnyy, etot stress nepremenno proyavitsya.<br/>
 'Externally unnoticeable, this stress will certainly manifest itself.'
 
 Another group of examples is related to conjoined adjectives (participles):
 
-(297)
-(SinTagRus)
-No ya by skazal, chto zvezdy - proshlyye i podrastayushchiye - v osnovnom doma ostalis'.
+(297)<br/>
+(SinTagRus)<br/>
+No ya by skazal, chto zvezdy - proshlyye i podrastayushchiye - v osnovnom doma ostalis'.<br/>
 'But I would say that the stars – past and rising – mostly stayed home.'
 
-(298)
-Proshlyye i podrastayushchiye, vse zvezdy v osnovnom ostalis' doma.
+(298)<br/>
+Proshlyye i podrastayushchiye, vse zvezdy v osnovnom ostalis' doma.<br/>
 'Past and rising, all the stars mostly stayed home.'
 
 Constructions with ADs are permissible with any coordinating means, including asyndetic coordination:
 
-(299)
-(SinTagRus)
-...chitatel', to yest' lyuboy myslyashchiy chelovek, ispytyvayet segodnya, kak mne kazhetsya, potrebnost' ne stol'ko v syuzhetnykh khitrospleteniyakh, skol'ko v iskrennem sobesednike, dumayushchem, vspominayushchem, perezhivayushchem vmeste s toboy…
+(299)<br/>
+(SinTagRus)<br/>
+...chitatel', to yest' lyuboy myslyashchiy chelovek, ispytyvayet segodnya, kak mne kazhetsya, potrebnost' ne stol'ko v syuzhetnykh khitrospleteniyakh, skol'ko v iskrennem sobesednike, dumayushchem, vspominayushchem, perezhivayushchem vmeste s toboy…<br/>
 '…the reader, that is, any thinking person, feels today, it seems to me, a need not so much for intricate plots, but for a sincere interlocutor, thinking, remembering, experiencing together with you…'
 
 As mentioned earlier, all examples of ADs with expanded constituents (syntactic dependents or coordination) can remain grammatical even with a single adjective if they are accompanied by appropriate intonational emphasis:
 
-(300)
-Prichem rech' idet o glubinnom, vnutrennem stresse, nezametnom, no takom, kotoryy nepremenno proyavitsya.
+(300)<br/>
+Prichem rech' idet o glubinnom, vnutrennem stresse, nezametnom, no takom, kotoryy nepremenno proyavitsya.<br/>
 'Moreover, it's about a deep, internal stress, unnoticeable, but one that will certainly manifest itself.'
 
-(301)
-Nezametnyy, etot stress nepremenno proyavitsya.
+(301)<br/>
+Nezametnyy, etot stress nepremenno proyavitsya.<br/>
 'Unnoticeable, this stress will certainly manifest itself.'
 
 The constitutive property of ADs, it seems, is not the quantity and type of constituents, but the presence of intonational emphasis, primarily a pause separating the adjective from the rest of the material.
@@ -3227,165 +3344,171 @@ Due to differences in semantics and contexts of use, ADs are also not examples o
 
 Intonationally – by the absence of a pause and additional stress – ADs differ from so-called afterthought constructions, discontinuous constituents in which elements of one constituent fall "inside" another:
 
-(302)
-(Kovtunova 2002: 123)
-V sirenevatoy rykhloy temnote vyazkiye plavali golosa.
+(302)<br/>
+(Kovtunova 2002: 123)<br/>
+V sirenevatoy rykhloy temnote vyazkiye plavali golosa.<br/>
 'In the lilac, loose darkness, viscous voices floated.'
 
 ADs also differ from secondary predication. For example, instrumental marking of ADs is excluded; see also (Pereltsvaig 2007: 133) and the sources cited therein:
 
-(303)
-*Murlykali i koposhilis' snegiri, neobyknovennymi sredi moroza i snega.
+(303)<br/>
+*Murlykali i koposhilis' snegiri, neobyknovennymi sredi moroza i snega.<br/>
 '*The bullfinches purred and bustled, _unusual (INSTR)_ amidst the frost and snow.'
 
-(304)
-*Gromko razreklamirovannym, yego proyekt opirayetsya na ofitsial'nuyu ideologiyu.
+(304)<br/>
+*Gromko razreklamirovannym, yego proyekt opirayetsya na ofitsial'nuyu ideologiyu.<br/>
 '*Loudly advertised (INSTR), his project relies on the official ideology.'
 
 ADs, therefore, represent a special type of constituent, whose nature we will try to define below.
 
 When studying examples of ADs, another regularity related to them stands out: the head in the original constructions is extremely often a pronoun or a proper noun. The following four examples demonstrate pronominal heads in postposition and left dislocation:
 
-(305)
-(SinTagRus)
-a. …myatuyu bumazhnuyu skatert' trogatel'no ukreplyayut na verevke bel'yevymi prishepkami, i na ney, stavshey ekranom, poyavlyayetsya fotografiya.
+(305)<br/>
+(SinTagRus)<br/>
+a. …myatuyu bumazhnuyu skatert' trogatel'no ukreplyayut na verevke bel'yevymi prishepkami, i na ney, stavshey ekranom, poyavlyayetsya fotografiya.<br/>
    '…they touchingly fix the crumpled paper tablecloth to the rope with clothespins, and on it, having become a screen, a photograph appears.'
-b. Svyazyvat'sya ne khotelos', a to b ya tebya, takogo khrabrogo!..
+
+b. Svyazyvat'sya ne khotelos', a to b ya tebya, takogo khrabrogo!..<br/>
    'I didn't want to get involved, or else I would have [dealt with] you, so brave!..'
 
-(306)
-(SinTagRus)
-a. Rasstroyennyy, s polnym podnosom, on ushel za kulisy - i uvidel, chto tam uzhe zreyet skandal.
+(306)<br/>
+(SinTagRus)<br/>
+a. Rasstroyennyy, s polnym podnosom, on ushel za kulisy - i uvidel, chto tam uzhe zreyet skandal.<br/>
    'Upset, with a full tray, he went backstage - and saw that a scandal was already brewing there.'
-b. Ustavshiye, oni tem ne meneye ne skryvali vostorga: ischerpav zapas verevok i kryuch'yev, oni doshli do glubiny 1680 metrov, ostanovivshis' pered nachalom novogo kolodtsa.
+
+b. Ustavshiye, oni tem ne meneye ne skryvali vostorga: ischerpav zapas verevok i kryuch'yev, oni doshli do glubiny 1680 metrov, ostanovivshis' pered nachalom novogo kolodtsa.<br/>
    'Tired, they nevertheless did not hide their delight: having exhausted their supply of ropes and hooks, they reached a depth of 1680 meters, stopping before the beginning of a new well.'
 
 The examples below present proper nouns as heads in postpositive and left-dislocated ADs:
 
-(307)
-(SinTagRus)
-a. V Yevrope Prokof'yevu rady, odnako Dyagilev, pomeshannyy na balete, stremitsya chut' li ne kazhdyy yego kontsert «podslastit'» kakim-nibud' stsenicheskim deystvom.
+(307)<br/>
+(SinTagRus)<br/>
+a. V Yevrope Prokof'yevu rady, odnako Dyagilev, pomeshannyy na balete, stremitsya chut' li ne kazhdyy yego kontsert «podslastit'» kakim-nibud' stsenicheskim deystvom.<br/>
    'In Europe, Prokofiev is welcome, but Dyagilev, obsessed with ballet, tries to "sweeten" almost every one of his concerts with some kind of stage performance.'
-b. No eto bylo tak neopredelenno, chto Glasha, roslaya, delovaya, rabotavshaya bukhgalterom na spichechnoy fabrike, predlozhila…
+
+b. No eto bylo tak neopredelenno, chto Glasha, roslaya, delovaya, rabotavshaya bukhgalterom na spichechnoy fabrike, predlozhila…<br/>
    'But it was so uncertain that Glasha, tall, businesslike, working as an accountant at a match factory, suggested…'
 
-(308)
-(V. Shalamov. "The Handwriting", 1964)
-Gotovyy ko vsemu, bezrazlichnyy ko vsemu, Krist shel po uzkoy trope.
+(308)<br/>
+(V. Shalamov. "The Handwriting", 1964)<br/>
+Gotovyy ko vsemu, bezrazlichnyy ko vsemu, Krist shel po uzkoy trope.<br/>
 'Ready for anything, indifferent to everything, Christ walked along the narrow path.'
 
 It appears that the (more than) regular use of pronouns / proper nouns indicates that the constituents to which ADs refer are always headed by a full noun phrase, not a head noun.
 
 Within extended adjective phrases in ADs, the use of reflexive pronouns is possible. This applies not only to postpositive ADs but also to ADs with left dislocation:
 
-(309)
-(Internet)
-Chekhov, vernyy sebe, ne dayet opredelennogo resheniya, obrashchaya vnimaniye na individualizatsiyu kazhdogo otdel'nogo sluchaya.
+(309)<br/>
+(Internet)<br/>
+Chekhov, vernyy sebe, ne dayet opredelennogo resheniya, obrashchaya vnimaniye na individualizatsiyu kazhdogo otdel'nogo sluchaya.<br/>
 'Chekhov, true to himself, does not give a definite solution, drawing attention to the individualization of each particular case.'
 
-(310)
-(Internet)
-a. Dovol'nyy svoim uspekhom, Petr s voskhishcheniyem smotrel na to, chto dostavilo yemu i etot uspekh…
+(310)<br/>
+(Internet)<br/>
+a. Dovol'nyy svoim uspekhom, Petr s voskhishcheniyem smotrel na to, chto dostavilo yemu i etot uspekh…<br/>
    'Pleased with his success, Peter looked with admiration at what had brought him this success too…'
-b. Gordyy soboy, on podoshyol k klavesinu i stal podbirat' melodiyu.
+
+b. Gordyy soboy, on podoshyol k klavesinu i stal podbirat' melodiyu.<br/>
    'Proud of himself, he approached the harpsichord and began to pick out a melody.'
 
 Since reflexives are grammatical only in positions where they are c-commanded by their antecedent, it can be concluded that even with left dislocation, they are originally located within some constituent with their antecedent, which dominates and c-commands them.
 
 Contrary to the assertion in (AG-80-2), an AD can refer not only to the subject but also to participants in other cases. Examples for the direct object are easily found, both with postposition and with left dislocation:
 
-(311)
-(SinTagRus)
-I iskali, i nashli tam opyat' tol'ko sebya, opustoshennogo, robkogo i tumannogo, kak Andromeda v byustgaltere.
+(311)<br/>
+(SinTagRus)<br/>
+I iskali, i nashli tam opyat' tol'ko sebya, opustoshennogo, robkogo i tumannogo, kak Andromeda v byustgaltere.<br/>
 'And they searched, and found there again only themselves, devastated, timid, and hazy, like Andromeda in a bra.'
 
-(312)
-(Internet)
-Ustavshego i ozyabshego, dyadya Borya vstretil menya so vsey dushevnoy teplotoy…
+(312)<br/>
+(Internet)<br/>
+Ustavshego i ozyabshego, dyadya Borya vstretil menya so vsey dushevnoy teplotoy…<br/>
 'Tired and chilled, Uncle Borya met me with all his heartfelt warmth…'
 
 The situation is somewhat more complex with oblique case contexts. While examples of postpositive usage are easily found, cases of left dislocation were not encountered when searching for examples. When constructing left dislocation based on postposition examples, we get the following picture for the dative and instrumental:
 
-(313)
-(A. Dumas. "Isaac Laquedem")
-V eto vremya umer Tsezar' Avgust, kotoryy dal peredyshku vsemu miru, ustavshemu ot pobed, zavoyevaniy, perevorotov i vsyakogo roda potryaseniy i nuzhdavshemusya v kratkom otdykhe…
+(313)<br/>
+(A. Dumas. "Isaac Laquedem")<br/>
+V eto vremya umer Tsezar' Avgust, kotoryy dal peredyshku vsemu miru, ustavshemu ot pobed, zavoyevaniy, perevorotov i vsyakogo roda potryaseniy i nuzhdavshemusya v kratkom otdykhe…<br/>
 'At this time, Caesar Augustus died, who gave a respite to the whole world, which was tired of victories, conquests, upheavals, and all kinds of turmoil, and needed a brief rest…'
 
-(314)
-??/* Ustavshemu ot pobed, Tsezar' Avgust dal peredyshku miru.
-_??/*Tired of victories, Caesar Augustus gave the world a respite.'_
+(314)<br/>
+??/* Ustavshemu ot pobed, Tsezar' Avgust dal peredyshku miru.<br/>
+'??/*Tired of victories, Caesar Augustus gave the world a respite.'
 
-(315)
-(SinTagRus)
-Spamery atakuyut domashniye komp'yutery, mnogiye iz kotorykh dazhe ne snabzheny bazovoy sistemoy zashchity firewall (sposobnoy obnaruzhivat' lyubyye vtorzheniya).
+(315)<br/>
+(SinTagRus)<br/>
+Spamery atakuyut domashniye komp'yutery, mnogiye iz kotorykh dazhe ne snabzheny bazovoy sistemoy zashchity firewall (sposobnoy obnaruzhivat' lyubyye vtorzheniya).<br/>
 'Spammers attack home computers, many of which are not even equipped with a basic firewall protection system (capable of detecting any intrusions).'
 
-(316)
-*Sposobnoy obnaruzhivat' lyubyye vtorzheniya, komp'yutery snabzheny bazovoy sistemoy zashchity.
+(316)<br/>
+*Sposobnoy obnaruzhivat' lyubyye vtorzheniya, komp'yutery snabzheny bazovoy sistemoy zashchity.<br/>
 '*Capable of detecting any intrusions, computers are equipped with a basic protection system.'
 
 Thus, left dislocation of ADs with oblique-cased participants is ungrammatical. An important fact for us will be that postpositive ADs are permissible in the context of the genitive and prepositional phrases:
 
-(317)
-(Internet)
-a. Kazhdaya novaya stranitsa - kapel'ka reki udivitel'nogo mira, novogo i nevedomogo.
+(317)<br/>
+(Internet)<br/>
+a. Kazhdaya novaya stranitsa - kapel'ka reki udivitel'nogo mira, novogo i nevedomogo.<br/>
    'Every new page is a drop of the river of a wonderful world, new and unknown.'
-b. …ostavim posle sebya grudu veshchey, starykh, no v rabochem sostoyanii.
+
+b. …ostavim posle sebya grudu veshchey, starykh, no v rabochem sostoyanii.<br/>
    '…we will leave behind a pile of things, old, but in working condition.'
 
-(318)
-(SinTagRus)
-Yesli kanal budet - znachit eto vse-taki udar lineynoy molnii, pust' neobychnoy, no lineynoy.
+(318)<br/>
+(SinTagRus)<br/>
+Yesli kanal budet - znachit eto vse-taki udar lineynoy molnii, pust' neobychnoy, no lineynoy.<br/>
 'If there's a channel – it means it's still a linear lightning strike, perhaps unusual, but linear.'
 
-(319)
-(SinTagRus)
-...tikhiy, skoryy na svetlyye slezy, lyubitel' karamelek, izyuma, bulochek s varenyem, nichem ne byl on pokhozh na Loru, shumnyuyu, vzvolnovannuyu, vsyu cherno-zolotuyu.
+(319)<br/>
+(SinTagRus)<br/>
+...tikhiy, skoryy na svetlyye slezy, lyubitel' karamelek, izyuma, bulochek s varenyem, nichem ne byl on pokhozh na Loru, shumnyuyu, vzvolnovannuyu, vsyu cherno-zolotuyu.<br/>
 '…quiet, quick to bright tears, a lover of caramels, raisins, buns with jam, he was in no way similar to Laura, noisy, agitated, all black and gold.'
 
 Left dislocation in these cases is ungrammatical:
 
-(320)
-*Pust' neobychnoy, no lineynoy, eto vse-taki udar molnii.
+(320)<br/>
+*Pust' neobychnoy, no lineynoy, eto vse-taki udar molnii.<br/>
 '*Though unusual, but linear, this is still a lightning strike.'
 
-(321)
-*Shumnuyu, vzvolnovannuyu, papa ne byl pokhozh na Loru.
+(321)<br/>
+*Shumnuyu, vzvolnovannuyu, papa ne byl pokhozh na Loru.<br/>
 '*Noisy, agitated, Dad was not like Laura.'
 
 Note that (postpositive) ADs differ from depictives in this respect. In both ADs and agreeing depictives, adjectives copy the gender, number, and case of the noun they refer to. Despite this, the grammaticality conditions of the two constructions are different: only ADs, but not agreeing depictives, are permissible in the context of the genitive and prepositional phrase. In the absence of the intonation characteristic of ADs, adjectives form depictives that are ungrammatical with a possessor or a prepositional phrase:
 
-(322)
-*My nablyudali udar molnii uzhe neyarkoy.
+(322)<br/>
+*My nablyudali udar molnii uzhe neyarkoy.<br/>
 '*We observed the lightning strike already dim (FEM.GEN).'
 
-(323)
-*Papa ne byl pokhozh na Loru takuyu veseluyu.
+(323)<br/>
+*Papa ne byl pokhozh na Loru takuyu veseluyu.<br/>
 '*Dad was not like Laura such a cheerful one.'
 
 So, let's list the main properties of ADs that we have established: i) the noun phrase to which the AD refers is a full noun phrase; ii) in the initial configuration, such a full noun phrase c-commands the adjective phrase; iii) postpositive ADs can refer to noun phrases in direct and oblique cases, as well as in the context of the genitive and prepositional phrases; iv) ADs dislocated to the left periphery can refer only to noun phrases in direct cases; v) postpositive ADs, while similar to agreeing depictives in requiring the copying of grammatical features, differ in their possibility of use in genitive and prepositional contexts.
 
 Based on these distributional properties, we propose the following approach to the structure of ADs. In (Heringa 2011), a special type of functional heads and their projections is posited. We believe that there is no need to introduce special functional projections. We propose that detached uses of adjectives are formed within nominal projections, on par with the so-called detached-attributive constructions (Sannikov 2010), which are noun phrases:
 
-(324)
-(Sannikov 2010: 118)
-a. [DP On], [DP negodyay], pogubil svoyego ottsa.
+(324)<br/>
+(Sannikov 2010: 118)<br/>
+a. [DP On], [DP negodyay], pogubil svoyego ottsa.<br/>
    [DP He], [DP scoundrel], ruined his father.
-b. [DP Negodyay], [DP on] pogubil svoyego ottsa.
+
+b. [DP Negodyay], [DP on] pogubil svoyego ottsa.<br/>
    [DP Scoundrel], [DP he] ruined his father.
 
 In such cases, two noun phrases are present. One of them, the "anchor" in (Heringa 2011) terminology, is the "subject," and the second is the predicate. As we see, (Sannikov 2010) examines the same usages that we have identified. In the first of these, the predicate is in postposition to the anchor, and in the second, it is dislocated to the absolute beginning. The ADs we have identified have the same structure as V. Z. Sannikov's "detached-attributive constructions," with the only difference being that the predicate is an adjective phrase rather than a noun phrase. In both cases, the "anchor-subject" is a full noun phrase and, at some stage of derivation, forms a single nominal constituent with the predicates (adjectives or noun phrases).
 
 Note that constructions with detached (postpositive) noun phrases can also be embedded in the genitive or a prepositional phrase:
 
-(325)
-(M. Gorky. "An Evening at Panashkin's")
-dvenadtsati let, posle smerti ottsa, p'yanogo chinovnika kazennoy palaty…
+(325)<br/>
+(M. Gorky. "An Evening at Panashkin's")<br/>
+dvenadtsati let, posle smerti ottsa, p'yanogo chinovnika kazennoy palaty…<br/>
 'twelve years old, after the death of his father, a drunk official of the treasury chamber…'
 
-(326)
-(Internet)
-Tut yemu i prikhodit uvedomleniye, chto strana ot nego, negodyaya, nalog zhdet…
+(326)<br/>
+(Internet)<br/>
+Tut yemu i prikhodit uvedomleniye, chto strana ot nego, negodyaya, nalog zhdet…<br/>
 'Here he receives a notification that the country expects a tax from him, the scoundrel…'
 
 Predicates – noun phrases ("detached-attributive constructions"), as well as predicates – adjective phrases, are located locally with their "anchor-subject." This allows the predicate to freely receive the case feature value simultaneously with the anchor. At least two types of structures could be proposed as candidates for the projection uniting the subject-anchor and the predicate. The first of these structures is a small clause, the second an extended projection of the subject noun phrase. We will adhere to the second approach, as it is more economical and (again) involves fewer assumptions.
@@ -3410,24 +3533,24 @@ We have discussed the structure of secondary predication and phenomena similar t
 
 In Russian, as in many other European languages, such as English, there are two ways of forming comparative constructions: morphological and analytical:
 
-(328)
-(From the works of A. P. Chekhov)
-Pobeg vne Sibiri schitayetsya boleye vazhnym prestupleniyem i karayetsya strozhe, chem pobeg v Sibiri…
+(328)<br/>
+(From the works of A. P. Chekhov)<br/>
+Pobeg vne Sibiri schitayetsya boleye vazhnym prestupleniyem i karayetsya strozhe, chem pobeg v Sibiri…<br/>
 'Escape outside Siberia is considered a more serious crime and is punished more strictly than escape within Siberia…'
 
-(329)
-(From the works of N. G. Chernyshevsky)
-No u kazhdogo iz nas… yest' poritsatel' boleye strogiy, chem sam Rakhmetov…
+(329)<br/>
+(From the works of N. G. Chernyshevsky)<br/>
+No u kazhdogo iz nas… yest' poritsatel' boleye strogiy, chem sam Rakhmetov…<br/>
 'But each of us… has a censor more strict than Rakhmetov himself…'
 
-(330)
-(From the works of A. Conan Doyle)
-…nothing stranger than the result when viewed, for instance by Mr. Lestrade, of Scotland Yard.
+(330)<br/>
+(From the works of A. Conan Doyle)<br/>
+…nothing stranger than the result when viewed, for instance by Mr. Lestrade, of Scotland Yard.<br/>
 'And what could be more surprising than the conclusions that are easily drawn if one looks at things, say, from the perspective of Mr. Lestrade of Scotland Yard!'
 
-(331)
-(From the works of B. Stoker)
-…more strange narrative… it has not been my lot to come across.
+(331)<br/>
+(From the works of B. Stoker)<br/>
+…more strange narrative… it has not been my lot to come across.<br/>
 'A stranger narrative… it has not been my lot to come across before.'
 
 In addition to both languages having morphological and analytical comparatives (hereinafter - MC and AC), they are also brought closer by a similarity in expressing the standard (object) of comparison. Both Russian and English use specialized complementizers for this function, _chem_ and _than_, respectively.
@@ -3438,18 +3561,23 @@ Russian also demonstrates some phonological restrictions on the formation of the
 
 Establishing the nature of phonological restrictions for Russian is sometimes as challenging as for English. For instance, the adjectives listed below ending in _-zh_, _-d_, _-g_ show no visible differences in (morpho)phonological structure, yet they behave differently in comparative formation:
 
-(332)
-a. prigozhiy - prigozheye
+(332)<br/>
+a. prigozhiy - prigozheye<br/>
    'handsome - handsomer'
-b. pokhozhiy - *pokhozheye
+
+b. pokhozhiy - *pokhozheye<br/>
    'similar - *more similar'
-c. tverdyy - tverzhe
+
+c. tverdyy - tverzhe<br/>
    'hard - harder'
-d. gordyy - *gorzhe / *gordeye
+
+d. gordyy - *gorzhe / *gordeye<br/>
    'proud - *prouder (incorrect form 1) / *prouder (incorrect form 2)'
-e. strogiy - strozhe
+
+e. strogiy - strozhe<br/>
    'strict - stricter'
-f. ubogiy - *ubozhe
+
+f. ubogiy - *ubozhe<br/>
    'wretched - *more wretched'
 
 It can be said, nevertheless, that phonological restrictions on the formation of Russian comparatives have been studied quite well; see primarily (Yeskova 2011), as well as (Brander 1999) et al. The influence of suffixation on the possibility of forming degrees of comparison, in other words, morphological restrictions, is of interest.
@@ -3481,105 +3609,108 @@ Let's consider the possibility of using MCs and ACs in syntactic contexts charac
 
 ³⁴ The addition of the attenuative prefix _po-_, as far as we know, does not affect the distribution of MCs.
 
-(334)
-(From the works of S. T. Aksakov)
-Varvara Mikhaylovna, kak zhenshchina, byla boleye lyubopytna, da i kharakterom pozhileye, chem yeyo suprug.
+(334)<br/>
+(From the works of S. T. Aksakov)<br/>
+Varvara Mikhaylovna, kak zhenshchina, byla boleye lyubopytna, da i kharakterom pozhileye, chem yeyo suprug.<br/>
 'Varvara Mikhailovna, as a woman, was more curious, and livelier in character, than her husband.'
 
-(335)
-(From the works of D. I. Pisarev)
-V takiye minuty myortvyy dom byl nesravnenno prilichneye i blagorazumneye, chem bursa vo vremya rekreatsii.
+(335)<br/>
+(From the works of D. I. Pisarev)<br/>
+V takiye minuty myortvyy dom byl nesravnenno prilichneye i blagorazumneye, chem bursa vo vremya rekreatsii.<br/>
 'At such moments, the dead house was incomparably more decent and sensible than the seminary during recreation.'
 
-(336)
-(From the works of Andrey Bely)
-...tol'ko A. S. i v opisyvayemoye vremya byl boleye odinokim, chem ya…
+(336)<br/>
+(From the works of Andrey Bely)<br/>
+...tol'ko A. S. i v opisyvayemoye vremya byl boleye odinokim, chem ya…<br/>
 '...only A. S. was more lonely than I was during the described time…'
 
 Note that the standard of comparison, expressed by the special conjunction _chem_ 'than', is grammatical in Russian for both morphological and analytical comparatives.
 
 The second syntactic function defining the category of the adjective (and to an even greater extent) is the function of an attribute. Here, the Russian language (unlike Old Russian) does not allow the use of MCs and permits only ACs:
 
-(337)
-(From the works of K. M. Stanyukovich)
-a. Neskol'ko osunuvsheyesya, poblednevsheye litso i slegka vvalivshiyesya glaza, vsledstviye bessonnoy nochi, pridavali yemu yeshche boleye interesnyy vid.
+(337)<br/>
+(From the works of K. M. Stanyukovich)<br/>
+a. Neskol'ko osunuvsheyesya, poblednevsheye litso i slegka vvalivshiyesya glaza, vsledstviye bessonnoy nochi, pridavali yemu yeshche boleye interesnyy vid.<br/>
    'His somewhat gaunt, pale face and slightly sunken eyes, due to a sleepless night, gave him an even more interesting appearance.'
 
-(338)
-- b. * Osunuvsheyesya litso i vvalivshiyesya glaza pridavali yemu interesneye vid.
+(338)<br/>
+- b. * Osunuvsheyesya litso i vvalivshiyesya glaza pridavali yemu interesneye vid.<br/>
    '*His gaunt face and sunken eyes gave him a more interesting (uninflected MC) look.'
 
-(340) (From the works of A. F. Pisemsky)
-a. … yego voobshche schitali v obshchestve boleye umnym chelovekom, chem on byl na samom dele!
-   '…he was generally considered in society a smarter person than he really was!'
-b. * Yego schitali umneye chelovekom, chem on byl na samom dele.
+(340) (From the works of A. F. Pisemsky)<br/>
+a. … yego voobshche schitali v obshchestve boleye umnym chelovekom, chem on byl na samom dele!<br/>
+   '…he was generally considered in society a smarter person than he really was!'<br/>
+b. * Yego schitali umneye chelovekom, chem on byl na samom dele.<br/>
    '*He was considered a smarter (uninflected MC) person than he really was.'
 
 Meanwhile, MCs, as well as ACs, are permissible within a noun phrase in postposition to the noun:
 
-(339) (From the works of Andrey Bely)
-Ya eshche ne vstrechal cheloveka umneye sebya.
+(339) (From the works of Andrey Bely)<br/>
+Ya eshche ne vstrechal cheloveka umneye sebya.<br/>
 'I have never met a person smarter than myself.'
 
-(340) (From the works of M. Yu. Lermontov)
-Izvinite -no mozhet byt', ona nashla cheloveka eshche dostoyneye vas…
+(340) (From the works of M. Yu. Lermontov)<br/>
+Izvinite -no mozhet byt', ona nashla cheloveka eshche dostoyneye vas…<br/>
 'Excuse me - but perhaps she found a person even more worthy than you…'
 
-(341) (From the works of F. M. Dostoyevsky)
-Ya nikogda v zhizni ne vstrechal cheloveka boleye zastenchivogo…
+(341) (From the works of F. M. Dostoyevsky)<br/>
+Ya nikogda v zhizni ne vstrechal cheloveka boleye zastenchivogo…<br/>
 'I have never in my life met a more shy person…'
 
-(342) (From the works of A. F. Pisemsky)
-Cheloveka boleye dostoynogo dlya etogo trudno bylo i nayti…
+(342) (From the works of A. F. Pisemsky)<br/>
+Cheloveka boleye dostoynogo dlya etogo trudno bylo i nayti…<br/>
 'It was difficult to find a more worthy person for this…'
 
 The prohibition on prepositive uses in noun phrases for MCs is related not to their syntactic category itself, but to the fact that MCs are unable to agree with the head noun. Indeclinable adjectives like _bezh_ 'beige', _klesh_ 'flared', _netto_ 'net', _komil'fo_ 'comme il faut' show a similar distribution – they appear in predicative position, as well as within a noun phrase in postposition to the head, cf. _Kupila bryuki bezh, tsvet kak na kartinke, tkan' tonkaya_ (Internet) 'She bought beige trousers, the color as in the picture, the fabric thin', etc.
 
 In English, where adjectives do not require attributive agreement, there is no prohibition on placing MCs in preposition to the head noun:
 
-(343) English (From the works of Ch. Dickens)
-As to understanding him, you are [a cleverer fellow] than most of us, Daisy, if you can do that.
+(343) English (From the works of Ch. Dickens)<br/>
+As to understanding him, you are [a cleverer fellow] than most of us, Daisy, if you can do that.<br/>
 'As for understanding him, if you managed to grasp it, dear Daisy, you would be wiser than many of us.'
 
-(344) (From the works of G. Eliot)
-…I advise you to put by the 'History of the Devil,' and read [some prettier book].
+(344) (From the works of G. Eliot)<br/>
+…I advise you to put by the 'History of the Devil,' and read [some prettier book].<br/>
 '…I advise you to put aside "The History of the Devil" and read some other, good books.'
 
 Let's discuss one difference important to us in the properties of the morphological and analytical comparative, related to their semantics. In the literature dedicated to the analysis of degrees of comparison, the asymmetry between the comparative and the inherent semantics of the adjective has long been discussed. According to Mel'chuk, this observation goes back to Sapir (cf. Mel'chuk 1998: 117), and it states the following. For most adjectives denoting gradable properties, the comparative does not carry the presupposition of the presence of the quality expressed by the adjective's original positive form. Thus, in the examples below, Dmitry might not have been young, and the neck is by no means necessarily short (moreover, the opposite is explicitly stated):
 
-(345) (From the works of I. S. Turgenev)
-… nastoyashchiy Dimitriy byl by gorazdo molozhe, chem kazalsya Lzhedimitriy…
+(345) (From the works of I. S. Turgenev)<br/>
+… nastoyashchiy Dimitriy byl by gorazdo molozhe, chem kazalsya Lzhedimitriy…<br/>
 '…the real Dmitry would have been much younger than the False Dmitry appeared…'
 
-(346) (From the works of S. T. Aksakov)
-… sheya dlinnaya, no koroche, chem u gagary…
+(346) (From the works of S. T. Aksakov)<br/>
+… sheya dlinnaya, no koroche, chem u gagary…<br/>
 '…the neck is long, but shorter than a loon's…'
 
 Note that by no means all adjectives behave this way; from the example below, it most likely follows that the layer was indeed bright and beautiful:
 
-(347) (From the works of V. K. Arsenyev)
-Perlamutrovyy sloy byl gorazdo yarche i krasiveye, chem sam zhemchug.
+(347) (From the works of V. K. Arsenyev)<br/>
+Perlamutrovyy sloy byl gorazdo yarche i krasiveye, chem sam zhemchug.<br/>
 'The mother-of-pearl layer was much brighter and more beautiful than the pearl itself.'
 
 Those adjectives that do not have an obligatory implication of possessing the property in the comparative degree (which, it seems, constitute the majority) will be of interest to us due to the following contrast. The AC, unlike the MC, necessarily implies the presence of the property conveyed by the positive degree, cf. (Mel'chuk 1998: 123; Vorotnikov 1999). If the examples above contain an explicit negation of the property's presence, they will be incorrect with the AC:
 
-(348) # Nastoyashchiy Dimitriy byl starym, no vse-taki boleye molodym, chem Lzhedimitriy…
+(348) # Nastoyashchiy Dimitriy byl starym, no vse-taki boleye molodym, chem Lzhedimitriy…<br/>
    '#The real Dmitry was old, but still younger than the False Dmitry…'
-(349) # … sheya dlinnaya, no boleye korotkaya, chem u gagary…
+
+(349) # … sheya dlinnaya, no boleye korotkaya, chem u gagary…<br/>
    '#…the neck is long, but shorter than a loon's…'
 
 We get the same effect of pragmatic infelicity in cases where the compared objects are correctly located on the scale defined by the adjective, but do not possess the given quality outside the comparison context:
 
-(350) # Begemot boleye legkiy, chem slon.
+(350) # Begemot boleye legkiy, chem slon.<br/>
    '#The hippopotamus is lighter than the elephant.'
-(351) # Slon boleye nizkiy, chem zhiraf.
+
+(351) # Slon boleye nizkiy, chem zhiraf.<br/>
    '#The elephant is shorter than the giraffe.'
 
 Both examples become acceptable in the MC form:
 
-(352) Begemot legche slona.
+(352) Begemot legche slona.<br/>
    'The hippopotamus is lighter than the elephant.'
-(353) Slon nizhe zhirafa.
+
+(353) Slon nizhe zhirafa.<br/>
    'The elephant is shorter than the giraffe.'
 
 The strangeness of the examples with AC is explained precisely by the fact that only in this case, but not with MC, there is a presupposition of possessing the quality. The demonstrated semantic difference between AC and MC, where AC combines with the positive degree of the adjective and is contrasted with MC, unexpectedly correlates with the use of AC and MC in the attributive function, which is grammatical for the analytical comparative and ungrammatical for the morphological comparative.
@@ -3602,9 +3733,9 @@ To "save" the syntactic approach to comparative derivation, the rule of Local Di
 
 ³⁵ Local dislocation is an operation in the spirit of Affix hopping, where the third-person singular verbal inflection "lowers" and is incorporated into the verb from a position higher than the verb word form.
 
-(355) (Embick, Noyer 2001: 565)
-a. Mary is the most amazingly smart person…
-b. * Mary is the amazingly smart-est person…
+(355) (Embick, Noyer 2001: 565)<br/>
+a. Mary is the most amazingly smart person…<br/>
+b. * Mary is the amazingly smart-est person…<br/>
 'Mary is the smartest person' (lit.: '#Mary is the most amazingly smart woman')
 
 The operation of Local Dislocation, however, is incompatible with facts of suppletion. According to it, the phonological form must be chosen before the stem and affix combine, which makes the existence of suppletive degrees of comparison impossible (_plokhoy - khuzhe / khudshiy_ 'bad - worse / worst', _khoroshiy - luchshe / luchshiy_ 'good - better / best'; _bad - worse / worst_, _good - better / best_, etc.), see (Bobaljik 2012; Matushansky 2013).
@@ -3613,27 +3744,25 @@ Indeed, it is generally accepted that the comparative morpheme occupies a higher
 
 the following examples, _than_ is used in comparison, while _as_ is used in equative constructions:
 
-(356) English
-(Bhatt, Pancheva 2004: 3)
-a. David is less worried than *as / *that Monica is.
-   'David is less worried than Monica is.'
+(356) English<br/>
+(Bhatt, Pancheva 2004: 3)<br/>
+a. David is less worried than *as / *that Monica is.<br/>
 b. Anastasia is as tall as / *than / *that Daniel is.
-   'Anastasia is as tall as Daniel is.'
 
 Secondly, semantically, the comparative compares the degree of manifestation of a certain quality (_John is tall_) with a standard (_than 6 feet_). The logical form for _John is taller than 6 feet_ 'John is taller than 6 feet' looks like this:
 
-(357) English
-(Bhatt, Pancheva 2004: 4)
+(357) English<br/>
+(Bhatt, Pancheva 2004: 4)<br/>
 [DegP -er than 6 feet] t₁ John is [AP t₁ tall]
 
 If the comparative is located higher in the structure than the adjective stem, then in English, by the time Local Dislocation applies, both morphemes, the stem and the comparative marker, have already entered the derivation, and it is impossible to choose a suppletive form. Anticipating a bit, we will say that such a problem will not arise if MC and AC correspond to different syntactic structures – which we will ultimately try to show. In works dedicated to the syntax of the comparative, a distinction between MC and AC structures is usually not made, see, for example, (Matushansky 2002; Embick 2007).
 
 Another interesting observation is related to suppletive forms. As stated in (Matushansky 2013), following (Bobaljik 2012), suppletive forms in the world's languages are represented as follows:
 
-(358) (Matushansky 2013: 61)
-a. intelligent → more / most intelligent
-b. cute → cuter / cutest
-c. * wuggal → more / most galliwug
+(358) (Matushansky 2013: 61)<br/>
+a. intelligent → more / most intelligent<br/>
+b. cute → cuter / cutest<br/>
+c. *wuggal → more / most galliwug<br/>
 d. good → better, best
 
 The only situation not attested in the world's languages is the (unattested) hypothetical case (c), where suppletive forms arise with the analytical method of formation. Matushansky concludes from this that morphological forms are "assembled" into a single word form at the syntactic level and before phonology, which should distinguish them from analytical constructions.
@@ -3690,20 +3819,20 @@ As is known, not only gradable adjectives can form degrees of comparison. Cases 
 
 In formal linguistics, it is common to speak of so-called coercion or semantic shift. With coercion, the formation of not only the morphological but also the analytical comparative is permissible:
 
-(363) (From the works of I. F. Annensky)
-Chto mozhet byt' boleye russkim, chem etot vechnyy kirpichnyy zavod, eto spasitel'noye zavtra…
+(363) (From the works of I. F. Annensky)<br/>
+Chto mozhet byt' boleye russkim, chem etot vechnyy kirpichnyy zavod, eto spasitel'noye zavtra…<br/>
 'What could be more Russian than this eternal brick factory, this saving tomorrow…'
 
-(364) (From the works of V. G. Belinsky)
-… pod perom Batyushkova eta poema yavilas' boleye grecheskoyu, chem v originale.
+(364) (From the works of V. G. Belinsky)<br/>
+… pod perom Batyushkova eta poema yavilas' boleye grecheskoyu, chem v originale.<br/>
 '…under Batyushkov's pen, this poem appeared more Greek than in the original.'
 
-(365) (From the works of L. N. Andreyev)
-… samomu sebe kazalsya uzhasnym, neveroyatnym, boleye greshnym i buntuyushchim, chem yesli by kazhdyy den' rezal po cheloveku…
+(365) (From the works of L. N. Andreyev)<br/>
+… samomu sebe kazalsya uzhasnym, neveroyatnym, boleye greshnym i buntuyushchim, chem yesli by kazhdyy den' rezal po cheloveku…<br/>
 '…he seemed to himself terrible, unbelievable, more sinful and rebellious than if he cut a person every day…'
 
-(366) (From the works of P. D. Boborykin)
-Sanya otvedala i ternovki, meneye sladkoy i boleye vyazhushchey, chem slivyanka, ochen' krepkoy.
+(366) (From the works of P. D. Boborykin)<br/>
+Sanya otvedala i ternovki, meneye sladkoy i boleye vyazhushchey, chem slivyanka, ochen' krepkoy.<br/>
 'Sanya tasted the sloe berry liquor, less sweet and more astringent than the plum liquor, very strong.'
 
 In these examples, AC is formed from adjectives with suffixes _-sk_ and _-shch_, which, as we indicated above, block MC formation: _*russkeye_ '*more Russian', _*grecheskeye_ '*more Greek', _*buntuyushcheye_ '*more rebellious', _*vyazhushcheye_ '*more astringent'. Nevertheless, the comparison situation becomes semantically permissible in cases of coercion, as shown by the examples above.
@@ -3726,8 +3855,8 @@ At the same time, adjectives like _russkiy_ 'Russian' or _muzykal'nyy_ 'musical'
 
 The fact that comparison in such cases occurs not between different degrees of manifestation of a property, but between representations of the object, is sometimes evident from examples:
 
-(368) (From the works of V. G. Belinsky)
-Donskiye kazach'i pesni mozhno prichislit' k tsiklu istoricheskikh, -i oni v samom dele boleye zasluzhivayut nazvaniye istoricheskikh, chem sobstvenno tak nazyvayemyye istoricheskiye russkiye narodnyye pesni.
+(368) (From the works of V. G. Belinsky)<br/>
+Donskiye kazach'i pesni mozhno prichislit' k tsiklu istoricheskikh, -i oni v samom dele boleye zasluzhivayut nazvaniye istoricheskikh, chem sobstvenno tak nazyvayemyye istoricheskiye russkiye narodnyye pesni.<br/>
 'Don Cossack songs can be attributed to the cycle of historical songs, - and they indeed more deserve the name of historical songs than the so-called historical Russian folk songs themselves.'
 
 Here, _boleye zasluzhivayut nazvaniye istoricheskikh_ 'more deserve the name of historical' precisely describes the mental procedure of evaluating songs as being more or less similar to historical ones.
@@ -3742,37 +3871,38 @@ The adjective suffixes that do not allow comparative formation (_-sk_, _-in_, _-
 
 In our proposed analysis, the standard of comparison, introduced by the conjunction _chem_ 'than', is located in the structure of both types of comparative above the adjective. This contradicts the usual use of MC and AC, which presumes postposition of the standard:
 
-(369) (From the works of A. P. Chekhov)
-… eta mekhanicheskaya, kropotlivaya rabota kazalas' yemu interesneye, chem chteniye.
+(369) (From the works of A. P. Chekhov)<br/>
+… eta mekhanicheskaya, kropotlivaya rabota kazalas' yemu interesneye, chem chteniye.<br/>
 '…this mechanical, laborious work seemed more interesting to him than reading.'
 
-(370) (From the works of L. N. Andreyev)
-… eto drevneye pervichnoye naslazhdeniye ubivat' lyudey - umnykh, khitrykh, lukavykh, neizmerimo boleye interesnykh, chem samyye khishchnyye zveri.
+(370) (From the works of L. N. Andreyev)<br/>
+… eto drevneye pervichnoye naslazhdeniye ubivat' lyudey - umnykh, khitrykh, lukavykh, neizmerimo boleye interesnykh, chem samyye khishchnyye zveri.<br/>
 '…this ancient primary pleasure of killing people – smart, cunning, sly, immeasurably more interesting than the most predatory animals.'
 
-(371) (From the works of N. S. Leskov)
-… ikh bylo tak mnogo, chto oni stanovilis' dlya menya strashneye, chem sobaki…
+(371) (From the works of N. S. Leskov)<br/>
+… ikh bylo tak mnogo, chto oni stanovilis' dlya menya strashneye, chem sobaki…<br/>
 '…there were so many of them that they became scarier to me than dogs…'
 
-(372) (From the works of V. Ya. Bryusov)
-… i eto byl ad, boleye strashnyy, chem tot, kotoryy yavlen byl vzoram Dante Alighieri.
+(372) (From the works of V. Ya. Bryusov)<br/>
+… i eto byl ad, boleye strashnyy, chem tot, kotoryy yavlen byl vzoram Dante Alighieri.<br/>
 '…and it was a hell more terrifying than the one that was revealed to the gaze of Dante Alighieri.'
 
 One can assume the following two options for achieving surface word order. Firstly, one can assume the movement of the adjective to some head dominating it, i.e., a linearization process. It seems that this option is more suitable for MCs, which turn out to be ungrammatical when the standard of comparison precedes the adjective:
 
-(373) * Eta mekhanicheskaya rabota kazalas' yemu chem chteniye interesneye.
+(373) * Eta mekhanicheskaya rabota kazalas' yemu chem chteniye interesneye.<br/>
    '*This mechanical work seemed to him than reading more interesting.'
-(374) * Oni stanovilis' chem sobaki strashneye dlya menya.
+
+(374) * Oni stanovilis' chem sobaki strashneye dlya menya.<br/>
    '*They became than dogs scarier to me.'
 
 AC, though rarely, allows the standard to precede it:
 
-(375) (From the works of M. Yu. Lermontov)
-… prosil u neye, slaboy devushki, u neye, yeshche boleye, chem on, bezzashchitnoy, sozhaleniya…
+(375) (From the works of M. Yu. Lermontov)<br/>
+… prosil u neye, slaboy devushki, u neye, yeshche boleye, chem on, bezzashchitnoy, sozhaleniya…<br/>
 '…he asked her, a weak girl, her, even more defenseless than him, for pity…'
 
-(376) (Internet)
-… on byl gorazdo boleye, chem ya, sklonen k filosofii.
+(376) (Internet)<br/>
+… on byl gorazdo boleye, chem ya, sklonen k filosofii.<br/>
 '…he was much more, than I, inclined to philosophy.'
 
 We are inclined to believe that the (almost obligatory) postposition of the standard in the case of ACs is caused by the so-called rightward shift of "heavy" constituents. We will encounter an analogous linearization shift in Chapter 3 in connection with the attributive use of governed adjectives in English (_a difficult book [for anyone to read]_ - 'a book difficult for anyone to read').
@@ -3781,12 +3911,12 @@ The fact that the linearization of the object of comparison is not always obliga
 
 The approach to the rightward placement of the _chem_ 'than' comparison standard is also supported by examples where the _chem_-phrase and the comparative do not form a single constituent:
 
-(377) (From the works of L. N. Andreyev)
-… on vsegda byl mne simpatchen, i [[AdjP boleye blizkikh] druzey], [chem on], ya nikogda ne imel.
-'…he was always sympathetic to me, and [[closer] friends], [than him], I never had.'
+(377) (From the works of L. N. Andreyev)<br/>
+… on vsegda byl mne simpatchen, i [[AdjP boleye blizkikh] druzey], [chem on], ya nikogda ne imel.<br/>
+'…he was always sympathetic to me, and [[closer] friends], [than him], I never had.'<br/>
 
-(378) (From the works of I. F. Annensky)
-… eto [[AdjP boleye yavnaya] igra] dazhe, [chem ta]…
+(378) (From the works of I. F. Annensky)<br/>
+… eto [[AdjP boleye yavnaya] igra] dazhe, [chem ta]…<br/>
 '…this is even a [[more obvious] game], [than that one]…'
 
 It can thus be assumed that the rightward placement of the standard of comparison is the result of a post-syntactic operation of heavy material displacement.
@@ -3795,28 +3925,32 @@ The standard of comparison in Russian can also be expressed by a noun phrase in 
 
 Let's consider the following examples:
 
-(379) (From the works of V. G. Belinsky)
-Dlya chego, naprimer, zastavil on knyazya, dlya kotorogo… vkusnyy stol vsegda byl dorozhe zheny i yeyo chesti…
+(379) (From the works of V. G. Belinsky)<br/>
+Dlya chego, naprimer, zastavil on knyazya, dlya kotorogo… vkusnyy stol vsegda byl dorozhe zheny i yeyo chesti…<br/>
 'Why, for example, did he make the prince, for whom… a tasty table was always dearer than his wife and her honor…'
 
-(380) (From the works of V. G. Belinsky)
-No proza togda byla vazhneye stikhov…
+(380) (From the works of V. G. Belinsky)<br/>
+No proza togda byla vazhneye stikhov…<br/>
 'But prose was then more important than poetry…'
 
 Both adjectives, _dorogoy_ 'dear' and _vazhnyy_ 'important', can specify a participant in the dative or genitive with the preposition _dlya_ 'for' (_dorog komu-to / dlya kogo-to_ 'dear to someone / for someone', _vazhen komu-to / dlya kogo-to_ 'important to someone / for someone'). In cases where the genitive standard and the lexical dependent are expressed simultaneously, only contiguous placement of the adjective and the standard of comparison is possible, and the order adjective - lexical dependent - standard of comparison is not possible:
 
-(381) Vkusnyy stol byl dlya knyazya dorozhe zheny.
+(381) Vkusnyy stol byl dlya knyazya dorozhe zheny.<br/>
    'The tasty table was dearer to the prince than his wife.'
-Vkusnyy stol byl dorozhe zheny dlya knyazya.
+
+Vkusnyy stol byl dorozhe zheny dlya knyazya.<br/>
    'The tasty table was dearer than his wife to the prince.'
-* Vkusnyy stol byl dorozhe dlya knyazya zheny.
+
+\*Vkusnyy stol byl dorozhe dlya knyazya zheny.<br/>
    '*The tasty table was dearer to the prince than his wife.'
 
-(382) Proza byla dlya chitatelya vazhneye stikhov.
+(382) Proza byla dlya chitatelya vazhneye stikhov.<br/>
    'Prose was more important to the reader than poetry.'
-Proza byla vazhneye stikhov dlya chitatelya.
+
+Proza byla vazhneye stikhov dlya chitatelya.<br/>
    'Prose was more important than poetry to the reader.'
-* Proza byla vazhneye dlya chitatelya stikhov.
+
+\*Proza byla vazhneye dlya chitatelya stikhov.<br/>
    '*Prose was more important to the reader than poetry.'
 
 The requirement for contiguous juxtaposition of the adjective and the standard of comparison confirms the analysis proposed above. The genitive standard is generated in the specifier of the Deg projection, where it is assigned a case feature³⁷. As we hypothesized above, after the standard of comparison enters the DegP projection and is assigned the genitive case feature, the adjective moves to some head (let's define it as _deg_), directly dominating DegP. The surface word order, therefore, is the result of several head movements:
@@ -3829,35 +3963,38 @@ The requirement for contiguous juxtaposition of the adjective and the standard o
 
 Unlike MC, a genitive standard of comparison with AC is ungrammatical, see also (Yanko-Trinitskaya 1989: 65, 67):
 
-(384) * Dlya knyazya vkusnyy stol byl boleye dorog / dorogoy / dorogim zheny.
+(384) * Dlya knyazya vkusnyy stol byl boleye dorog / dorogoy / dorogim zheny.<br/>
    '*For the prince, the tasty table was dearer (short / long / instrumental) than his wife.'
-(385) * No proza togda byla boleye vazhna / vazhnaya / vazhnoy stikhov.
+
+(385) * No proza togda byla boleye vazhna / vazhnaya / vazhnoy stikhov.<br/>
    '*But prose was then more important (short / long / instrumental) than poetry.'
 
 We assume that the differences in the structural position of the standard of comparison for MC and AC are responsible for this. In the case of MC, the standard is located in the specifier of the Deg head, which has the property of assigning genitive case. In the case of AC, the standard occupies the complement position of the comparative word-intensifier _boleye_ 'more'.
 
 The rules for the arrangement of the lexical dependent and the standard in ACs, however, are the same as for MCs:
 
-(386) (From the works of I. F. Annensky)
-Soderzhaniye samogo tipa Oblomova bogache Gogolevskikh prototipov, i ot etogo on gorazdo boleye pokhozh na nastoyashchego cheloveka, chem kazhdyy iz nikh.
+(386) (From the works of I. F. Annensky)<br/>
+Soderzhaniye samogo tipa Oblomova bogache Gogolevskikh prototipov, i ot etogo on gorazdo boleye pokhozh na nastoyashchego cheloveka, chem kazhdyy iz nikh.<br/>
 'The content of the character Oblomov himself is richer than Gogol's prototypes, and because of this, he is much more like a real person than each of them.'
 
-(387) (From the works of L. N. Andreyev)
-Yesli by on god provalyalsya v mogile, on vernulsya by boleye pokhozhim na sebya, chem teper'.
+(387) (From the works of L. N. Andreyev)<br/>
+Yesli by on god provalyalsya v mogile, on vernulsya by boleye pokhozhim na sebya, chem teper'.<br/>
 'If he had spent a year lying in the grave, he would have returned more like himself than now.'
 
 The order _chem_-comparative-dependent appears ungrammatical:
 
-(388) * On gorazdo boleye pokhozh, chem kazhdyy iz nikh, na nastoyashchego cheloveka.
+(388) * On gorazdo boleye pokhozh, chem kazhdyy iz nikh, na nastoyashchego cheloveka.<br/>
    '*He is much more like, than each of them, a real person.'
-(389) * On byl by boleye pokhozhim, chem teper', na sebya.
+
+(389) * On byl by boleye pokhozhim, chem teper', na sebya.<br/>
    '*He would be more like, than now, himself.'
 
 The reason for ungrammaticality here, however, is different: the _chem_-comparative is a constituent at the predicative level where ellipsis of identical material occurs:
 
-(390) On gorazdo boleye pokhozh na nastoyashchego cheloveka, chem kazhdyy iz nikh [pokhozh na nastoyashchego cheloveka].
+(390) On gorazdo boleye pokhozh na nastoyashchego cheloveka, chem kazhdyy iz nikh [pokhozh na nastoyashchego cheloveka].<br/>
    'He is much more like a real person than each of them [is like a real person].'
-(391) On byl by boleye pokhozhim na sebya, chem teper' [on byl pokhozhim na sebya].
+
+(391) On byl by boleye pokhozhim na sebya, chem teper' [on byl pokhozhim na sebya].<br/>
    'He would be more like himself than now [he was like himself].'
 
 If the lexical dependents [_na nastoyashchego cheloveka_ 'like a real person'; _na sebya_ 'like himself'] are located after the _chem_-comparative, they cannot be included in the material eliminated during ellipsis.
@@ -3866,49 +4003,50 @@ If the lexical dependents [_na nastoyashchego cheloveka_ 'like a real person'; _
 
 Finally, another regular attribute of a comparison situation is the so-called differential – an indication of by how many units or by how many times the manifestation of a property in one object exceeds its manifestation in another:
 
-(392) (From the works of A. A. Blok)
-On na tseluyu golovu vyshe drugikh, khodit tyazheloy postup'yu i smotrit tol'ko na Fainu.
+(392) (From the works of A. A. Blok)<br/>
+On na tseluyu golovu vyshe drugikh, khodit tyazheloy postup'yu i smotrit tol'ko na Fainu.<br/>
 'He is a whole head taller than others, walks with a heavy gait, and looks only at Faina.'
 
-(393) (From the collective of authors. On the Volkhov Front)
-Marshrut zheleznodorozhnykh perevozok s odnogo kryla na drugoye po etim rokadam stal koroche na 432 km…
+(393) (From the collective of authors. On the Volkhov Front)<br/>
+Marshrut zheleznodorozhnykh perevozok s odnogo kryla na drugoye po etim rokadam stal koroche na 432 km…<br/>
 'The route for railway transport from one flank to another along these bypasses became shorter by 432 km…'
 
 However, the differential with the preposition _na_ 'by' and the accusative case is ungrammatical with AC:
 
-(394) * On na tseluyu golovu boleye vysokiy.
+(394) * On na tseluyu golovu boleye vysokiy.<br/>
    '*He is a whole head more tall.'
-(395) * Marshrut stal boleye korotkim na 5 km.
+
+(395) * Marshrut stal boleye korotkim na 5 km.<br/>
    '*The route became more short by 5 km.'
 
 An explanation for this semantic effect can be found in (Kennedy 2009). As we have already established, MC corresponds to so-called explicit comparison, and AC to implicit comparison. According to Kennedy, one of the properties of implicit comparison is precisely its incompatibility with the differential – this has been established based on material from various languages and is explained as follows. Since prepositional phrases with _na X yedinits_ 'by X units' contain indications of absolute values, they are no longer context-dependent, and such dependence is a characteristic property of implicit comparison.
 
 At the same time, both MC and AC can be used, for example, with the prepositional phrase _v X raz_ 'X times':
 
-(396) (From the works of A. P. Chekhov)
-Yego zhenili rano, kogda on byl eshche studentom vtorogo kursa, i teper' zhena kazalas' v poltora raza starshe yego.
+(396) (From the works of A. P. Chekhov)<br/>
+Yego zhenili rano, kogda on byl eshche studentom vtorogo kursa, i teper' zhena kazalas' v poltora raza starshe yego.<br/>
 'They married him early, when he was still a second-year student, and now his wife seemed one and a half times older than him.'
 
-(397) (From the works of V. K. Arsenyev)
-Spusk na Aokhobe v dva raza dlinneye, chem pod'yom so storony Tyutikhe.
+(397) (From the works of V. K. Arsenyev)<br/>
+Spusk na Aokhobe v dva raza dlinneye, chem pod'yom so storony Tyutikhe.<br/>
 'The descent to Aokhobe is two times longer than the ascent from the Tyutikhe side.'
 
-(398) (From the works of L. N. Tolstoy)
-Veroyatno v desyat' raz starshe berez, sostavlyavshikh les, on byl v desyat' raz tolshche i v dva raza vyshe kazhdoy berezy.
+(398) (From the works of L. N. Tolstoy)<br/>
+Veroyatno v desyat' raz starshe berez, sostavlyavshikh les, on byl v desyat' raz tolshche i v dva raza vyshe kazhdoy berezy.<br/>
 'Probably ten times older than the birches that formed the forest, he was ten times thicker and two times taller than each birch.'
 
-(399) (From the works of Andrey Bely)
-… ne boyas' v pyat' raz boleye strogogo po trebovaniyam A. S. Vladimirskogo…
+(399) (From the works of Andrey Bely)<br/>
+… ne boyas' v pyat' raz boleye strogogo po trebovaniyam A. S. Vladimirskogo…<br/>
 '…not fearing A. S. Vladimirsky, who was five times more strict in his demands…'
 
-(400) (From the works of P. Ya. Chaadayev)
-… divnoye sozvuchiye, v tysyachu raz boleye velichestvennoye, chem vse garmonii fizicheskogo mira.
+(400) (From the works of P. Ya. Chaadayev)<br/>
+… divnoye sozvuchiye, v tysyachu raz boleye velichestvennoye, chem vse garmonii fizicheskogo mira.<br/>
 '…a wondrous consonance, a thousand times more majestic than all harmonies of the physical world.'
 
 Intensifiers like _namnogo_ 'much', _gorazdo_ 'far', etc., are also regularly used as differentials:
 
-(401) (From the works of I. F. Annensky)
-Soderzhaniye samogo tipa Oblomova bogache Gogolevskikh prototipov, i ot etogo on gorazdo boleye pokhozh na nastoyashchego cheloveka, chem kazhdyy iz nikh.
+(401) (From the works of I. F. Annensky)<br/>
+Soderzhaniye samogo tipa Oblomova bogache Gogolevskikh prototipov, i ot etogo on gorazdo boleye pokhozh na nastoyashchego cheloveka, chem kazhdyy iz nikh.<br/>
 'The content of the character Oblomov himself is richer than Gogol's prototypes, and because of this, he is much more like a real person than each of them.'
 
 As it seems to us, the differential, not being a strong syntactic participant in the comparison situation, occupies an adjunct position in both types of comparative ((402) and (403)):
@@ -3924,12 +4062,10 @@ In conclusion, a few words about the comparative in English. The English MC allo
 
 English attributive comparatives demonstrate another restriction, namely, their attributive use with a standard of comparison is ungrammatical:
 
-(404) English
-- * You are [a cleverer than most of us fellow].
-- '*You are a cleverer than most of us fellow.'
+(404) English<br/>
+\*You are [a cleverer than most of us fellow].
 
-(405) * I advise you to read [some prettier than the 'History of the Devil' book].
-- '*I advise you to read a prettier than the 'History of the Devil' book.'
+(405) \*I advise you to read [some prettier than the 'History of the Devil' book].
 
 In reality, the prohibition on forming such structures is related to the so-called "Final-over-Final Constraint" (Holmberg 2000). Discovered by A. Holmberg, this constraint prohibits embedding phrases with an initial head (_cleverer [than most of us]_, _prettier [than the 'History of the Devil']_) into phrases with a final head (_a fellow_, _some book_), see the explanation of this prohibition in (Biberauer et al. 2009). Obviously, for Russian, such a prohibition is irrelevant (see examples above, as well as cases like _dovol'nyy soboy chelovek_ 'a person satisfied with himself', etc.).
 
@@ -3949,91 +4085,89 @@ An important result from the perspective of our proposed theory, which postulate
 
 Adjectives define a gradable property. By using lexemes that encode such a property, the speaker evaluates the place of the described object on a scale, cf.: _vysokiy dom_ 'tall house' - 'a house which, in my opinion, exceeds the norm for the size of such objects.' One of the most typical participants for adjectives, therefore, is the role of the subject of evaluation:
 
-(406) English (Internet)
+(406) English (Internet)<br/>
 Molly might be too sweet for some readers.
-'Molly might be too sweet for some readers.'
 
-(407) Ossetian (Vydrin 2011: 241)
-Atsy fys-tæ nyn zyn ærtsh-akhs-æn sty.
-этот баран-PL.NOM 1.PL.DAT difficult PREF-catch.PRES-NMN be.PRES.3.PL
+(407) Ossetian (Vydrin 2011: 241)<br/>
+Atsy fys-tæ nyn zyn ærtsh-akhs-æn sty.<br/>
+этот баран-PL.NOM 1.PL.DAT difficult PREF-catch.PRES-NMN be.PRES.3.PL<br/>
 'It is difficult for us to catch these rams.'
 
-(408) Bagvalal
-Di-ha ab miq' š'eralu=b ek°a.
-I-DAT this road narrow=N COP
+(408) Bagvalal<br/>
+Di-ha ab miq' š'eralu=b ek°a.<br/>
+I-DAT this road narrow=N COP<br/>
 'This road is narrow for me.'
 
 Typologically, a stable way of marking the subject of evaluation is the dative case. In English, the subject of evaluation is encoded by a prepositional phrase with _for_ or _to_, in Russian – by the dative case or a prepositional phrase with _dlya_ 'for', etc. It should be noted that the distribution of dative encoding and the prepositional phrase with _dlya_ in Russian represents a separate problem. While seemingly synonymous at first glance and coinciding in a wide range of contexts, these two techniques, nevertheless, often diverge, cf.: the possible _*nam / dlya nas resheniye_ '*to us / for us a solution'; _izvestnaya mne / *dlya menya istoriya_ 'a story known to me / *for me'.
 
 Another typologically widespread participant in situations defined by adjectives is the benefactive or malefactive, also often expressed by the dative or a prepositional phrase (English _for / to_, French _à / pour_, etc.):
 
-(409) English (Internet)
+(409) English (Internet)<br/>
 These fruits are harmful for you.
-'These fruits are harmful to you.'
 
-(410) French (Internet)
-L'alcool est nuisible à la sante.
+(410) French (Internet)<br/>
+L'alcool est nuisible à la sante.<br/>
 'Alcohol is harmful to health.'
 
-(411) Hungarian (Rákosi 2006: 79)
-Jó volt János-nak a találkozás.
-good COP John-DAT DEF meeting
+(411) Hungarian (Rákosi 2006: 79)<br/>
+Jó volt János-nak a találkozás.<br/>
+good COP John-DAT DEF meeting<br/>
 'The meeting was convenient for John.'
 
-(412) Ossetian
-Atsy khærinag syval-ætt-aen payda u.
-this food child-PL-DAT useful be.PRES.3.SG
+(412) Ossetian<br/>
+Atsy khærinag syval-ætt-aen payda u.<br/>
+this food child-PL-DAT useful be.PRES.3.SG<br/>
 'This food is useful for children.'
 
-(413) Kyrgyz (Internet)
-Al zhak zhylky-lar-ga zhayluu.
-this side horses-PL-DAT convenient
+(413) Kyrgyz (Internet)<br/>
+Al zhak zhylky-lar-ga zhayluu.<br/>
+this side horses-PL-DAT convenient<br/>
 'From this side, it's more comfortable for horses.'
 
-(414) Bagvalal
-O=j hakuj iƚa zaralija=j ek°a.
-this=F woman I.1.PL.DAT harmful=F COP
+(414) Bagvalal<br/>
+O=j hakuj iƚa zaralija=j ek°a.<br/>
+this=F woman I.1.PL.DAT harmful=F COP<br/>
 'This woman is harmful to us.'
 
 In a somewhat broader interpretation, such a participant also corresponds to the stimulus:
 
-(415) Ossetian (Vydrin 2011: 241)
-Asimo-im æ nykhas kæn-yn adæymag-æm ækhtson u.
-Asimo-COM word do.PRES-INF person-DAT pleasant be.PRES.3.SG
+(415) Ossetian (Vydrin 2011: 241)<br/>
+Asimo-im æ nykhas kæn-yn adæymag-æm ækhtson u.<br/>
+Asimo-COM word do.PRES-INF person-DAT pleasant be.PRES.3.SG<br/>
 'It is pleasant for a person to talk with Asimo (robot's name).'
 
 Another typologically stable semantic type involves lexemes that postulate identity, equality, similarity with respect to some property, as well as inverse relationships. Participants of such adjectives are usually encoded by the plural, a conjoined noun phrase, a comitative, or a prepositional / oblique case phrase:
 
-(416) English
-a. The segment A and the segment B are equal.
-   'Segment A and segment B are equal.'
-b. The segment A is equal to the segment B.
-   'Segment A is equal to segment B.'
+(416) English<br/>
+a. The segment A and the segment B are equal.<br/>
+b. The segment A is equal to the segment B.<br/>
 
-(417) French
-a. Les Francais et les etrangers sont egals en droit.
+(417) French<br/>
+a. Les Francais et les etrangers sont egals en droit.<br/>
    'French people and foreigners are equal in rights.'
-b. Les Francais sont egals en droit aux etrangers.
+
+b. Les Francais sont egals en droit aux etrangers.<br/>
    'French people are equal in rights to foreigners.'
 
-(418) Bagvalal
-a. Anwar=la patimati=la w=at'as ek°a.
-   Anwar=AND Patimat=AND M=other COP
+(418) Bagvalal<br/>
+a. Anwar=la patimati=la w=at'as ek°a.<br/>
+   Anwar=AND Patimat=AND M=other COP<br/>
    'Anwar and Patimat are different.'
-b. Anwar w=at'as ek°a patimat-i-č.
-   Anwar M=other COP Patimat-OBL-CONT
+   
+b. Anwar w=at'as ek°a patimat-i-č.<br/>
+   Anwar M=other COP Patimat-OBL-CONT<br/>
    'Anwar is different from Patimat.'
 
-(419) Lezgin (D. S. Ganenkov, pers. comm.)
-St’xa-jar [[pahliwan-r-i-z] uχšar] q’ehal-ar tir.
-brother-PL(ABS) wrestler-PL-OBL-DAT similar brave-PL be:PAST
+(419) Lezgin (D. S. Ganenkov, pers. comm.)<br/>
+St’xa-jar [[pahliwan-r-i-z] uχšar] q’ehal-ar tir.<br/>
+brother-PL(ABS) wrestler-PL-OBL-DAT similar brave-PL be:PAST<br/>
 'The brothers were brave men, similar to wrestlers.'
 
 Another semantic source of adjectival government is lexemes with modal meaning:
 
-(420) Tatar
-Sin min-ga kiräk.
-you I-DAT need
+(420) Tatar<br/>
+Sin min-ga kiräk.<br/>
+you I-DAT need<br/>
 'You are needed by me.' (lit. 'You to-me needed.')
 
 Such units, however, are far from always being full-fledged adjectives, cf., for example, Russian _mozhno_ 'it is possible' / _nado_ 'it is necessary', which do not inflect for gender and number and do not have full forms.
@@ -4048,75 +4182,91 @@ Thus, adjectival lexemes regularly demonstrate the ability to introduce various 
 
 Adjectives sometimes possess syntactically obligatory valency; a few examples include Russian lexemes _vkhozhiy_ 'having access', _raspolozhennyy_ 'disposed (to something)', _sklonnyy_ 'prone', _prisushchiy_ 'inherent', _chrevatyy_ 'fraught with', _kratnyy_ 'multiple of', _pokhozhiy_ 'similar'.
 
-(421) (From the works of A. and B. Strugatsky)
-a. … osen'yu 1941-go vel delo Amalii Mikhaylovny Berman, sosedki Krasnogorova po lestnichnoy ploshchadke, vkhozhey v ikh dom.
-   … autumn-LOC 1941-GEN led case Amalia Mikhaylovna Berman-GEN, neighbor-GEN Krasnogorov-GEN on stairway landing-DAT, having.access-FEM.SG.NOM into their house.
+(421) (From the works of A. and B. Strugatsky)<br/>
+a. … osen'yu 1941-go vel delo Amalii Mikhaylovny Berman, sosedki Krasnogorova po lestnichnoy ploshchadke, vkhozhey v ikh dom.<br/>
+   … autumn-LOC 1941-GEN led case Amalia Mikhaylovna Berman-GEN, neighbor-GEN Krasnogorov-GEN on stairway landing-DAT, having.access-FEM.SG.NOM into their house.<br/>
    '…in the autumn of 1941, he handled the case of Amalia Mikhailovna Berman, Krasnogorov's neighbor on the landing, who had access to their house.'
-a′. * vkhozhaya sosedka
-   *having.access-FEM.SG.NOM neighbor-FEM.SG.NOM
+
+a′. * vkhozhaya sosedka<br/>
+   *having.access-FEM.SG.NOM neighbor-FEM.SG.NOM<br/>
    '*an accessible neighbor'
-b. Dlya menya Poseshcheniye - eto prezhde vsego unikal'noye sobytiye, chrevatoye vozmozhnost'yu pereprygnut' srazu cherez neskol'ko stupenek v protsesse poznaniya.
-   For me visit-NOM - this primarily unique event-NOM, fraught.with-N.SG.NOM possibility-INSTR jump over several steps-GEN in process-LOC knowledge-GEN.
+
+b. Dlya menya Poseshcheniye - eto prezhde vsego unikal'noye sobytiye, chrevatoye vozmozhnost'yu pereprygnut' srazu cherez neskol'ko stupenek v protsesse poznaniya.<br/>
+   For me visit-NOM - this primarily unique event-NOM, fraught.with-N.SG.NOM possibility-INSTR jump over several steps-GEN in process-LOC knowledge-GEN.<br/>
    'For me, the Visit is first and foremost a unique event, fraught with the possibility of skipping several steps in the process of knowledge at once.'
-b′. * chrevatoye sobytiye
-   *fraught.with-N.SG.NOM event-NOM
+
+b′. * chrevatoye sobytiye<br/>
+   *fraught.with-N.SG.NOM event-NOM<br/>
    '*a fraught event'
-c. … ne bylo nichego, krome stola, za kotorym sidel, podpershi podborodok kulakami, dlinnovolosyy yunets, pokhozhiy kudryami i nezhnym dlinnym likom na Aleksandra Bloka…
-   … NEG was nothing-GEN, except table-GEN, behind which sat, propping.up chin-ACC fists-INSTR, long-haired youth-NOM, similar-M.SG.NOM curls-INSTR and tender-INSTR long-INSTR face-INSTR to Alexander Blok-ACC.
+
+c. … ne bylo nichego, krome stola, za kotorym sidel, podpershi podborodok kulakami, dlinnovolosyy yunets, pokhozhiy kudryami i nezhnym dlinnym likom na Aleksandra Bloka…<br/>
+   … NEG was nothing-GEN, except table-GEN, behind which sat, propping.up chin-ACC fists-INSTR, long-haired youth-NOM, similar-M.SG.NOM curls-INSTR and tender-INSTR long-INSTR face-INSTR to Alexander Blok-ACC.<br/>
    '…there was nothing but a table, behind which sat, propping his chin with his fists, a long-haired youth, similar in his curls and delicate long face to Alexander Blok…'
-c′. * pokhozhiy yunets
-   *similar-M.SG.NOM youth-NOM
+
+c′. * pokhozhiy yunets<br/>
+   *similar-M.SG.NOM youth-NOM<br/>
    '*a similar youth'
 
 The main part of governing adjectives, it seems, possesses obligatory semantic and optional syntactic valency. "Let's call the i-th valency of word A syntactically optional if a sentence containing word A with an unfilled i-th valency is correct" (Apresyan 1995: 149). This definition applies, for example, to participants introduced by adjectives _poleznyy_ 'useful', _dostoynyy_ 'worthy', _interesnyy_ 'interesting', etc.:
 
-(422) (From the works of A. and B. Strugatsky)
-a. Chital ya tvoy traktat - poleznaya kniga, no glupaya.
-   read-M.SG I your treatise-ACC - useful-F.SG book-F.SG, but stupid-F.SG.
+(422) (From the works of A. and B. Strugatsky)<br/>
+a. Chital ya tvoy traktat - poleznaya kniga, no glupaya.<br/>
+   read-M.SG I your treatise-ACC - useful-F.SG book-F.SG, but stupid-F.SG.<br/>
    'I read your treatise - a useful book, but a stupid one.'
-b. Tak chem ya mogu byt' vam polezna, tovarishch?
-   so what-INSTR I can be you-DAT useful-F.SG, comrade-VOC?
+
+b. Tak chem ya mogu byt' vam polezna, tovarishch?<br/>
+   so what-INSTR I can be you-DAT useful-F.SG, comrade-VOC?<br/>
    'So how can I be useful to you, comrade?'
 
-(423) (From the works of A. and B. Strugatsky)
-a. On byl prav: ustupit' dostoynomu protivniku - eto ne pozor.
-   he was right: yield-INF worthy-DAT opponent-DAT - this NEG shame.
+(423) (From the works of A. and B. Strugatsky)<br/>
+a. On byl prav: ustupit' dostoynomu protivniku - eto ne pozor.<br/>
+   he was right: yield-INF worthy-DAT opponent-DAT - this NEG shame.<br/>
    'He was right: to yield to a worthy opponent is no disgrace.'
-b. … blagorodno otstupit' pered protivnikom, dostoynym pobedy…
-   … nobly retreat-INF before opponent-INSTR, worthy-GEN victory-GEN…
+
+b. … blagorodno otstupit' pered protivnikom, dostoynym pobedy…<br/>
+   … nobly retreat-INF before opponent-INSTR, worthy-GEN victory-GEN…<br/>
    '…to nobly retreat before an opponent worthy of victory…'
 
-(424) (From the works of A. and B. Strugatsky)
-a. Vy dali mne massu interesnogo materiala.
-   you gave me mass-ACC interesting-GEN material-GEN.
+(424) (From the works of A. and B. Strugatsky)<br/>
+a. Vy dali mne massu interesnogo materiala.<br/>
+   you gave me mass-ACC interesting-GEN material-GEN.<br/>
    'You gave me a lot of interesting material.'
-b. … demonstriruyet svoye bezrazlichiye i dazhe prezreniye ko vsem etim predmetam, «ne interesnym yego narodu»…
-   … demonstrates his indifference and even contempt to all these subjects-DAT, «NEG interesting-DAT.PL his people-DAT»…
+
+b. … demonstriruyet svoye bezrazlichiye i dazhe prezreniye ko vsem etim predmetam, «ne interesnym yego narodu»…<br/>
+   … demonstrates his indifference and even contempt to all these subjects-DAT, «NEG interesting-DAT.PL his people-DAT»…<br/>
    '…demonstrates his indifference and even contempt for all these subjects, «not interesting to his people»…'
 
 A similar analysis is proposed, for example, in (Landau 2006): participants in situations defined by adjectives are recognized as syntactic adjuncts. In this approach, noun phrases dependent on adjectives do not fill syntactic valencies but correspond to certain semantic frames associated with particular types of adjectival meanings.
 
 As we established when discussing the semantic properties of adjectives in Chapter 1, the following semantic classes in Russian possess the ability to introduce their own participant:
 
-(425) Semantic classes of Russian adjectives that take dependents
-a. EVALUATIVE
+(425) Semantic classes of Russian adjectives that take dependents<br/>
+a. EVALUATIVE<br/>
    _vazhnyy_ 'important', _vtorostepennyy_ 'secondary', _gadkiy_ 'nasty', _dorogoy_ 'dear', _zhutkiy_ 'creepy', _zabavnyy_ 'amusing', _zagadochnyy_ 'mysterious', _zamanchevyy_ 'tempting', _zanyatnyy_ 'entertaining', _zarazitel'nyy_ 'infectious', _interesnyy_ 'interesting', _omerzitel'nyy_ 'disgusting', _otvratitel'nyy_ 'repulsive', _skuchnyy_ 'boring', _udachnyy_ 'successful', …
-b. TEMPORAL
+
+b. TEMPORAL<br/>
    _dolgi_y 'long', _kratkiy_ 'brief', _novyy_ 'new', _staryy_ 'old'
-c. SPATIAL
+
+c. SPATIAL<br/>
    _blizhniy_ 'nearby', _blizkiy_ 'close', _dalekiy_ 'distant', _dal'niy_ 'far'
-d. IDENTITY
+
+d. IDENTITY<br/>
    _zhenatyy_ 'married', _identichnyy_ 'identical', _odinakovyy_ 'same', _parallel'nyy_ 'parallel', _pokhozhiy_ 'similar', _ravnyy_ 'equal', _razlichnyy_ 'different', _raznyy_ 'various', _skhozhiy_ 'similar', _tozhdestvennyy_ 'identical', _ekvivalentnyy_ 'equivalent'
-e. EMOTIONAL RELATION
+
+e. EMOTIONAL RELATION<br/>
    _agressivnyy_ 'aggressive', _bezrazlichnyy_ 'indifferent', _bespristrastnyy_ 'impartial', _blagozhelatel'nyy_ 'well-wishing', _vezhlivyy_ 'polite', _vnimatel'nyy_ 'attentive', _vrazhdebnyy_ 'hostile', _gostepriimnyy_ 'hospitable', _grubyy_ 'rude', _dobrozhelatel'nyy_ 'benevolent', _dobryy_ 'kind', _druzhelyubnyy_ 'friendly', _zabotlivyy_ 'caring', _zloy_ 'angry', _miloserdnyy_ 'merciful', …
-f. BENEFACTIVE
+
+f. BENEFACTIVE<br/>
    _vrednyy_ 'harmful', _vygodnyy_ 'profitable', _opasnyy_ 'dangerous', _poleznyy_ 'useful', _udobnyy_ 'convenient', _tsennyy_ 'valuable', _chrevatyy_ 'fraught with'
-g. FAMILIARITY
+
+g. FAMILIARITY<br/>
    _znakomyy_ 'familiar', _znamenityy_ 'famous', _izvestnyy_ 'known', _populyarnyy_ 'popular', _proslavlennyy_ 'glorified'
-h. TYPICALITY
+
+h. TYPICALITY<br/>
    _obyknovennyy_ 'ordinary', _obychnyy_ 'usual', _privychnyy_ 'accustomed', _svoystvennyy_ 'characteristic', _spetsificheskiy_ 'specific', _tipichnyy_ 'typical', _kharakternyy_ 'characteristic', …
-i. CONTENT
-   _bogaty_y 'rich', _bednyy_ 'poor', _polnyy_ 'full', _pustoy_ 'empty'
+
+i. CONTENT<br/>
+   _bogatyy_ 'rich', _bednyy_ 'poor', _polnyy_ 'full', _pustoy_ 'empty'
 
 A number of classes have a small number of lexemes; in some cases (primarily EVALUATIVE adjectives, adjectives of EMOTIONAL RELATION and TYPICALITY), the examples given above can be supplemented.
 
@@ -4130,34 +4280,36 @@ Examples of adjectives whose participants are, to some extent, uniquely determin
 
 A common property of lexemes in the IDENTITY class is their ability to mark both of their participants with a conjoined noun phrase (426) or a plural number (427):
 
-(426) (Internet)
-Zachastuyu mozhno uvidet' paru, v kotoroy muzhchina i zhenshchina pokhozhi drug na druga kak brat i sestra.
-often can see pair-ACC, in which man-NOM and woman-NOM similar-PL друг on other like brother and sister.
+(426) (Internet)<br/>
+Zachastuyu mozhno uvidet' paru, v kotoroy muzhchina i zhenshchina pokhozhi drug na druga kak brat i sestra.<br/>
+often can see pair-ACC, in which man-NOM and woman-NOM similar-PL друг on other like brother and sister.<br/>
 'Often one can see a couple in which the man and woman are similar to each other like brother and sister.'
 
-(427) (Internet)
-Eto rodstvenniki s raznitsey v vozraste boleye 200 let, no oni pokhozhi kak nikto drugoy!
-this relatives-NOM with difference-INSTR in age more 200 years, but they similar-PL like no one other!
+(427) (Internet)<br/>
+Eto rodstvenniki s raznitsey v vozraste boleye 200 let, no oni pokhozhi kak nikto drugoy!<br/>
+this relatives-NOM with difference-INSTR in age more 200 years, but they similar-PL like no one other!<br/>
 'These are relatives with an age difference of more than 200 years, but they are similar like no one else!'
-… yesli neytrino i antineytrino tozhdestvenny, rozhdayutsya 2 elektrona…
-… if neutrino-NOM and antineutrino-NOM identical-PL, are.born 2 electrons-NOM…
+
+… yesli neytrino i antineytrino tozhdestvenny, rozhdayutsya 2 elektrona…<br/>
+… if neutrino-NOM and antineutrino-NOM identical-PL, are.born 2 electrons-NOM…<br/>
 '…if the neutrino and antineutrino are identical, 2 electrons are born…'
-Vse kletki organizma tozhdestvenny po prirode.
-all cells-NOM organism-GEN identical-PL by nature.
+
+Vse kletki organizma tozhdestvenny po prirode.<br/>
+all cells-NOM organism-GEN identical-PL by nature.<br/>
 'All cells of the organism are identical by nature.'
 
 Adjectives of this class predicate an identical relationship between participants: X and Y (Z.Pl) are in relation A means 'X (one part of Z) is in relation A to Y and Y (the other part of Z) is in relation A to X (the first part of Z)'. Alongside this encoding method, it is possible to use a plural pronoun and the comitative preposition _s_ 'with': _Oni s Petyey pokhozhi / zhenaty_ 'They are similar / married to Petya', etc. For such semantic participants, we will reserve the label _kontragent_ 'contragent', see more details below.
 
 An alternative way of marking is to retain (attributive or predicative) agreement with one of the participants in the identity relation and specify the second using prepositional-case or oblique-case constructions:
 
-(428) (Internet)
-Chekhertma pokhozha na presnyy kurinyy bul'on.
-Chekhertma similar-F.SG to bland chicken broth-ACC.
+(428) (Internet)<br/>
+Chekhertma pokhozha na presnyy kurinyy bul'on.<br/>
+Chekhertma similar-F.SG to bland chicken broth-ACC.<br/>
 'Chekhertma is similar to bland chicken broth.'
 
-(429) (Internet)
-Etot protsess tozhdestvenen mnogokratno uskorennoy prirodnoy ochistke vody pod vozdeystviyem solnechnogo sveta i kisloroda.
-this process-NOM identical-M.SG many.times accelerated natural purification-DAT water-GEN under influence-INSTR solar light-GEN and oxygen-GEN.
+(429) (Internet)<br/>
+Etot protsess tozhdestvenen mnogokratno uskorennoy prirodnoy ochistke vody pod vozdeystviyem solnechnogo sveta i kisloroda.<br/>
+this process-NOM identical-M.SG many.times accelerated natural purification-DAT water-GEN under influence-INSTR solar light-GEN and oxygen-GEN.<br/>
 'This process is identical to a manifold accelerated natural water purification under the influence of sunlight and oxygen.'
 
 The prepositional-case marking of the second contragent differs for different adjectives of this class, but it demonstrates some regular patterns – for example, most adjectives of this class attach the second participant in the dative case: _tozhdestvennyy / ekvivalentnyy / ravnyy / parallel'nyy komu ili chemu-libo_ 'identical / equivalent / equal / parallel to someone or something', etc.
@@ -4166,12 +4318,13 @@ The possibility of coordinative and prepositional-case ways of marking participa
 
 ³⁸ "Optional valencies are called, following L. N. Iordanskaya (1961), co-subordinable if they can be realized simultaneously (cf. the verb _arendovat'_ 'to rent'). If this is impossible, then the valencies are non-co-subordinable" (Apresyan 1995: 61).
 
-(430) (Internet)
-* Kto i Petya zhenaty?
-   *who-NOM and Petya-NOM married-PL?
+(430) (Internet)<br/>
+\*Kto i Petya zhenaty?<br/>
+   *who-NOM and Petya-NOM married-PL?<br/>
    '*Who and Petya are married?'
-Na kom zhenat Petya?
-   on whom-LOC married-M.SG Petya-NOM?
+
+Na kom zhenat Petya?<br/>
+   on whom-LOC married-M.SG Petya-NOM?<br/>
    'Who is Petya married to?'
 
 The behavior of coordinated adjective participants is generally similar to that of reciprocal verbs like _tselovat'sya_ 'to kiss each other'.
@@ -4180,35 +4333,39 @@ In addition to the described obligatory participants in the identity adjective c
 
 **Class EMOTIONAL RELATION.** This class corresponds to the so-called utilitarian evaluation according to (Arutyunova 1988). Adjectives of this class have an obligatory addressee, which is most often marked by the preposition _k_ 'to' and the dative case (among a few marking variants for the addressee is _zloy na kogo-to_ 'angry at someone'):
 
-(431) (Internet)
-Komissar byl ochen' vezhliv k nam i razmestil nas v byvshikh barakakh inostrantsev na fabrike.
-commissioner-NOM was very polite-M.SG to us and housed us in former barracks-LOC foreigners-GEN at factory-LOC.
+(431) (Internet)<br/>
+Komissar byl ochen' vezhliv k nam i razmestil nas v byvshikh barakakh inostrantsev na fabrike.<br/>
+commissioner-NOM was very polite-M.SG to us and housed us in former barracks-LOC foreigners-GEN at factory-LOC.<br/>
 'The commissioner was very polite to us and housed us in the former foreign workers' barracks at the factory.'
-Ona vspominala, kak vnimatel'na i zabotliva k ney i ottsu byla mat'.
-she recalled, how attentive-F.SG and caring-F.SG to her-DAT and father-DAT was mother-NOM.
+
+Ona vspominala, kak vnimatel'na i zabotliva k ney i ottsu byla mat'.<br/>
+she recalled, how attentive-F.SG and caring-F.SG to her-DAT and father-DAT was mother-NOM.<br/>
 'She recalled how attentive and caring their mother was towards her and her father.'
-Bud'te dobry k roditelyam, i k vam budut dobry vashi deti…
-be-IMP.PL kind-PL to parents-DAT, and to you will.be kind-PL your children-NOM…
+
+Bud'te dobry k roditelyam, i k vam budut dobry vashi deti…<br/>
+be-IMP.PL kind-PL to parents-DAT, and to you will.be kind-PL your children-NOM…<br/>
 'Be kind to your parents, and your children will be kind to you…'
 
 **Class SPATIAL adjectives.** In the semantic class of SPATIAL adjectives, there is a participant that defines the reference point, see also (Kustova 2006). In the case of adjectives _blizkiy_ 'close', _blizhniy_ 'nearby', this participant is encoded by the preposition _k_ 'to' and a dative noun phrase; with adjectives _dal'niy_ 'far', _dalekiy_ 'distant', the reference point is encoded by the preposition _ot_ 'from' and a noun phrase in the genitive case.
 
-(432) (From the works of A. and B. Strugatsky)
-Vy tut daleki ot istochnikov informatsii, - on oglyadel planetologov.
-you here distant-PL from sources-GEN information-GEN, - he surveyed planetologists-ACC.
+(432) (From the works of A. and B. Strugatsky)<br/>
+Vy tut daleki ot istochnikov informatsii, - on oglyadel planetologov.<br/>
+you here distant-PL from sources-GEN information-GEN, - he surveyed planetologists-ACC.<br/>
 'You are far from sources of information here," he looked at the planetologists.'
-Edik byl blizok k polnoy demoralizatsii - poyavleniye Vybegally yego dokonalo.
-Edik-NOM was close-M.SG to full demoralization-DAT - appearance-NOM Vybegalla-GEN him finished-N.SG.
+
+Edik byl blizok k polnoy demoralizatsii - poyavleniye Vybegally yego dokonalo.<br/>
+Edik-NOM was close-M.SG to full demoralization-DAT - appearance-NOM Vybegalla-GEN him finished-N.SG.<br/>
 'Edik was close to complete demoralization - Vybegalla's appearance finished him off.'
 
 The inverse marking of the reference point is also possible: _blizhniy ot chego-libo_ 'nearby from something', _dal'niy k chemu-libo_ 'far to something'. Groups with prepositions _ot_ and _k_, again, define the same semantic participant and are non-co-subordinable. In some cases, the reference point may not be expressed and is pragmatically recovered:
 
-(433) (From the works of A. and B. Strugatsky)
-No direktor «Dzhey-stantsii» ne videl ni zvezd, ni zhelto-zelenogo siyaniya nad blizkimi skalami.
-but director-NOM «J-station» NEG saw neither stars-GEN, nor yellow-green-GEN glow-GEN over close-PL.INSTR rocks-INSTR.
+(433) (From the works of A. and B. Strugatsky)<br/>
+No direktor «Dzhey-stantsii» ne videl ni zvezd, ni zhelto-zelenogo siyaniya nad blizkimi skalami.<br/>
+but director-NOM «J-station» NEG saw neither stars-GEN, nor yellow-green-GEN glow-GEN over close-PL.INSTR rocks-INSTR.<br/>
 'But the director of the "J-station" saw neither stars nor the yellowish-green glow above the nearby cliffs.'
-Ochen' uzh dalekaya planeta.
-very indeed distant-F.SG planet-F.SG.
+
+Ochen' uzh dalekaya planeta.<br/>
+very indeed distant-F.SG planet-F.SG.<br/>
 'Such a very distant planet.'
 
 Adjectives of this class can also be used with circumstances, cf. _dalekaya segodnya planeta_ 'a distant planet today', _blizkiye v tot moment skaly_ 'nearby rocks at that moment', etc.
@@ -4229,25 +4386,28 @@ Thus, the role of contragent for adjectives corresponds to a non-agentive partic
 
 Adjectives of EMOTIONAL RELATION can mark the addressee valency by means of the preposition _s_ 'with' and a noun phrase in the instrumental case:
 
-(434) (Internet)
-Vse sotrudniki MZHD budut odinakovo vezhlivy s passazhirami.
-all employees-NOM MZHD will.be equally polite-PL with passengers-INSTR.
+(434) (Internet)<br/>
+Vse sotrudniki MZHD budut odinakovo vezhlivy s passazhirami.<br/>
+all employees-NOM MZHD will.be equally polite-PL with passengers-INSTR.<br/>
 'All MZHD employees will be equally polite to passengers.'
-Krayne vnimatel'na i zabotliva s det'mi, sklonna ikh opekat' i zashchishchat'.
-extremely attentive-F.SG and caring-F.SG with children-INSTR, prone-F.SG them foster-INF and protect-INF.
+
+Krayne vnimatel'na i zabotliva s det'mi, sklonna ikh opekat' i zashchishchat'.<br/>
+extremely attentive-F.SG and caring-F.SG with children-INSTR, prone-F.SG them foster-INF and protect-INF.<br/>
 'Extremely attentive and caring with children, prone to foster and protect them.'
-Tsezar' ser'yeznyy i v to zhe vremya laskovyy i dobryy so svoimi khozyayevami…
-Caesar-NOM serious-M.SG and at that same time affectionate-M.SG and kind-M.SG with his owners-INSTR…
+
+Tsezar' ser'yeznyy i v to zhe vremya laskovyy i dobryy so svoimi khozyayevami…<br/>
+Caesar-NOM serious-M.SG and at that same time affectionate-M.SG and kind-M.SG with his owners-INSTR…<br/>
 'Caesar is serious and at the same time affectionate and kind with his owners…'
 
 Paraphrasing into a prepositional phrase in the instrumental case with the preposition _s_ is permissible for almost all adjectives of this class. Such government is also possible for participants of the IDENTITY adjective class:
 
-(435) (Internet)
-Demi s Eshtonom zhenaty uzhe 6 let…
-Demi-NOM with Ashton-INSTR married-PL already 6 years…
+(435) (Internet)<br/>
+Demi s Eshtonom zhenaty uzhe 6 let…<br/>
+Demi-NOM with Ashton-INSTR married-PL already 6 years…<br/>
 'Demi and Ashton have been married for 6 years already…'
-Po prirode svoyey filosofiya kak ratsional'noye poznaniye dolzhna imet' odinakovyy s naukoy tip dvizheniya v istorii…
-by nature-LOC her-F.SG philosophy-NOM as rational-N.SG knowledge-NOM must have same-M.SG with science-INSTR type-ACC movement-GEN in history-LOC…
+
+Po prirode svoyey filosofiya kak ratsional'noye poznaniye dolzhna imet' odinakovyy s naukoy tip dvizheniya v istorii…<br/>
+by nature-LOC her-F.SG philosophy-NOM as rational-N.SG knowledge-NOM must have same-M.SG with science-INSTR type-ACC movement-GEN in history-LOC…<br/>
 'By its nature, philosophy as rational cognition should have the same type of historical movement as science…'
 
 It seems that in the case of both the addressee of EMOTIONAL RELATION adjectives and the encoding of the second participant of IDENTITY adjectives, the described surface marking corresponds to the role of a contragent.
@@ -4260,177 +4420,200 @@ In semantics, following E. Sapir (Sapir 1949), it is customary to associate eval
 
 In an evaluation situation, therefore, the subject of evaluation, who performs the comparison of the situation defined by the adjective with some standard, is always implicitly present. The logical subject of evaluation corresponds to the semantic role of the experiencer. In Russian, the main means of surface expression of the experiencer is the genitive group with the preposition _dlya_ 'for', cf. EVALUATIVE adjectives below:
 
-(436) (From the works of A. and B. Strugatsky)
-Yemu kazalos' nechestnym vvyazyvat'sya v spor, beznadezhnyy dlya protivnika.
-him-DAT seemed dishonest-N.SG get.involved-INF in dispute-ACC, hopeless-M.SG for opponent-GEN.
+(436) (From the works of A. and B. Strugatsky)<br/>
+Yemu kazalos' nechestnym vvyazyvat'sya v spor, beznadezhnyy dlya protivnika.<br/>
+him-DAT seemed dishonest-N.SG get.involved-INF in dispute-ACC, hopeless-M.SG for opponent-GEN.<br/>
 'It seemed dishonest to him to get involved in a dispute hopeless for the opponent.'
-Govorun byl v beshenstve i, kak vsegda, nakhodyas' v vozbuzhdennom sostoyanii, ispuska_l sil'nyy, nepriyatnyy dlya nepyushchego Fedora zapakh dorogogo kon'yaka «Kurvua'z'ye».
-Govorun-NOM was in rage-LOC and, as always, being-ADV in excited-LOC state-LOC, emitted strong-ACC, unpleasant-ACC for non-drinker-GEN Fyodor-GEN smell-ACC expensive-GEN cognac-GEN «Courvoisier».
+
+Govorun byl v beshenstve i, kak vsegda, nakhodyas' v vozbuzhdennom sostoyanii, ispuska_l sil'nyy, nepriyatnyy dlya nepyushchego Fedora zapakh dorogogo kon'yaka «Kurvua'z'ye».<br/>
+Govorun-NOM was in rage-LOC and, as always, being-ADV in excited-LOC state-LOC, emitted strong-ACC, unpleasant-ACC for non-drinker-GEN Fyodor-GEN smell-ACC expensive-GEN cognac-GEN «Courvoisier».<br/>
 'Govorun was enraged and, as always, being in an agitated state, emitted a strong, unpleasant smell of expensive Courvoisier cognac for the non-drinking Fyodor.'
-Kak budto kazhdyy raz, kogda on ukhodit v reys, na Zemle ostayetsya kakoye-to neobychayno vazhnoye delo, samoye vazhnoye dlya lyudey…
-as if every time, when he goes on trip-ACC, on Earth remains some-N.SG extremely important-N.SG affair-NOM, most important-N.SG for people-GEN…
+
+Kak budto kazhdyy raz, kogda on ukhodit v reys, na Zemle ostayetsya kakoye-to neobychayno vazhnoye delo, samoye vazhnoye dlya lyudey…<br/>
+as if every time, when he goes on trip-ACC, on Earth remains some-N.SG extremely important-N.SG affair-NOM, most important-N.SG for people-GEN…<br/>
 'As if every time he goes on a trip, some extraordinarily important matter remains on Earth, the most important for people…'
 
 Alongside the experiencer itself, such a marking can be obtained by a noun phrase with which it is linked by a possessive (and some ontological) relationship:
 
-(437) (From the works of A. and B. Strugatsky)
-… prosten'kiye pesennyye melodii, ochen' milyye, vpolne priyemlemyye dlya slukha zemlyan…
-… simple-PL.NOM song-PL.NOM melodies-NOM, very nice-PL.NOM, quite acceptable-PL.NOM for hearing-GEN earthlings-GEN…
+(437) (From the works of A. and B. Strugatsky)<br/>
+… prosten'kiye pesennyye melodii, ochen' milyye, vpolne priyemlemyye dlya slukha zemlyan…<br/>
+… simple-PL.NOM song-PL.NOM melodies-NOM, very nice-PL.NOM, quite acceptable-PL.NOM for hearing-GEN earthlings-GEN…<br/>
 '…simple song melodies, very nice, quite acceptable to the ear of earthlings…'
-Ona ispustila protyazhnyy, nepriyatnyy dlya slukha vizg i polosnula Kharona nogtyami po fizionomii.
-she emitted prolonged-ACC, unpleasant-ACC for hearing-GEN screech-ACC and slashed Charon-ACC nails-INSTR on face-DAT.
+
+Ona ispustila protyazhnyy, nepriyatnyy dlya slukha vizg i polosnula Kharona nogtyami po fizionomii.<br/>
+she emitted prolonged-ACC, unpleasant-ACC for hearing-GEN screech-ACC and slashed Charon-ACC nails-INSTR on face-DAT.<br/>
 'She let out a prolonged, unpleasant screech and slashed Charon's face with her nails.'
-Vse malo-mal'ski godnyye dlya obitaniya tochki my obsledovali.
-all little-NEG-NEG suitable-PL.ACC for habitation-GEN points-ACC we surveyed.
+
+Vse malo-mal'ski godnyye dlya obitaniya tochki my obsledovali.<br/>
+all little-NEG-NEG suitable-PL.ACC for habitation-GEN points-ACC we surveyed.<br/>
 'We surveyed all points, however suitable for habitation.'
 
 Here, obviously, a metonymic transfer takes place: 'suitable for X' = 'suitable for X's habitation', etc.; similar observations are made in all cases where this participant is permissible.
 
 In addition to EVALUATIVE adjectives, the subject of evaluation / experiencer can be used with adjectives of other classes related to the mental operation of evaluation, for example, TEMPORAL, IDENTITY, TYPICALITY, etc.
 
-(438) (Internet)
-Kak pravil'no perevesti akvariumnykh ryb v novuyu dlya nikh vodu?
-how correctly transfer-INF aquarium-GEN fish-GEN into new-ACC for them-GEN water-ACC?
+(438) (Internet)<br/>
+Kak pravil'no perevesti akvariumnykh ryb v novuyu dlya nikh vodu?<br/>
+how correctly transfer-INF aquarium-GEN fish-GEN into new-ACC for them-GEN water-ACC?<br/>
 'How to correctly transfer aquarium fish into new water for them?'
-Ukazat' imya rabochey gruppy, identichnoye dlya vsekh ustroystv v seti.
-indicate-INF name-ACC working-GEN group-GEN, identical-N.SG for all devices-GEN in network-LOC.
-'Specify the workgroup name, identical for all devices on the network.'
+
+Ukazat' imya rabochey gruppy, identichnoye dlya vsekh ustroystv v seti.<br/>
+indicate-INF name-ACC working-GEN group-GEN, identical-N.SG for all devices-GEN in network-LOC.<br/>
+'Specify the workgroup name, identical for all devices on the network.'<br/>
 And how melodiously the most ordinary tomato sounds to us in its native language!
 
 Finally, a participant with a role superficially similar to an experiencer, but closer to a benefactive, is present in all adjectives of the BENEFACTIVE class:
 
-(439) (From the works of A. and B. Strugatsky)
-Cherez davleniye, opasnoye dlya psikhiki i dazhe dlya samoy zhizni.
+(439) (From the works of A. and B. Strugatsky)<br/>
+Cherez davleniye, opasnoye dlya psikhiki i dazhe dlya samoy zhizni.<br/>
 'Through pressure dangerous to the psyche and even to life itself.'
-Ukazannyy № 819360 yest' skrytyy kommunist i bezuslovno, vrednyy dlya poryadka chelovek.
-'The specified No. 819360 is a hidden communist and, undoubtedly, a person harmful to order.'
-… v yego vremennom zhilishche ya ne naydu nichego dlya sebya poleznogo.
+
+Ukazannyy № 819360 yest' skrytyy kommunist i bezuslovno, vrednyy dlya poryadka chelovek.<br/>
+'The specified No. 819360 is a hidden communist and, undoubtedly, a person harmful to order.'<br/>
+
+… v yego vremennom zhilishche ya ne naydu nichego dlya sebya poleznogo.<br/>
 '…in his temporary dwelling, I will find nothing useful for myself.'
 
 An alternative way of encoding the subject of evaluation / experiencer / benefactive is a noun phrase in the dative case:
 
-(440) (Internet)
-Odnako sushchestvuyut i kuda boleye ranimyye lyudi, kotorym vazhen bukval'no kazhdyy aspekt obshcheniya s vami.
+(440) (Internet)<br/>
+Odnako sushchestvuyut i kuda boleye ranimyye lyudi, kotorym vazhen bukval'no kazhdyy aspekt obshcheniya s vami.<br/>
 'However, there are much more vulnerable people, for whom literally every aspect of communication with you is important.'
-S samoy lechebnoy smes'yu, ne soderzhashchuyu opasnyy nam fenilalanin…
+
+S samoy lechebnoy smes'yu, ne soderzhashchuyu opasnyy nam fenilalanin…<br/>
 'With the very medicinal mixture that does not contain phenylalanine, which is dangerous for us…'
-Slishkom kaloriynaya pishcha vredna ne tol'ko detyam…
+
+Slishkom kaloriynaya pishcha vredna ne tol'ko detyam…<br/>
 'Too caloric food is harmful not only to children…'
-Komu polezny proroshchennyye semena? Vsem!
+
+Komu polezny proroshchennyye semena? Vsem!<br/>
 'For whom are sprouted seeds useful? For everyone!'
 
 In some cases, dative encoding seems to be the only possible option. This is how, for example, the FAMILIARITY class of adjectives behaves (cf.: ?? _izvestnyy_ / ?? _znakomyy dlya kogo-libo_ '?? known / ?? familiar for someone'):
 
-(441) (Internet)
-20 otkrytok o tom, kak poyavilis' izvestnyye vsem slova.
+(441) (Internet)<br/>
+20 otkrytok o tom, kak poyavilis' izvestnyye vsem slova.<br/>
 '20 postcards about how words known to everyone appeared.'
-… raznotsvetnyye mozaichnyye risunki perepletayutsya v prichudlivyye uzory, khorosho znakomyye vsem lyubitelyam iskusstva.
+
+… raznotsvetnyye mozaichnyye risunki perepletayutsya v prichudlivyye uzory, khorosho znakomyye vsem lyubitelyam iskusstva.<br/>
 '…multicolored mosaic patterns intertwine into whimsical designs, well known to all art lovers.'
 
 **Sentential Complements.** A distinct type of participant, regularly found across different classes of Russian adjectives, consists of sentential complements, which receive various markings. Let's briefly describe the main models of sentential government for adjectives in Russian.
 
 Firstly, it should be noted that the so-called tough-movement (see section 3.1.3 below) is absent in Russian in the form it takes in English:
 
-(442) a. Obmanut' Petyu (nam) legko / trudno.
-   to deceive Petya (for us) easy / difficult
+(442) a. Obmanut' Petyu (nam) legko / trudno.<br/>
+   to deceive Petya (for us) easy / difficult<br/>
    'It is easy / difficult (for us) to deceive Petya.'
-b. * Petya legkiy / trudnyy (chtoby) obmanut'.
-   Petya easy / difficult (in order to) deceive
+
+b. * Petya legkiy / trudnyy (chtoby) obmanut'.<br/>
+   Petya easy / difficult (in order to) deceive<br/>
    '*Petya is easy / difficult (in order) to deceive.'
 
 Furthermore, Russian adjectives often attach finite clauses with the conjunction _chto_ 'that'. In this case, a dative experiencer can be explicitly expressed:
 
-(443) (Nam) Izvestno / stranno / zabavno, chto Petya postupil v aspiranturu.
-   (to us) known / strange / amusing that Petya entered into graduate.school
+(443) (Nam) Izvestno / stranno / zabavno, chto Petya postupil v aspiranturu.<br/>
+   (to us) known / strange / amusing that Petya entered into graduate.school<br/>
    '(To us) It is known / strange / amusing that Petya entered graduate school.'
 
 For some adjectives, the dative experiencer is inadmissible:
 
-(444) (*Nam) Vozmozhno / primechatel'no / glupo / udachno, chto Petya postupil v aspiranturu.
-   (*to us) possible / remarkable / stupid / lucky that Petya entered into graduate.school
+(444) (*Nam) Vozmozhno / primechatel'no / glupo / udachno, chto Petya postupil v aspiranturu.<br/>
+   (*to us) possible / remarkable / stupid / lucky that Petya entered into graduate.school<br/>
    '(*To us) It is possible / remarkable / stupid / lucky that Petya entered graduate school.'
 
 A number of adjectives allow an infinitive sentential complement whose subject is coreferential with an expressed or implicit dative experiencer:
 
-(445) (Nam) Stranno / zabavno / opasno / polezno spat' dnem na solntse.
-   (to us) strange / amusing / dangerous / useful to.sleep day at sun
+(445) (Nam) Stranno / zabavno / opasno / polezno spat' dnem na solntse.<br/>
+   (to us) strange / amusing / dangerous / useful to.sleep day at sun<br/>
    '(To us) It is strange / amusing / dangerous / useful to sleep in the sun during the day.'
 
 There are also lexemes similar to non-ergative Italian adjectives (see section 3.1.3 below), which, however, do not allow an ergative variant in Russian:
 
-(446) a. My uvereny / soglasny / gordy / schastlivy, chto Petya postupil v aspiranturu.
-   we sure / agree / proud / happy that Petya entered into graduate.school
+(446) a. My uvereny / soglasny / gordy / schastlivy, chto Petya postupil v aspiranturu.<br/>
+   we sure / agree / proud / happy that Petya entered into graduate.school<br/>
    'We are sure / agree / proud / happy that Petya entered graduate school.'
-b. * Chto Petya postupil v aspiranturu, uvereno / soglasno / gordo / schastlivo.
-   that Petya entered into graduate.school sure / agreeable / proud / happy
+
+b. * Chto Petya postupil v aspiranturu, uvereno / soglasno / gordo / schastlivo.<br/>
+   that Petya entered into graduate.school sure / agreeable / proud / happy<br/>
    '*That Petya entered graduate school is sure / agreeable / proud / happy.'
 
 A separate class of Russian adjectives resembles English mental adjectives. Such adjectives express the mental subject as a nominative subject, while attaching an infinitive sentential actant preceded by _chtoby_ 'in order to'. Like their English counterparts, such adjectives can be used in an impersonal construction with an infinitive:
 
-(447) a. Petya (dostatochno) predusmotritelen / umen / glup / prozorliv, chtoby postupit' v aspiranturu.
-   Petya (enough) prudent / clever / stupid / perceptive in.order.to enter into graduate.school
+(447) a. Petya (dostatochno) predusmotritelen / umen / glup / prozorliv, chtoby postupit' v aspiranturu.<br/>
+   Petya (enough) prudent / clever / stupid / perceptive in.order.to enter into graduate.school<br/>
    'Petya is (smart) enough / clever / stupid / perceptive to enter graduate school.'
-b. Postupit' v aspiranturu - (eto) predusmotritel'no / umno / glupo / prozorlivo.
-   to.enter into graduate.school - (this is) prudent / clever / stupid / perceptive
+
+b. Postupit' v aspiranturu - (eto) predusmotritel'no / umno / glupo / prozorlivo.<br/>
+   to.enter into graduate.school - (this is) prudent / clever / stupid / perceptive<br/>
    'To enter graduate school - (this is) prudent / clever / stupid / perceptive.'
 
 Finally, there is a class of modal adjectives that attach a desiderative infinitive with _chtoby_ and an optional experiencer:
 
-(448) (Nam) Nuzhno / vozmozhno / neobkhodimo / khorosho, chtoby Petya postupil v aspiranturu.
-   (to us) necessary / possible / imperative / good that Petya entered into graduate.school
+(448) (Nam) Nuzhno / vozmozhno / neobkhodimo / khorosho, chtoby Petya postupil v aspiranturu.<br/>
+   (to us) necessary / possible / imperative / good that Petya entered into graduate.school<br/>
    '(To us) It is necessary / possible / imperative / good that Petya enter graduate school.'
 
 This list does not exhaust the models of government for Russian adjectives with sentential complements. Be that as it may, it is quite problematic to identify a class of adjectives with external and internal participants based on Russian material.
 
 **Target Standard.** The hyper-role of benefactive has another interesting feature, which manifests in semantic classes that do not possess the ability to govern. Thus, for adjectives of the SIZE, PHYSICAL PROPERTIES, and CHARACTER TRAITS AND HUMAN STATES classes, which usually do not have syntactic participants, such participants appear when an intensifier (_slishkom_ 'too', _ochen'_ 'very', _ves'ma_ 'quite', etc.) is used with them – we will define such uses as a target standard:
 
-(449) ?? vkhod, uzkiy dlya kolyaski
-   entrance, narrow for stroller
+(449) ?? vkhod, uzkiy dlya kolyaski<br/>
+   entrance, narrow for stroller<br/>
    '?? an entrance narrow for a stroller'
-?? vysokaya dlya rebenka temperatura
-   high for child temperature
+
+?? vysokaya dlya rebenka temperatura<br/>
+   high for child temperature<br/>
    '?? a high temperature for a child'
-?? voda v vanne goryachaya dlya malysha
-   water in bath hot for baby
+
+?? voda v vanne goryachaya dlya malysha<br/>
+   water in bath hot for baby<br/>
    '?? bath water hot for the baby'
-?? umnyy dlya starsheklassnika yunosha
-   smart for high.schooler youth
+
+?? umnyy dlya starsheklassnika yunosha<br/>
+   smart for high.schooler youth<br/>
    '?? a smart youth for a high school student'
 
-(450) (Internet)
-Vkhod v zavedeniye slishkom uzkiy dlya kolyaski.
+(450) (Internet)<br/>
+Vkhod v zavedeniye slishkom uzkiy dlya kolyaski.<br/>
 'The entrance to the establishment is too narrow for a stroller.'
-Vyzvat' skoruyu, eto ochen' vysokaya dlya rebenka temperatura…
+
+Vyzvat' skoruyu, eto ochen' vysokaya dlya rebenka temperatura…<br/>
 'Call an ambulance, this is a very high temperature for a child…'
-Slyshala (ot vrachey), chto yesli vodichka v vannoy chereschur goryachaya dlya malysha…
+
+Slyshala (ot vrachey), chto yesli vodichka v vannoy chereschur goryachaya dlya malysha…<br/>
 'I heard (from doctors) that if the water in the bath is too hot for the baby…'
-Ochen' umnyy dlya starsheklassnika Kendzi Koyso pytayetsya ustranit' vyzvannuyu yego prosveshchennoy glupost'yu problemu v global'noy seti.
+
+Ochen' umnyy dlya starsheklassnika Kendzi Koyso pytayetsya ustranit' vyzvannuyu yego prosveshchennoy glupost'yu problemu v global'noy seti.<br/>
 'Kenji Koisho, very smart for a high school student, is trying to eliminate a problem in the global network caused by his enlightened stupidity.'
 
 Another context in which a missing or marginal role, for example in attributive uses, becomes (more) grammatical, is predicative use in the short form (Arutyunova 1988: 240):
 
-(451) (Internet)
-Dver' ostorozhno priotkrylas', i likhoradochno-blednyy mag yele protisnulsya v otkryvshiysya proyem, slovno tot byl uzok dlya nego.
+(451) (Internet)<br/>
+Dver' ostorozhno priotkrylas', i likhoradochno-blednyy mag yele protisnulsya v otkryvshiysya proyem, slovno tot byl uzok dlya nego.<br/>
 'The door cautiously opened ajar, and the feverishly pale mage barely squeezed through the opening, as if it was too narrow for him.'
-Eta temperatura vysoka dlya stabil'nogo soyedineniya otsinkovannykh staley bez povrezhdeniya pokrytiya.
+
+Eta temperatura vysoka dlya stabil'nogo soyedineniya otsinkovannykh staley bez povrezhdeniya pokrytiya.<br/>
 'This temperature is too high for stable joining of galvanized steels without damaging the coating.'
-Tak zhe vozmutilas' i svekrov', chto voda goryacha dlya malysha…
+
+Tak zhe vozmutilas' i svekrov', chto voda goryacha dlya malysha…<br/>
 'The mother-in-law also got indignant that the water was too hot for the baby…'
-Chetyrekh"yadernyy protsessor M8s Kodi Xbmc Amlogic S812 umen dlya Android.
+
+Chetyrekh"yadernyy protsessor M8s Kodi Xbmc Amlogic S812 umen dlya Android.<br/>
 'The quad-core processor M8s Kodi Xbmc Amlogic S812 is smart for Android.'
 
 The target standard is introduced with an intensifier and specifies the typical degree of manifestation of the property for the given adjective.
 
 The influence of intensifiers on the properties of adjectival dependents has been well-studied for English, see (Nissenbaum, Schwarz 2011) and references therein. The first to make such an observation for English was R. Jackendoff, see (Jackendoff 1972), but he, like subsequent researchers of English adjectives, spoke more about the dependence of the (properties of) target participants (infinitives) on the presence of intensifiers:
 
-(452) English (Jackendoff 1972: 227)
-a. The mattress is thin.
-b. * The mattress is thin to sleep on.
+(452) English (Jackendoff 1972: 227)<br/>
+a. The mattress is thin.<br/>
+b. * The mattress is thin to sleep on.<br/>
 c. The mattress is too thin to sleep on.
 
-(453) English (Jackendoff 1972: 227)
-a. The football is soft.
-b. * The football is soft to kick.
+(453) English (Jackendoff 1972: 227)<br/>
+a. The football is soft.<br/>
+b. * The football is soft to kick.<br/>
 c. The football is soft enough to kick.
 
 As can be seen from the Russian translations, the same dependence of target infinitives on intensifiers is observed in Russian as well.
@@ -4439,28 +4622,31 @@ We believe that the evaluative structure present at the semantic level in non-go
 
 A similar effect is observed in the case of a nominal projection: in a number of contexts, some nouns develop an addressee valency, see (Grashchenkov, Markman 2010):
 
-(454) Dima byl mne drugom.
-   Dima was to.me a.friend
+(454) Dima byl mne drugom.<br/>
+   Dima was to.me a.friend<br/>
    'Dima was a friend to me.'
-Ona byla mne sestroy.
-   she was to.me a.sister
+
+Ona byla mne sestroy.<br/>
+   she was to.me a.sister<br/>
    'She was a sister to me.'
 
 Dative government or, alternatively, a prepositional phrase with _dlya_ 'for' (_On byl dlya menya drugom_ 'He was a friend for me') appears only in a specific (predicative) context, cf.: _*On obidel druga Dime_ '*He offended a friend to Dima', etc. Similar participants – both the target standard and the target infinitive – are also "induced" by modifiers in the verb phrase:
 
-(455) (Internet)
-a. Khorosho strelyayesh' dlya khudozhnika, pryamo v serdtse.
-   well shoot for artist, right in heart
+(455) (Internet)<br/>
+a. Khorosho strelyayesh' dlya khudozhnika, pryamo v serdtse.<br/>
+   well shoot for artist, right in heart<br/>
    'You shoot well for an artist, right into the heart.'
-b. Segodnya ya slishkom ustal, chtoby prodolzhat' put'…
-   today I too tired, in.order.to continue way
+
+b. Segodnya ya slishkom ustal, chtoby prodolzhat' put'…<br/>
+   today I too tired, in.order.to continue way<br/>
    'Today I am too tired to continue on my way…'
 
-(456) a. * Strelyayesh' dlya khudozhnika, pryamo v serdtse.
-   shoot for artist, right in heart
+(456) a. * Strelyayesh' dlya khudozhnika, pryamo v serdtse.<br/>
+   shoot for artist, right in heart<br/>
    '*You shoot for an artist, right into the heart.'
-b. * Ya ustal, chtoby prodolzhat' put'…
-   I tired, in.order.to continue way
+
+b. * Ya ustal, chtoby prodolzhat' put'…<br/>
+   I tired, in.order.to continue way<br/>
    '*I am tired to continue on my way…'
 
 Starting with (Pylkkänen 2002)'s dissertation, it has been widely accepted that such participants are introduced into the structure by a special applicative projection; see also applications of this approach to Russian material in (Pshekhotskaya 2012). As it seems to us, in the case of stative predicates, due to the absence of a phase corresponding to causative and process stages, the benefactive is reinterpreted as an experiencer / target standard.
@@ -4479,34 +4665,39 @@ In the case of predicative use with a sentential complement _chtoby_ 'in order t
 
 Such a configuration, i.e., the placement of the experiencer / target standard in the complement position, and the adjective phrase in the specifier, is supported by two facts. Firstly, the complements of adjectives are closer to the adjective than the target participant (which also occupies a complement position, but of a higher projection):
 
-(459) (Internet)
-Ne obrashchay vnimaniya na moyego brata, on slishkom [zol na mir], chtoby govorit' s drugimi normal'no!
+(459) (Internet)<br/>
+Ne obrashchay vnimaniya na moyego brata, on slishkom [zol na mir], chtoby govorit' s drugimi normal'no!<br/>
 'Don't pay attention to my brother, he is too [angry at the world] to talk to others normally!'
-Staryy dobryy Klub Pisateley okazalsya slishkom [star i slishkom dobr k sebe], chtoby prinyat' takiye novovvedeniya.
+
+Staryy dobryy Klub Pisateley okazalsya slishkom [star i slishkom dobr k sebe], chtoby prinyat' takiye novovvedeniya.<br/>
 'The good old Writers' Club turned out to be too [old and too kind to itself] to accept such innovations.'
-… v «Reale» slishkom [dovol'ny Navasom i Kasil'yey], chtoby davat' 50 millionov za cheloveka, kotoryy cherez god dostanetsya besplatno.
+
+… v «Reale» slishkom [dovol'ny Navasom i Kasil'yey], chtoby davat' 50 millionov za cheloveka, kotoryy cherez god dostanetsya besplatno.<br/>
 '…Real (Madrid) is too [satisfied with Navas and Casilla] to give 50 million for a player who will be available for free in a year.'
-… etot proyekt slishkom [dorog nam], chtoby brosat' vse na polputi.
+
+… etot proyekt slishkom [dorog nam], chtoby brosat' vse na polputi.<br/>
 '…this project is too [dear to us] to abandon everything halfway.'
 
 In the examples above, the adjective phrase projections with their lexical dependents are higher in the structure than the _chtoby_-infinitives, which we assume are in the specifier position of the ApplP projection.
 
 Secondly, the lexical complement of an adjective, even if expressed by an oblique-case (rather than a prepositional) phrase, does not c-command the _chtoby_-clause. If c-command occurs, the noun phrase cannot be coreferential with the subject of the _chtoby_-clause, expressed by a pronoun:
 
-(460) Drug_i Peti_j priyekhal v gosti, chtoby on *i,j nemnogo otdokhnul.
-   friend_NOM_i Petya_GEN_j arrived to.visit, so.that he_(*i,j) a.little rested
+(460) Drug_i Peti_j priyekhal v gosti, chtoby on *i,j nemnogo otdokhnul.<br/>
+   friend_NOM_i Petya_GEN_j arrived to.visit, so.that he_(*i,j) a.little rested<br/>
    'Petya's friend arrived to visit so that he could rest a little.'
-Na kom zhenat Petya?
-   on whom_LOC married Petya_NOM
+
+Na kom zhenat Petya?<br/>
+   on whom_LOC married Petya_NOM<br/>
    'Who is Petya married to?'
 
 In this example, the pronominal subject can only refer to the noun phrase _Peti_ 'Petya's', because only this noun phrase does not c-command the subject _on_ 'he'. In the sentences below, the pronominal subject of the finite _chtoby_-clause can refer to the adjective's lexical complement:
 
-(461) V «Reale» slishkom dovol'ny Navasom, chtoby on ushel v drugoy klub.
-   in Real too satisfied Navas-INSTR, so.that he left into other club
+(461) V «Reale» slishkom dovol'ny Navasom, chtoby on ushel v drugoy klub.<br/>
+   in Real too satisfied Navas-INSTR, so.that he left into other club<br/>
    'In Real (Madrid), they are too happy with Navas for him to leave for another club.'
-… etot proyekt slishkom dorog Pete, chtoby on brosil vse na polputi.
-   this project too dear Petya-DAT, so.that he abandoned everything on halfway
+
+… etot proyekt slishkom dorog Pete, chtoby on brosil vse na polputi.<br/>
+   this project too dear Petya-DAT, so.that he abandoned everything on halfway<br/>
    '…this project is too dear to Petya for him to abandon everything halfway.'
 
 This suggests that at no point in the derivation is there a c-command relationship between the dative participant and the dependent _chtoby_-clause. This corresponds to the structure³⁹ we proposed above, where the adjective phrase is in the specifier of the applicative projection, and the experiencer / target standard is in the complement:
@@ -4517,14 +4708,17 @@ This suggests that at no point in the derivation is there a c-command relationsh
 
 In conclusion of the discussion of the _dlya_ 'for' participant, let's recall another observation made earlier about the argument structure of adjectives. Most valent adjectives obligatorily have a short form, cf.: _bezrazlichen_ / _bespristrasten_ / _blagozhelatelen k chemu-libo_ 'indifferent / impartial / well-wishing to something'; _identichen_ / _odinakov s chem-libo_ 'identical / same with something'; _zhenat na kom-libo_ 'married to someone'; _interesen_ / _omerzitelen chem-libo_ 'interesting / disgusting by something', etc. This generalization is regularly violated by the _dlya_ 'for' participant:
 
-(463) (Internet)
-V etom istoricheskom dlya nas sezone, kogda vnov' otkroyet dveri Osnovnaya stsena Bol'shogo teatra…
+(463) (Internet)<br/>
+V etom istoricheskom dlya nas sezone, kogda vnov' otkroyet dveri Osnovnaya stsena Bol'shogo teatra…<br/>
 'In this historic season for us, when the Main Stage of the Bolshoi Theater will reopen its doors…'
-Eto ne byl klassicheskiy dlya nashego futbola sluchay podsizhivaniya assistentom…
+
+Eto ne byl klassicheskiy dlya nashego futbola sluchay podsizhivaniya assistentom…<br/>
 'This was not a classic case for our football of an assistant undermining [someone]…'
-V stol' pozdniy dlya Pitera chas zhelayushchikh sovershat' promenad ne nablyudayetsya.
+
+V stol' pozdniy dlya Pitera chas zhelayushchikh sovershat' promenad ne nablyudayetsya.<br/>
 'At such a late hour for Piter (St. Petersburg), no one willing to take a stroll is observed.'
-V minuvshem sezone, stavshem debyutnym dlya krasno-belykh, oni nabrali 50 ochkov v 30 matchakh.
+
+V minuvshem sezone, stavshem debyutnym dlya krasno-belykh, oni nabrali 50 ochkov v 30 matchakh.<br/>
 'In the past season, which became the debut for the red-and-whites, they scored 50 points in 30 matches.'
 
 Adjectives with the suffix _-sk_, as is known, do not have a short form; the same can be said about _pozdniy_ 'late', _debyutnyy_ 'debut', and some other lexemes that fully allow government by a prepositional phrase with _dlya_ 'for'. This also indicates that the source of government in such cases is not the lexical structure of the adjectives. Both structures proposed above introduce the _dlya_-participant independently of the adjective. One structure contains the _dlya_-group in the intensifier's complement, the other in the complement of the Appl projection.
@@ -4533,123 +4727,135 @@ To summarize: the experiential participant, corresponding to the subject of eval
 
 **Basis / Content.** As stated in (Vol'f 1978: 35), "Another element of the qualificative structure – the 'point of reference' (criterion or basis of qualification) can be explicitly indicated in the text, including by the very semantics of the adjective, but can also be implied based on the speaker's subjective understanding of the given situation (in actual evaluation) or of a 'normative,' 'averaged' state of affairs." Such a participant corresponds to the role of the basis of evaluation or content and is characteristic of adjectives of the CONTENT, EVALUATIVE, and BENEFACTIVE classes, as well as for part of the IDENTITY class adjectives and, sporadically, for some others. One way of expression is a noun phrase in the instrumental case:
 
-(464) (Internet)
-Po sravneniyu s drugimi yagodami chernika bedna vitaminami, ikh dazhe v 20 raz bol'she v yeyo list'yakh, chem v plodakh.
+(464) (Internet)<br/>
+Po sravneniyu s drugimi yagodami chernika bedna vitaminami, ikh dazhe v 20 raz bol'she v yeyo list'yakh, chem v plodakh.<br/>
 'Compared to other berries, blueberries are poor in vitamins; there are even 20 times more of them in their leaves than in the fruits.'
-Kniga, o kotoroy poydet rech', prezhde vsego interesna vzglyadom na sovremennuyu russkuyu provintsiyu.
+
+Kniga, o kotoroy poydet rech', prezhde vsego interesna vzglyadom na sovremennuyu russkuyu provintsiyu.<br/>
 'The book in question is, first and foremost, interesting for its view on contemporary Russian province.'
-Khek polezen bogatym naborom vitaminov, yoda…
+
+Khek polezen bogatym naborom vitaminov, yoda…<br/>
 'Hake is useful for its rich set of vitamins, iodine…'
-Izgolov'ye krovati i divan, skhozhiye svoimi plavnymi liniyami, sozdayut uyutnuyu rasslablyayushchuyu atmosferu.
+
+Izgolov'ye krovati i divan, skhozhiye svoimi plavnymi liniyami, sozdayut uyutnuyu rasslablyayushchuyu atmosferu.<br/>
 'The headboard of the bed and the sofa, similar in their smooth lines, create a cozy, relaxing atmosphere.'
 
 Alternatively, the basis of evaluation can be expressed by a prepositional phrase with _po_ 'by' / _v_ 'in' and (optionally) a possessive reflexive:
 
-(465) (Internet)
-Chto by i kto by tam ni govoril, a Ronaldu genialen v svoyey igre!
+(465) (Internet)<br/>
+Chto by i kto by tam ni govoril, a Ronaldu genialen v svoyey igre!<br/>
 'Whatever and whoever might say, Ronaldo is brilliant in his game!'
-Vse kletki organizma tozhdestvenny po prirode.
+
+Vse kletki organizma tozhdestvenny po prirode.<br/>
 'All cells of the organism are identical by nature.'
 
-(466) … mnogoobraznyy po sostavu i unikal'nyy v svoyey sovokupnosti material po istorii otechestvennoy etnografii i antropologii…
+(466) … mnogoobraznyy po sostavu i unikal'nyy v svoyey sovokupnosti material po istorii otechestvennoy etnografii i antropologii…<br/>
 '…diverse in composition and unique in its entirety material on the history of domestic ethnography and anthropology…'
 
-(468) (From the works of A. and B. Strugatsky)
-Vse-taki chelovek po svoyey prirode neblagodaren i ravnodushen…
+(468) (From the works of A. and B. Strugatsky)<br/>
+Vse-taki chelovek po svoyey prirode neblagodaren i ravnodushen…<br/>
 'After all, man is by his nature ungrateful and indifferent…'
-Vo vsyakom sluchaye, yesli eto i ne ad, to nechto sovershenno neotlichimoye po svoim proyavleniyam.
+
+Vo vsyakom sluchaye, yesli eto i ne ad, to nechto sovershenno neotlichimoye po svoim proyavleniyam.<br/>
 'In any case, if it is not hell, then it is something completely indistinguishable in its manifestations.'
-On izlozhil Brombergu v vysshey stepeni zagadochnuyu i chertovski soblaznitel'nuyu v svoyey zagadochnosti legendu…
+
+On izlozhil Brombergu v vysshey stepeni zagadochnuyu i chertovski soblaznitel'nuyu v svoyey zagadochnosti legendu…<br/>
 'He presented Bromberg with a legend that was highly mysterious and devilishly tempting in its mysteriousness…'
 
 **Complex Prepositions.** The semantic participant of adjectives is, as a rule, syntactically optional ("weak" in Apresyan's terminology) and does not have a fixed surface means of expression. In such cases, complex prepositions like _v otnoshenii kogo-libo_ 'in relation to someone' (or _v otnoshenii k komu-libo_), _po otnoshenii kogo-libo_ 'with regard to someone' (or _po otnoshenii k komu-libo_) are often used. In the examples below, they introduce a participant semantically close to an addressee:
 
-(467) (Internet)
-Zasolennost' zemel' vela k snizheniyu urozhayev i postepennoy zamene pshenitsy na boleye vynoslivyy v otnoshenii soli yachmen'.
+(467) (Internet)<br/>
+Zasolennost' zemel' vela k snizheniyu urozhayev i postepennoy zamene pshenitsy na boleye vynoslivyy v otnoshenii soli yachmen'.<br/>
 'Soil salinity led to reduced yields and the gradual replacement of wheat with barley, which is more resistant to salt.'
 
-(L. N. Andreyev, "T'ma")
-«Merzost' kakaya!» -podumal pristav, khotya v otnoshenii chistoty byl chelovek netrebovatel'nyy…
+(L. N. Andreyev, "T'ma")<br/>
+«Merzost' kakaya!» -podumal pristav, khotya v otnoshenii chistoty byl chelovek netrebovatel'nyy…<br/>
 '"What an abomination!" - thought the precinct officer, although concerning cleanliness he was an undemanding man…'
 
 It should be noted that the adjectives _vynoslivyy_ 'resistant' / _netrebovatel'nyy_ 'undemanding' have the ability to attach a participant in the dative case with the preposition _k_ 'to', to whom the property defined by them would extend:
 
-(469) (Internet)
-Iskusstvennyy material - produkt tekhnologichnyy i boleye vynoslivyy ko vsem prirodnym vozdeystviyam.
+(469) (Internet)<br/>
+Iskusstvennyy material - produkt tekhnologichnyy i boleye vynoslivyy ko vsem prirodnym vozdeystviyam.<br/>
 'Artificial material is a technological product and more resistant to all natural influences.'
 
-(471) … ikh i tak khorosho znayut novichki v Linux, kotorym vazhen netrebovatel'nyy k resursam distributiv.
+(471) … ikh i tak khorosho znayut novichki v Linux, kotorym vazhen netrebovatel'nyy k resursam distributiv.<br/>
 '…Linux newcomers already know them well, for whom a resource-undemanding distribution is important.'
 
 The complex preposition _v otnoshenii (k)_ can also be used with adjectives that do not have a valency for a prepositional phrase with _k_ and the dative (cf.: _*korrektnyy_ / _*spravedlivyy_ / _*bezzabotnyy_ / _*pravdivyy_ / _*ostorozhnyy k chemu-libo_ '*correct / *just / *carefree / *truthful / *cautious to something'):
 
-(470) (Internet)
-… nuzhno ne sbivat'sya i na voskhvaleniya, a takzhe byt' korrektnym v otnoshenii sopernikov.
+(470) (Internet)<br/>
+… nuzhno ne sbivat'sya i na voskhvaleniya, a takzhe byt' korrektnym v otnoshenii sopernikov.<br/>
 '…one should not fall into praises, but also be correct in relation to rivals.'
 
-(472) Yesli net, to shag bespretsedentnyy i spravedlivyy v otnoshenii SShA.
+(472) Yesli net, to shag bespretsedentnyy i spravedlivyy v otnoshenii SShA.<br/>
 'If not, then it is an unprecedented and fair step with regard to the USA.'
-Lyudi v nashey «nesistemnoy oppozitsii» ochen' bezzabotny v otnoshenii chuzhikh zhizney…
+
+Lyudi v nashey «nesistemnoy oppozitsii» ochen' bezzabotny v otnoshenii chuzhikh zhizney…<br/>
 'People in our "non-systemic opposition" are very carefree with regard to other people's lives…'
 
-(Internet)
-On ochen' pravdivyy v otnoshenii vsego etogo nepopravimogo puti…
+(Internet)<br/>
+On ochen' pravdivyy v otnoshenii vsego etogo nepopravimogo puti…<br/>
 'He is very truthful with regard to this whole irreparable path…'
 
-(From the works of A. V. Chayanov)
-Neskol'ko goryachikh golov… trebovali, chtoby maestro, stol' ostorozhnyy v otnoshenii svoyey slavy…
+(From the works of A. V. Chayanov)<br/>
+Neskol'ko goryachikh golov… trebovali, chtoby maestro, stol' ostorozhnyy v otnoshenii svoyey slavy…<br/>
 'Several hotheads… demanded that the maestro, so cautious concerning his fame…'
 
 In such adjectives, a semantic participant with an addressee role is most likely absent, and the prepositions _v otnoshenii_ / _po otnosheniyu k_ 'in relation to / with regard to' introduce a circumstant with similar semantics. The optional participant of such adjectives, even if they lack (addressee) valency for the preposition _k_ with the dative, can nevertheless be expressed by a complex preposition containing _k_:
 
-(473) (From the works of L. N. Tolstoy)
-Stepan Arkad'ich byl chelovek pravdivyy v otnoshenii k sebe samomu.
+(473) (From the works of L. N. Tolstoy)<br/>
+Stepan Arkad'ich byl chelovek pravdivyy v otnoshenii k sebe samomu.<br/>
 'Stepan Arkadievich was a truthful man with regard to himself.'
 
-(474) (Internet)
-Malen'kiy, zabotlivyy i ostorozhnyy v otnoshenii k cheloveku, kotoryy yemu vazhen i nuzhen.
+(474) (Internet)<br/>
+Malen'kiy, zabotlivyy i ostorozhnyy v otnoshenii k cheloveku, kotoryy yemu vazhen i nuzhen.<br/>
 'Small, caring and cautious in relation to a person who is important and needed by him.'
 
 Let's also give a few examples with the preposition _po otnosheniyu k_:
 
-(475) (From the works of A. and B. Strugatsky)
-Dopolnitel'nym po otnosheniyu k etomu zakonu yavlyayetsya zakon nepreryvnogo vosproizvodstva razuma.
+(475) (From the works of A. and B. Strugatsky)<br/>
+Dopolnitel'nym po otnosheniyu k etomu zakonu yavlyayetsya zakon nepreryvnogo vosproizvodstva razuma.<br/>
 'Complementary to this law is the law of continuous reproduction of reason.'
--Izvini, konechno, no eto ne sovsem chestno po otnosheniyu k drugim.
+
+-Izvini, konechno, no eto ne sovsem chestno po otnosheniyu k drugim.<br/>
 '-Excuse me, of course, but that's not entirely fair to others.'
 
-(476) (A. I. Solzhenitsyn. "Bodalsya telenok s dubom")
-… moye pis'mo, takoye gruboye po otnosheniyu k svyashchennoy klassovoy bor'be…
+(476) (A. I. Solzhenitsyn. "Bodalsya telenok s dubom")<br/>
+… moye pis'mo, takoye gruboye po otnosheniyu k svyashchennoy klassovoy bor'be…<br/>
 '…my letter, so rude with regard to the sacred class struggle…'
 
 Note that the complex preposition _po otnosheniyu k_ 'with regard to' is almost never found in the form _bez k_ 'without k', whereas _v otnoshenii_ 'in relation to' is used more often in modern Russian than _v otnoshenii k_. In Russian of previous eras, _v otnoshenii k_ was most likely more frequent:
 
-(477) (D. V. Grigorovich. "Pereselentsy")
-Nado dumat', odnakozh, ne vse tak bezzabotny v otnoshenii k dobru svoyemu…
+(477) (D. V. Grigorovich. "Pereselentsy")<br/>
+Nado dumat', odnakozh, ne vse tak bezzabotny v otnoshenii k dobru svoyemu…<br/>
 'One must think, however, not everyone is so carefree with regard to their property…'
 
-(478) (V. G. Belinskiy. "Razdeleniye poezii na rody i vidy")
-Epicheskaya poeziya yest' po preimushchestvu poeziya ob"yektivnaya, vneshnyaya, kak v otnoshenii k samoy sebe, tak i k poetu i yego chitatelyu.
+(478) (V. G. Belinskiy. "Razdeleniye poezii na rody i vidy")<br/>
+Epicheskaya poeziya yest' po preimushchestvu poeziya ob"yektivnaya, vneshnyaya, kak v otnoshenii k samoy sebe, tak i k poetu i yego chitatelyu.<br/>
 'Epic poetry is preeminently objective, external poetry, both in relation to itself and to the poet and his reader.'
 
 Both prepositions are most likely undergoing a grammaticalization process related to phonological reduction. Possibly, this will be accompanied by a change in the government of some semantic classes of adjectives – the participants introduced by such prepositions will change from optional to obligatory.
 
 **Circumstants.** Another confirmation that adjectives can independently define situations, their participants, and the conditions of their occurrence is the ability of adjectives to be used with adverbs of time (479) and place (480) of action:
 
-(479) (Internet)
-Osobenno nepriyatny morshchiny, poyavivshiyesya mezhdu brovey, oni pridayut ikh obladatelyam postoyanno nedovol'nyy i nakhmurennyy vid.
+(479) (Internet)<br/>
+Osobenno nepriyatny morshchiny, poyavivshiyesya mezhdu brovey, oni pridayut ikh obladatelyam postoyanno nedovol'nyy i nakhmurennyy vid.<br/>
 'Especially unpleasant are wrinkles that appear between the eyebrows; they give their owners a constantly dissatisfied and frowning appearance.'
-V rezul'tate pozhara 1810 goda byli unichtozheny znachitel'naya chast' goroda i glavnyy v to vremya khram - tserkov' Il'i Proroka…
+
+V rezul'tate pozhara 1810 goda byli unichtozheny znachitel'naya chast' goroda i glavnyy v to vremya khram - tserkov' Il'i Proroka…<br/>
 'As a result of the 1810 fire, a significant part of the city and the main church at that time – the church of Elijah the Prophet – were destroyed…'
-… tikhiy gorodok, vse tak zhe, kak stoletiye nazad, lenivo-pyl'nyy v letniye dni, gryaznyy v osennuyu i vesennuyu rasputitsu…
+
+… tikhiy gorodok, vse tak zhe, kak stoletiye nazad, lenivo-pyl'nyy v letniye dni, gryaznyy v osennuyu i vesennuyu rasputitsu…<br/>
 '…a quiet town, still, just like a century ago, lazily dusty in summer days, dirty in autumn and spring slush…'
 
-(480) (Internet)
-Tem vremenem v severnuyu stolitsu dlya rassledovaniya neobychnogo ubiystva pribyvayet Yuriy Fedra, izvestnyy v svoyem gorode detektiv.
+(480) (Internet)<br/>
+Tem vremenem v severnuyu stolitsu dlya rassledovaniya neobychnogo ubiystva pribyvayet Yuriy Fedra, izvestnyy v svoyem gorode detektiv.<br/>
 'Meanwhile, Yuri Fedra, a detective known in his city, arrives in the northern capital to investigate an unusual murder.'
-Nazvana samaya populyarnaya sredi turistov strana.
+
+Nazvana samaya populyarnaya sredi turistov strana.<br/>
 'The most popular country among tourists has been named.'
-Vy ne budete stalkivat'sya s takoy problemoy, kak propechennyy snaruzhi, no syroy vnutri pirog.
+
+Vy ne budete stalkivat'sya s takoy problemoy, kak propechennyy snaruzhi, no syroy vnutri pirog.<br/>
 'You will not encounter such a problem as a pie baked on the outside but raw on the inside.'
 
 For adjectives denoting qualities, temporal correlation is generally less relevant than for verbs, see (Bulygina, Shmelev 1997: 49-58). Obviously, semantic classes also determine, to some extent, compatibility with circumstants. Thus, emotional states described by the CHARACTER TRAITS AND HUMAN STATES class (_postoyanno nedovol'nyy_ 'constantly dissatisfied') change over time; as a result, such adjectives often combine with adverbs of time. The same is characteristic of adjectives of the PHYSICAL PROPERTIES class (_gryaznyy v rasputitsu_ 'dirty in slush'), for which the place of manifestation of the property is also relevant (_syroy vnutri_ 'raw inside'). For adjectives of the FAMILIARITY class, indicating the "space" in which knowledge about the object spreads is also characteristic, which is why they are regularly used with prepositional-case groups headed by prepositions _sredi_ 'among', _v_ 'in', etc. (_populyarnaya sredi turistov_ 'popular among tourists', _izvestnyy v svoyem gorode_ 'known in one's city').

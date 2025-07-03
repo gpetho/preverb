@@ -209,16 +209,19 @@ To My Family
 Even those unfamiliar with typology might have pondered the following problems. Why are adjectives _golodnyy_ / hungry used in Russian and English, while in French or Agul, nouns _faim_ / _gaš_ 'hunger' correspond to these adjectives:
 
 (1) Ya byl goloden.<br/>
-    'I was hungry.'<br/>
+    'I was hungry.'
+
 (2) English<br/>
-    I was hungry.<br/>
+    I was hungry.
+
 (3) French<br/>
     J'avais faim.<br/>
-    'I was hungry.', lit.: 'I had hunger.'<br/>
+    'I was hungry.', lit.: 'I had hunger.'
+
 (4) Agul (Maysak 2014: 270)<br/>
     Za-s ʡ aji gaš kːe.<br/>
     I-DAT very hunger be:PRES<br/>
-    'I was very hungry.', lit.: 'To me was hunger.'<br/>
+    'I was very hungry.', lit.: 'To me was hunger.'
 
 To continue the analogies – why is there no adjective for _khotet' pit'_ 'to be thirsty' 1 in Russian, while English, alongside _hungry_, consistently uses the adjective _thirsty_, and French, just as consistently, uses the noun _soif_ 'thirst', analogous to _faim_ 'hunger'?
 

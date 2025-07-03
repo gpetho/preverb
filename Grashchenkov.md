@@ -208,17 +208,17 @@ To My Family
 
 Even those unfamiliar with typology might have pondered the following problems. Why are adjectives _golodnyy_ / hungry used in Russian and English, while in French or Agul, nouns _faim_ / _gaš_ 'hunger' correspond to these adjectives:
 
-- (1) Ya byl goloden.
-    'I was hungry.'
-- (2) English
-    I was hungry.
-- (3) French
-    J'avais faim.
-    'I was hungry.', lit.: 'I had hunger.'
-- (4) Agul (Maysak 2014: 270)
-    Za-s ʡ aji gaš kːe.
-    I-DAT very hunger be:PRES
-    'I was very hungry.', lit.: 'To me was hunger.'
+(1) Ya byl goloden.<br/>
+    'I was hungry.'<br/>
+(2) English<br/>
+    I was hungry.<br/>
+(3) French<br/>
+    J'avais faim.<br/>
+    'I was hungry.', lit.: 'I had hunger.'<br/>
+(4) Agul (Maysak 2014: 270)<br/>
+    Za-s ʡ aji gaš kːe.<br/>
+    I-DAT very hunger be:PRES<br/>
+    'I was very hungry.', lit.: 'To me was hunger.'<br/>
 
 To continue the analogies – why is there no adjective for _khotet' pit'_ 'to be thirsty' 1 in Russian, while English, alongside _hungry_, consistently uses the adjective _thirsty_, and French, just as consistently, uses the noun _soif_ 'thirst', analogous to _faim_ 'hunger'?
 
@@ -226,16 +226,16 @@ To continue the analogies – why is there no adjective for _khotet' pit'_ 'to b
 
 Another example of such discrepancies can be the absence in some languages of adjectives like Russian _kamennyy_. If French resorts to a prepositional phrase in this case, English and Turkic languages use an unmarked noun combination:
 
-(5) French
-maison en / de pierre
+(5) French<br/>
+maison en / de pierre<br/>
 house in / from stone
 
-(6) English
+(6) English<br/>
 stone house
 
-(7) Bashkir
-tash yort
-stone house
+(7) Bashkir<br/>
+tash yort<br/>
+stone house<br/>
 'stone house'
 
 Even from these quite specific examples, it is clear that the boundary between parts of speech varies across languages. The situation with adjectives in this regard is particularly notable: in some languages, it is difficult to identify an independent class of adjectives.
@@ -292,8 +292,8 @@ The approach to PoS identification adopted in modern typology is based on the co
 
 Recategorization is the (morphologically or analytically) marked transition of a lexical unit, which in its unmarked use belonged to lexical class A, into lexical class B. For example, the use of an English adjective in predicate position can be considered marked. English adjectives can function as a predicate in one of two cases: i) if they become verbs as a result of inflection with corresponding derivational markers, ii) if they are used with a copula:
 
-(8) English
-(internet)
+(8) English<br/>
+(internet)<br/>
 - a. The music softens the manners.
 - b. His manners were soft.
 
@@ -349,25 +349,30 @@ So, we can speak of three or four basic PoS (the question of including or not in
 
 As an example of languages where any word can unmarkedly perform any syntactic function, Old Chinese is usually cited. Let's consider, however, an example from Hawaiian (Austronesian, Polynesian):
 
-(10) Hawaiian
-(Belikov 1990: 181)
-- a. ka hua 'ai
-    DEF.SG fruit edible
+(10) Hawaiian<br/>
+(Belikov 1990: 181)<br/>
+a. ka hua 'ai<br/>
+    DEF.SG fruit edible<br/>
     'edible fruit'
-- b. ka 'ai maika'i
-    DEF.SG food good
+
+b. ka 'ai maika'i<br/>
+    DEF.SG food good<br/>
     'good food'
-- c. ua 'ai nui 'oia
-    PERF eat much he
+
+c. ua 'ai nui 'oia<br/>
+    PERF eat much he<br/>
     'he ate a lot'
-- d. ua nui na 'ai
-    PERF much DEF.PL food
+
+d. ua nui na 'ai<br/>
+    PERF much DEF.PL food<br/>
     'there was a lot of food'
-- e. ka hale nui
-    DEF.SG house big
+
+e. ka hale nui<br/>
+    DEF.SG house big<br/>
     'big house'
-- f. ka nui o ka hale
-    DEF.SG greatness POSS DEF.SG house
+
+f. ka nui o ka hale<br/>
+    DEF.SG greatness POSS DEF.SG house<br/>
     'the size of the house'
 
 In this example, the stem _'ai_ appears in the following functions: modifier ('edible'), argument ('food'), predicate ('to eat'). The stem _nui_ is an adverb or quantifier ('much'), an adjective ('big'), a noun ('greatness'). In all these uses, the same lexemes perform various functions without additional marking.
@@ -380,48 +385,52 @@ The tendency towards non-distinction between nouns and verbs (and PoS in general
 
 Let's consider an example from Adyghe (Abkhaz-Adyghe). Units denoting physical objects (presumed nouns) and units denoting actions (presumed verbs) can perform both predicate and argument functions:
 
-(11) Adyghe
-(Testelets 2009: 31-13)
-- a. Kʼale qɛ-kʼu-agh.
-    boy DIR-go-PST
+(11) Adyghe<br/>
+(Testelets 2009: 31-13)<br/>
+a. Kʼale qɛ-kʼu-agh.<br/>
+    boy DIR-go-PST<br/>
     'The boy came.'
-- b. My bzylyfyghe-r sə s-i-şzazy-gh.
-    this woman-ABS I 1.SG-POSS-wife-PST
+
+b. My bzylyfyghe-r sə s-i-şzazy-gh.<br/>
+    this woman-ABS I 1.SG-POSS-wife-PST<br/>
     'This woman was my wife.'
-- c. Sə-ry-scht tekh-osh_ty-r.
-    I-PRED-FUT win-FUT-ABS
+
+c. Sə-ry-scht tekh-osh_ty-r.<br/>
+    I-PRED-FUT win-FUT-ABS<br/>
     'Apparently, I will be the one to win.' (lit.: 'Apparently, it is I who will be the one who wins.')
 
 In example (a), the noun is used as an argument (unmarked by case), and the verb as a predicate. In (b), the noun (_şzazy_ 'wife') becomes a predicate, taking tense and agreement markers. In (c), a lexeme with the meaning of an action (_tekh_ 'to win') becomes an argument, acquiring the absolutive case marker.
 
 At first glance, any lexeme appears capable of performing any function. However, as the authors of the collection (Testelets 2009: 31-13) point out, this is not the case. Verbs are distinguished from nouns and adjectives by their inability to attach possessive affixes:
 
-(12) Adyghe
-(Testelets 2009: 32)
-- a. s-i-pyy
-    1.SG-POSS-enemy
+(12) Adyghe<br/>
+(Testelets 2009: 32)<br/>
+a. s-i-pyy<br/>
+    1.SG-POSS-enemy<br/>
     'my enemy'
-- b. s-i-psynkʼe
-    1.SG-POSS-fast
+
+b. s-i-psynkʼe<br/>
+    1.SG-POSS-fast<br/>
     'my fast one'
-- c. *s-i-kʼa-ghə
-    1.SG-POSS-go-PST
+
+c. *s-i-kʼa-ghə<br/>
+    1.SG-POSS-go-PST<br/>
     Expected: 'my gone one'
 
 Another important distinction between nouns and verbs is as follows. In Abkhaz-Adyghe languages, there is a "hidden category" of definiteness, expressed through differentiated case marking. In the example below, a case-marked noun phrase implies a definite reading, and an unmarked one an indefinite reading:
 
-(13) Adyghe
-(Testelets 2009: 34)
-My 'əryse(-r) qy-s-ə-t.
-apple(-ABS) DIR-1.SG.IO-OBL-give
+(13) Adyghe<br/>
+(Testelets 2009: 34)<br/>
+My 'əryse(-r) qy-s-ə-t.<br/>
+apple(-ABS) DIR-1.SG.IO-OBL-give<br/>
 'Give me (this) apple.'
 
 However, when a verb is used as an argument, there is no such possibility – verbal stems must always be case-marked:
 
-(14) Adyghe
-(Testelets 2009: 34)
-Qə-p-şəfy-ghə-r / *qəpşəfyghə qy-s-ə-t.
-DIR-2.AG-buy-PST-ABS / DIR-2.AG-buy-PST DIR-1.SG.IO-OBL-give
+(14) Adyghe<br/>
+(Testelets 2009: 34)<br/>
+Qə-p-şəfy-ghə-r / *qəpşəfyghə qy-s-ə-t.<br/>
+DIR-2.AG-buy-PST-ABS / DIR-2.AG-buy-PST DIR-1.SG.IO-OBL-give<br/>
 'Give me what you bought.'
 
 As we can see, a careful analysis of distributional properties still provides grounds for distinguishing the main PoS.
@@ -449,77 +458,78 @@ In accordance with the typological approach to PoS, if a certain class of words 
 
 Let us turn to the discussion of attributiveness as a criterion for distinguishing adjectives. If a language has a class of lexemes for which the function of attribute is unmarked, such lexemes will be the primary candidates for adjectives. In English or Russian, adjectives – unlike verbs or nouns – act as attributes without additional marking:
 
-(15) English
-the fast boat
-Bystraya lodka
+(15) English<br/>
+the fast boat<br/>
+Bystraya lodka<br/>
 'the fast boat'
 
-(16) English
-the floating boat
-Plyvushchaya lodka
+(16) English<br/>
+the floating boat<br/>
+Plyvushchaya lodka<br/>
 'the floating boat'
 
-(17) English
-the wooden boat
-Derevyannaya lodka
+(17) English<br/>
+the wooden boat<br/>
+Derevyannaya lodka<br/>
 'the wooden boat'
 
 Based on their ability for attributive use, all stems can be divided into those that do not require additional marking (_fast_, _bystr-_), and those that must be marked (_float-_, _plyv-_; _wood_, _derev-_).
 
 There is, however, a strategy radically opposite to Russian or English. It consists in that any nominal dependents receive identical marking. Thus, according to (Kibrik 1999), the Tsakhur language has an attributive category. The attributive effectively serves as a means of marking any member of a noun phrase; examples are given below for referential and non-referential possessors, predicate stems (= adjectives), and relative clauses:
 
-(18) Tsakhur (Kibrik 1999: 378)
-a. adam ī-na dost
-   man-ATTR friend
+(18) Tsakhur (Kibrik 1999: 378)<br/>
+a. adam ī-na dost<br/>
+   man-ATTR friend<br/>
    'husband's friend'
-b. wɨRɨle-na guǯ
-   man-ATTR strength.3
+
+b. wɨRɨle-na guǯ<br/>
+   man-ATTR strength.3<br/>
    'man's strength'
 
-(19) Tsakhur (Kibrik 1999: 99)
-Abna jug-na balkan.
-go.PST good-ATTR horse
+(19) Tsakhur (Kibrik 1999: 99)<br/>
+Abna jug-na balkan.<br/>
+go.PST good-ATTR horse<br/>
 'A good horse came.'
 
-(20) Tsakhur (Kibrik 1999: 87)
-Zak'le Gajǯena [ gade horRul ]-na jedj.
-I saw [boy washed]-ATTR mother
+(20) Tsakhur (Kibrik 1999: 87)<br/>
+Zak'le Gajǯena [ gade horRul ]-na jedj.<br/>
+I saw [boy washed]-ATTR mother<br/>
 'I saw the mother who washed the boy.'
 
 The attributive, therefore, marks the dependency of an element of any category, including an entire constituent, on the head noun. In this book, we will consistently develop the idea of the existence of an attributive. From our point of view, every language has a functional head A, responsible for the attributive use of units such as adjectives, participles, and some others.
 
 A similar situation occurs in Chinese. Chinese possesses the noun-dependent marker _de_, also glossed below as an attributive. This marker has broad compatibility and can mark a possessor, an adjective, a relative clause, or a postpositional phrase:
 
-(21) Chinese
-xiao-hai de mama
-child ATTR mother
+(21) Chinese<br/>
+xiao-hai de mama<br/>
+child ATTR mother<br/>
 'child's mother'
 
-(22) Chinese
-piao-liang de nü-ren
-beautiful ATTR woman
+(22) Chinese<br/>
+piao-liang de nü-ren<br/>
+beautiful ATTR woman<br/>
 'beautiful woman'
 
-(23) Chinese
-[ hua zai qiang shang ] de hua
-draw IPF wall on ATTR drawing
+(23) Chinese<br/>
+[ hua zai qiang shang ] de hua<br/>
+draw IPF wall on ATTR drawing<br/>
 'drawing drawn on the wall'
 
-(24) Chinese
-[ shan shang ] de wu-zi
-mountain on ATTR house
+(24) Chinese<br/>
+[ shan shang ] de wu-zi<br/>
+mountain on ATTR house<br/>
 'house on the mountain'
 
 Let's return to the Tsakhur language. In (Kibrik 1999), lexemes corresponding to Russian adjectives are called predicatives. They received this label because, in their least marked form, they function as predicates in Tsakhur: "Semantically, they [predicatives. P. G.] are predicates (they have at least one valency with the meaning of the bearer of a given property or a participant remaining in a given state). By this property, they are similar to verbs. On the other hand, for these words, the typical (statistically predominant, i.e., unmarked) syntactic position is not the predicate position (basic for verbs), but the noun modifier position" (Kibrik 1999: 92). Let's give an example of the use of a predicative in the function of a predicate:
 
-(25) Tsakhur (Kibrik 1999: 854)
-Xiw mɨs-mɨk'a qi-w-xa.
-village.3 hungry-cold 3-become
+(25) Tsakhur (Kibrik 1999: 854)<br/>
+Xiw mɨs-mɨk'a qi-w-xa.<br/>
+village.3 hungry-cold 3-become<br/>
 'It became cold and hungry in the village. [= The village became hungry-cold.]'
 
-(26) Tsakhur (Kibrik 1999: 96)
-Gade našwalin č'ara qixa.
-boy from.shame red became
+(26) Tsakhur (Kibrik 1999: 96)<br/>
+Gade našwalin č'ara qixa.<br/>
+boy from.shame red became<br/>
 'The boy turned red from shame.'
 
 In fact, Tsakhur adjectives are predicatives with an attributive marker. We will try to show in subsequent chapters that such an analysis, proposed by A. E. Kibrik, is applicable not only to Tsakhur.
@@ -528,107 +538,108 @@ Tsakhur, one way or another, resorts to the use of various auxiliary verbs for a
 
 The strategy for forming nominal predication with adjectives in Romance, Germanic, Slavic, and other languages also involves marking the predicative function. In the following cases, the use of a nominal copula is critically necessary:
 
-(27) French
-La maison est vieille.
-DEF house COP old
+(27) French<br/>
+La maison est vieille.<br/>
+DEF house COP old<br/>
 'The house is old.'
 
-(28) English
+(28) English<br/>
 The house is old.
 
-(29) Bulgarian
-Kŭshtata e stara.
-house COP old.F
+(29) Bulgarian<br/>
+Kŭshtata e stara.<br/>
+house COP old.F<br/>
 'The house is old.'
 
 So-called languages with statives are structured differently – languages where values familiar to us are actually conveyed by intransitive verbs. In Vietnamese, an adjective can, like a verb, head an independent clause:
 
-(30) Vietnamese (Dam 2006: 187)
-Giáo sư Smith thông minh vô cùng.
-Professor Smith smart without limits
+(30) Vietnamese (Dam 2006: 187)<br/>
+Giáo sư Smith thông minh vô cùng.<br/>
+Professor Smith smart without limits<br/>
 'Professor Smith is very smart.'
 
 In languages that possess means for encoding aspect and tense, such "adjectives" receive relevant aspect-tense markers. In the following examples from Qiang (Sino-Tibetan), statives can be marked with continuative and prospective, as well as iterative and inchoative:
 
-(31) Qiang (LaPolla, Huang 2004: 310)
-a. Mə tɕaχ qa:.
-   sky CONTIN-clean:PROSP
+(31) Qiang (LaPolla, Huang 2004: 310)<br/>
+a. Mə tɕaχ qa:.<br/>
+   sky CONTIN-clean:PROSP<br/>
    'The sky will still be clean.'
-b. Mutuple: zə-məpa-j-ji.
-   weather PREF-cold-IT-INCH
+
+b. Mutuple: zə-məpa-j-ji.<br/>
+   weather PREF-cold-IT-INCH<br/>
    'It's getting cold again.'
 
 Let us say a few words about another important facet for adjectives – their use as secondary predicates. In some languages, cf. the Edo example below, adjectives (but not verbs) can be used as secondary resultative predicates:
 
-(32) Edo (Baker 2003: 219)
-Òzó kòkó Àdésuwa mòsèmòsè.
-Ozo raise Adesuwa beautiful
+(32) Edo (Baker 2003: 219)<br/>
+Òzó kòkó Àdésuwa mòsèmòsè.<br/>
+Ozo raise Adesuwa beautiful<br/>
 'Ozo raised Adesuwa beautiful.'
 
 We will discuss the specifics of adjective use in predicative function (compared to attributive) in more detail in Chapter 2. We will also thoroughly investigate another property linking adjectives with (verbal) predicates – the ability to introduce various types of participants into the syntactic structure. Chapter 3 will be devoted to this.
 
 The comparative (and partially the superlative) is the most characteristic category for adjectives, see (Bhat 1994; Dixon, Aikhenvald 2004). For example, in the Dravidian language Kannada, which has an independent category of adjectives, the comparative construction is formed by attaching a dative marker to the object of comparison:
 
-(33) Kannada (Bhat 1994: 26)
-Idu adakk-inta doḍḍa mane.
-this that(DAT)-CMP big house
+(33) Kannada (Bhat 1994: 26)<br/>
+Idu adakk-inta doḍḍa mane.<br/>
+this that(DAT)-CMP big house<br/>
 'This house is bigger than that one.'
 
 An attempt to form an analogous construction based on nouns or verbs leads to ungrammaticality:
 
-(34) Kannada (Bhat 1994: 26)
-* Allig-inta jana illi se:ridda:re.
-  there(DAT)-CMP people here gather
+(34) Kannada (Bhat 1994: 26)<br/>
+* Allig-inta jana illi se:ridda:re.<br/>
+  there(DAT)-CMP people here gather<br/>
   '*More people here than there.'
 
-(35) Kannada (Bhat 1994: 26)
-* Avanu nanag-inta o:d-idda:ne.
-  he I(DAT)-CMP read
+(35) Kannada (Bhat 1994: 26)<br/>
+* Avanu nanag-inta o:d-idda:ne.<br/>
+  he I(DAT)-CMP read<br/>
   '*He read more than I did.'
 
 However, there are typologically attested cases where the comparative and superlative are formed from nouns and/or verbs. In Sanskrit, nominal forms can receive comparative and superlative markers:
 
-(36) Sanskrit (Bhat 1994: 182)
-Govinda:d ra:mo vidvat-taraḥ.
-Govinda(ABL) Rama(NOM) expert-CMP
+(36) Sanskrit (Bhat 1994: 182)<br/>
+Govinda:d ra:mo vidvat-taraḥ.<br/>
+Govinda(ABL) Rama(NOM) expert-CMP<br/>
 'Rama is wiser than Govinda.'
 
-(37) Sanskrit (Bhat 1994: 182)
-Ra:maḥ sarveṣu suhṛt-tamaḥ.
-Rama(NOM) all(LOC) friend-SUP(NOM)
+(37) Sanskrit (Bhat 1994: 182)<br/>
+Ra:maḥ sarveṣu suhṛt-tamaḥ.<br/>
+Rama(NOM) all(LOC) friend-SUP(NOM)<br/>
 'Rama is the best friend of all.'
 
 In Wolof, adjectives and verbs form the comparative degree using the same marker _gena_ (the verb 'to surpass'):
 
-(38) Wolof (Mc Laughlin 2004: 258)
-Ibu moo gëna nay Aamadu.
-Ibu 3.SG CMP unhappy Amadu
+(38) Wolof (Mc Laughlin 2004: 258)<br/>
+Ibu moo gëna nay Aamadu.<br/>
+Ibu 3.SG CMP unhappy Amadu<br/>
 'Ibu is unhappier than Amadu.'
 
-(39) Wolof (Mc Laughlin 2004: 258)
-Maa la gëna ligéey.
-1.SG 2.PL CMP work
+(39) Wolof (Mc Laughlin 2004: 258)<br/>
+Maa la gëna ligéey.<br/>
+1.SG 2.PL CMP work<br/>
 'I work more than you.'
 
 The gradable nature of adjectives can manifest in the fact that for some adjectives, whose meanings correspond to the adjectival semantic zone, there exist non-derived comparative stems (Hajek 2004):
 
-(40) Wolof (Hajek 2004: 258)
-Aamadu moo sut Ibu.
-Amadu 3.SG taller Ibu
+(40) Wolof (Hajek 2004: 258)<br/>
+Aamadu moo sut Ibu.<br/>
+Amadu 3.SG taller Ibu<br/>
 'Amadu is taller than Ibu.'
 
 Even in languages where the adjective coincides in its basic distributional properties with a noun or a verb, the comparative can provide grounds for distinguishing verbs, nouns, and adjectives. Thus, in Tagalog, "[i]f no accentuation change occurs, there is a complete formal identity of verbs and adjectives, adjectives and nouns, blurring semantic boundaries between PoS, for example, _madali_ 'fast', _madali_ 'to be fast', 'to hurry'…" (Shkarban 1995: 166).
 
 The comparative in Tagalog is formed from adjectives as well as other PoS. However, the rules for using the comparative with adjectives and verbs differ. Thus, P. Schachter indicates that the comparative adverb _mas_ 'more' is obligatory for constructions with verbs and optional with adjectives:
 
-(41) Tagalog (Schachter, Otanes 1972: 240)
-( Mas ) mabigat ang aso kaysa-sa pusa.
-(CMP) heavy PRT dog than cat
+(41) Tagalog (Schachter, Otanes 1972: 240)<br/>
+( Mas ) mabigat ang aso kaysa-sa pusa.<br/>
+(CMP) heavy PRT dog than cat<br/>
 'The dog is heavier than the cat.'
 
-(42) Tagalog (Schachter, Otanes 1972: 241)
-* ( Mas ) pinaniniwalaan ko si Juan kaysa-sa-kay Pedro.
-  (CMP) believe I PRT Juan than Pedro
+(42) Tagalog (Schachter, Otanes 1972: 241)<br/>
+* ( Mas ) pinaniniwalaan ko si Juan kaysa-sa-kay Pedro.<br/>
+  (CMP) believe I PRT Juan than Pedro<br/>
   '*I believe Juan more than Pedro.'
 
 Another difference is found in the interpretation of reduplicated forms, see, for example, (Hajek 2004). Stem repetition regularly corresponds to a meaning of greater intensity, cf. Russian _dlinnyy_ 'long' - _(pre)dlinnyy_ 'very long'; Bagvalal _L'anu_ 'thick' vs. _L'ani-L'anu_ 'very thick', etc. In some cases, as in Vietnamese, reduplication is, on the contrary, associated with deintensification (Van Ko 2015: 92-93).
@@ -637,40 +648,44 @@ Tagalog adjectives, despite the apparent absence of formal distinctions from nou
 
 In Thai, where adjectives (primarily) are a verbal subclass, comparative constructions also allow adjectival statives, but not stative or active verbs:
 
-(43) Thai (Post 2008: 345)
-a. Khon nii suung kwaa khon nan.
-   person this tall CMP person that
+(43) Thai (Post 2008: 345)<br/>
+a. Khon nii suung kwaa khon nan.<br/>
+   person this tall CMP person that<br/>
    'This person is taller than that one.'
-b. * Khon nii khit / dəən kwaa khon nan.
-   person this think / walk CMP person that
+
+b. * Khon nii khit / dəən kwaa khon nan.<br/>
+   person this think / walk CMP person that<br/>
    Expected: '*This person thinks / walks more than that one.'
 
 Thus, formal means of expressing comparison and intensification allow distinguishing adjectives from units of other lexical classes in world languages.
 
 Finally, there is another co-occurrence feature that regularly distinguishes adjectives from other PoS – the choice of derivational markers. In Thai, lexemes with semantics characteristic of adjectives possess syntactic and morphological properties of verbs. However, there are the following differences. In the case of nominalizer selection, verbal and adjective-stative lexemes resort to different strategies. Verbs are marked with the marker _khwaam_, while adjectives are marked with the marker _kaan_:
 
-(44) Thai
-a. khwaam dii
-   NMN good
+(44) Thai<br/>
+a. khwaam dii<br/>
+   NMN good<br/>
    'goodness'
-b. *kaan dii
+
+b. *kaan dii<br/>
    NMN good
 
-(45) Thai (Post 2008: 349)
-a. *khwaam dəən
+(45) Thai (Post 2008: 349)<br/>
+a. *khwaam dəən<br/>
    NMN walk
-b. kaan dəən
-   NMN walk
+
+b. kaan dəən<br/>
+   NMN walk<br/>
    'walking'
 
 A similar situation occurs with the marker _jàaŋ_, which produces adverbs. It combines with adjectives, but not with verbs:
 
-(46) Thai (Post 2008: 355)
-a. Phûut kàp phûujàj jàaŋ-suphâap.
-   speak COM elder ADV-polite
+(46) Thai (Post 2008: 355)<br/>
+a. Phûut kàp phûujàj jàaŋ-suphâap.<br/>
+   speak COM elder ADV-polite<br/>
    'Speak politely with elders.'
-b. * Phûut kàp phûujàj jàaŋ-rúu.
-   speak COM elder ADV-know
+
+b. * Phûut kàp phûujàj jàaŋ-rúu.<br/>
+   speak COM elder ADV-know<br/>
    Expected: '*Speak knowledgeably with elders.'
 
 * * *
@@ -685,10 +700,11 @@ When combining individual units of syntactic structure, it is always necessary t
 
 Among Russian adjective lexemes, there is a certain number of non-derived ones: _bol'shoy_ 'big', _malyy_ 'small', _plokhoy_ 'bad', _khoroshiy_ 'good', etc. Alongside non-derived adjectives, Russian has a large number that are formed from nouns, verbs, and other parts of speech. Russian marks the transition of lexical units from the class of nouns and verbs into the adjective class using special markers. In the absence of such markers, the formation of the full form of the adjective is impossible, cf.:
 
-(47) Russian
-a. trud-n-yy, god-n-yy
-   labor-N-ADJ, fit-N-ADJ
+(47) Russian<br/>
+a. trud-n-yy, god-n-yy<br/>
+   labor-N-ADJ, fit-N-ADJ<br/>
    'laborious, suitable'
+
 b. *trud-yy, *god-yy
 
 An incomplete list of productive adjective suffixes is as follows (for the first two, many variants or morphs are also recognized): _-n_, _-sk_, as well as: _-an_, _-ann_, _-abel'n_, _-iro-vann_, _-ov_, _-iansk_, _-ast_, _-am_, _-chat_, _-ovat_, _-ovit_, _-ist_, _-liv_, _-av_ (adjective formation from nouns); _-l'n_, _-tel'n_, _-abel'n_, _-ov_, _-sk_, _-k_, _-om-/-im_, _-ist_, _-chat_, _-uch-/-ach_, _-liv-/-chiv_, _-l_, _-yon-/-n_, _-t_, _-yonn-/-nn_ (adjective formation from verbs), see (AG-80-1: §§ 610-682).
@@ -719,20 +735,20 @@ Let's note another extremely important problem. In studies dedicated to adjectiv
 
 Since the appearance of (Chomsky 1970), the acategoriality of root morphemes constituting the lexicon has become almost universally accepted, cf. works in terms of Distributed Morphology, Hagit Borer's approach to morphology, etc. Upon entering syntactic derivation, such an acategorial root is supplied with a part-of-speech marker, combining with null recategorizers [n], [v], etc.:
 
-(50) a. [ n [√ refuse ]] → the quantity of [ DP refuses ] to be collected
+(50) a. [ n [√ refuse ]] → the quantity of [ DP refuses ] to be collected<br/>
 b. [ v [√ refuse ]] → He [ vP refuses to abandon their baby ].
 
 However, some suffixes marking the transition to another part of speech themselves impose co-occurrence restrictions on the type of root to which they will be attached. The problem of adjectivizing suffixes selecting roots of the "right" category can be illustrated with the following Russian material:
 
-(51) Russian
-a. -itel'n: utesh- + -itel'n → uteshitel'nyy
-   comfort.VERB.STEM + -itel'n → comforting
-   *plech- + -itel'n
+(51) Russian<br/>
+a. -itel'n: utesh- + -itel'n → uteshitel'nyy<br/>
+   comfort.VERB.STEM + -itel'n → comforting<br/>
+   *plech- + -itel'n<br/>
    *shoulder.NOUN.STEM + -itel'n
 
 If derivational morphology is necessary to supply wordforms with the correct categorial features, how can derivational markers choose which categorial types of stems they can attach to? The assumption of the existence of null (re)categorizers in the examples above does not significantly improve the situation: why categorize acategorial roots if immediately after that they need to be recategorized:
 
-(52) a. -itel'n: [ Adj [ v [√ utesh ]  v ] itel'n ]
+(52) a. -itel'n: [ Adj [ v [√ utesh ]  v ] itel'n ]<br/>
 b. -ist: [ Adj [ n [√ plech ]  n ] ist ]
 
 The very idea of categorically unspecified roots, necessarily attaching recategorizing heads, is (partly) based on considerations of economy. Indeed, having two _refuse_ stems, nominal and verbal, in the lexicon is redundant. One could have a single acategorial root and rules for transforming it into a stem of any category. With such an approach, in cases like Russian _*plech + itel'n_, _*utesh + ist_, the idea of the universality of derivation "acategorial root - categorizing affix" turns out to be discredited. Derivational morphemes (_-itel'n_, _-ist_, …): i) themselves assign a certain categorial type so that syntax can operate with this element, and ii) impose their own restrictions on the non-derived stems to which they attach. The fact of the existence of various derivational morphemes with different co-occurrence properties thus strongly discredits the idea of acategorial roots and null (re)categorizers.
@@ -753,77 +769,87 @@ Secondly: what explains the differences in the properties of derivations with _-
 
 Below, we will discuss the properties that distinguish derivatives with _-n_ and _-sk_, using adjectives of the following types:
 
-(53) Russian
-a. chelovechnyy, predstavitel'nyy, spetsifichnyy, idiotichnyy, romantichnyy, dramatichnyy, fantastichnyy, …
+(53) Russian<br/>
+a. chelovechnyy, predstavitel'nyy, spetsifichnyy, idiotichnyy, romantichnyy, dramatichnyy, fantastichnyy, …<br/>
 b. chelovecheskiy, predstavitel'skiy, spetsificheskiy, idioticheskiy, romanticheskiy, dramaticheskiy, fantasticheskiy, …
 
 ## 1.2.2.3. Properties of Suffixes -n and -sk
 
 Recategorization and Adverbial Function. The formation of units with adverbial functions seems the most ambiguous. On the one hand, adjectives marked with the suffix _-n_ can easily be used in an adverbial function, while derivatives with _-sk_ are less acceptable in this function:
 
-(54) Russian
-a. chelovechno, predstavitel'no, spetsifichno, idiotichno, romantichno, dramatichno, ??fantastichno, …
+(54) Russian<br/>
+a. chelovechno, predstavitel'no, spetsifichno, idiotichno, romantichno, dramatichno, ??fantastichno, …<br/>
 b. *chelovecheski, *predstavitel'ski, *spetsificheski, *idioticheski, */??romanticheski, ??dramaticheski, *fantastichheski, …
 
 Let us give some examples: (55) presents sentences found online, and (56) presents their counterparts with _-sk_:
 
-(55) Russian (internet)
-a. Prezident Yanukovich vyglyadit bolee idiotichno, chem Yushchenko.
-   President Yanukovych looks more idiotic, than Yushchenko.
+(55) Russian (internet)<br/>
+a. Prezident Yanukovich vyglyadit bolee idiotichno, chem Yushchenko.<br/>
+   President Yanukovych looks more idiotic, than Yushchenko.<br/>
    'President Yanukovych looks more idiotic than Yushchenko.'
-b. Donal'd Tramp postupil vpolne chelovechno, privedya mal'chika na inaugaratsiyu…
-   Donald Trump acted quite humanely, bringing boy to inauguration…
+
+b. Donal'd Tramp postupil vpolne chelovechno, privedya mal'chika na inaugaratsiyu…<br/>
+   Donald Trump acted quite humanely, bringing boy to inauguration…<br/>
    'Donald Trump acted quite humanely by bringing the boy to the inauguration…'
 
-(56) Russian
-a. * Prezident Yanukovich vyglyadit bolee idioticheski, chem Yushchenko.
-   * President Yanukovych looks more idiotically, than Yushchenko.
+(56) Russian<br/>
+a. * Prezident Yanukovich vyglyadit bolee idioticheski, chem Yushchenko.<br/>
+   * President Yanukovych looks more idiotically, than Yushchenko.<br/>
    '*President Yanukovych looks more idiotically than Yushchenko.'
-b. * Donal'd Tramp postupil chelovecheski, privedya mal'chika na inaugaratsiyu…
-   * Donald Trump acted humanly, bringing boy to inauguration…
+
+b. * Donal'd Tramp postupil chelovecheski, privedya mal'chika na inaugaratsiyu…<br/>
+   * Donald Trump acted humanly, bringing boy to inauguration…<br/>
    '*Donald Trump acted humanly by bringing the boy to the inauguration…'
 
 It should be noted that formations with _-sk_ are not absolutely ungrammatical. They regularly occur in the function of an adjective phrase modifier:
 
-(57) Russian (internet)
-a. Eti dva khokkeista fantasticheski khoroshi…
-   These two hockey.players fantastically good…
+(57) Russian (internet)<br/>
+a. Eti dva khokkeista fantasticheski khoroshi…<br/>
+   These two hockey.players fantastically good…<br/>
    'These two hockey players are fantastically good…'
-b. A glotatel' zhemchuga – chto-to syurrealisticheski srednee mezhdu iskazatelem zhemchuga i glotatelem shpag.
-   And swallower of.pearls – something surrealistically average between seeker of.pearls and swallower of.swords.
+
+b. A glotatel' zhemchuga – chto-to syurrealisticheski srednee mezhdu iskazatelem zhemchuga i glotatelem shpag.<br/>
+   And swallower of.pearls – something surrealistically average between seeker of.pearls and swallower of.swords.<br/>
    'And the pearl swallower is something surrealistically in between a pearl seeker and a sword swallower.'
 
-- On the other hand, there are a number of formations with the suffix _-sk_ that can be used in the function of a verb phrase modifier.
-(58) Russian (Inscription on the memorial plaque of the Angleterre Hotel building)
-Zdes' tragicheski oborvalas' zhizn' Sergeya Esenina.
-Here tragically broke.off life of.Sergey Esenin.
+On the other hand, there are a number of formations with the suffix _-sk_ that can be used in the function of a verb phrase modifier.
+
+(58) Russian (Inscription on the memorial plaque of the Angleterre Hotel building)<br/>
+Zdes' tragicheski oborvalas' zhizn' Sergeya Esenina.<br/>
+Here tragically broke.off life of.Sergey Esenin.<br/>
 'Here, Sergey Esenin's life tragically ended.'
-(59) Russian (From S. D. Dovlatov's works)
-Sistematicheski perevypolnyaet trudovye zadaniya…
-Systematically overfulfills labor assignments…
+
+(59) Russian (From S. D. Dovlatov's works)<br/>
+Sistematicheski perevypolnyaet trudovye zadaniya…<br/>
+Systematically overfulfills labor assignments…<br/>
 'Systematically overfulfills labor assignments…'
-(60) (internet)
-Esli rassuzhdat' logicheski, pokupka umnykh chasov Apple Watch kazhetsya bessmyslennoy.
-If reason logically, purchase smart watches Apple Watch seems meaningless.
-'If one thinks logically, buying an Apple Watch seems meaningless.'
-Sozhalenie o proshlom – bylo emu organicheski chuzhdo.
-Regret about past – was him organically alien.
+
+(60) (internet)<br/>
+Esli rassuzhdat' logicheski, pokupka umnykh chasov Apple Watch kazhetsya bessmyslennoy.<br/>
+If reason logically, purchase smart watches Apple Watch seems meaningless.<br/>
+'If one thinks logically, buying an Apple Watch seems meaningless.'<br/>
+
+Sozhalenie o proshlom – bylo emu organicheski chuzhdo.<br/>
+Regret about past – was him organically alien.<br/>
 'Regret about the past was organically alien to him.'
 
 These examples undoubtedly represent full adverbs. At the same time, for all the given adverbs ending in _-ski_, one can speak of the existence of a grammatical variant with the suffix _-n_:
 
-(61) (internet)
-a. Konchalos' eto obyknovenno tragichno: muzh vybrasyval uchitelya v okno.
-   ended this usually tragically: husband threw.out teacher into window.
+(61) (internet)<br/>
+a. Konchalos' eto obyknovenno tragichno: muzh vybrasyval uchitelya v okno.<br/>
+   ended this usually tragically: husband threw.out teacher into window.<br/>
    'It usually ended tragically: the husband threw the teacher out the window.'
-b. Amerikanskiy gosdepartament regulyarno i sistematichno vozit svoikh instruktorov v Yekaterinburg.
-   American State.Department regularly and systematically brings its instructors to Yekaterinburg.
+
+b. Amerikanskiy gosdepartament regulyarno i sistematichno vozit svoikh instruktorov v Yekaterinburg.<br/>
+   American State.Department regularly and systematically brings its instructors to Yekaterinburg.<br/>
    'The US State Department regularly and systematically brings its instructors to Yekaterinburg.'
-c. Chelovek, ne umeyushchiy rassuzhdat' logichno, vsegda upryam.
-   person not knowing reason logically always stubborn
+
+c. Chelovek, ne umeyushchiy rassuzhdat' logichno, vsegda upryam.<br/>
+   person not knowing reason logically always stubborn<br/>
    'A person who cannot reason logically is always stubborn.'
-d. Dom-kupol organichno vpisyvaetsya v lyuboy prirodnyy landshaft…
-   house-dome organically fits into any natural landscape…
+
+d. Dom-kupol organichno vpisyvaetsya v lyuboy prirodnyy landshaft…<br/>
+   house-dome organically fits into any natural landscape…<br/>
    'A dome-house organically blends into any natural landscape…'
 
 Other adverbs ending in _-ski_, which have a _-n_ correlate, can also be used as adverbs: _geroicheski_ (heroically), _germeticheski_ (hermetically), _gomericheski_ (homerically), _grabitel'ski_ (predatorily), _kategoricheski_ (categorically), _komicheski_ (comically), _kriticheski_ (critically), _periodicheski_ (periodically), _empiricheski_ (empirically), _epizodicheski_ (episodically), etc.
@@ -834,144 +860,150 @@ A correct generalization about the formation of adverbs from stems with suffixes
 
 **Short form.** The short form is also available for formations with _-n_ and unavailable for derivatives with _-sk_, see (Zaliznyak 2002: 90):
 
-(62) Russian
-a. chelovechen, predstavitel'en, spetsifichen, idiotichhen, romantichen, dramatichhen, fantastichhen, …
-   humane.SHORT, presentable.SHORT, specific.SHORT, idiotic.SHORT, romantic.SHORT, dramatic.SHORT, fantastic.SHORT, …
+(62) Russian<br/>
+a. chelovechen, p+redstavitel'en, spetsifichen, idiotichhen, romantichen, dramatichhen, fantastichhen, …<br/>
+   humane.SHORT, presentable.SHORT, specific.SHORT, idiotic.SHORT, romantic.SHORT, dramatic.SHORT, fantastic.SHORT, …<br/>
 b. *chelovechesk, *predstavitel'sk, *spetsifichesk, *idiotichesk, *romantichesk, *dramatichesk, *fantastichhesk, …
 
-(63) (internet)
-Muzhchina romantichen, tak kak odnoy iz ego zhiznennykh zadach yavlyaetsya zavoevanie zhenshchiny.
-man romantic.SHORT as one of his life tasks is conquest of.woman
+(63) (internet)<br/>
+Muzhchina romantichen, tak kak odnoy iz ego zhiznennykh zadach yavlyaetsya zavoevanie zhenshchiny.<br/>
+man romantic.SHORT as one of his life tasks is conquest of.woman<br/>
 'A man is romantic, as one of his life's tasks is to conquer a woman.'
 
-(64) Russian
-* Muzhchina romantichesk, tak kak odnoy iz ego zhiznennykh zadach yavlyaetsya zavoevanie zhenshchiny.
-  * man romantic.SHORT as one of his life tasks is conquest of.woman
+(64) Russian<br/>
+* Muzhchina romantichesk, tak kak odnoy iz ego zhiznennykh zadach yavlyaetsya zavoevanie zhenshchiny.<br/>
+  * man romantic.SHORT as one of his life tasks is conquest of.woman<br/>
   '*A man is romantic, as one of his life's tasks is to conquer a woman.'
 
 **Comparative.** The comparative is structured similarly to adverbs and the short form:
 
-(65) Russian
-a. chelovechnee, predstavitel'nee, spetsifichnee, idiotichnee, romantichnee, dramatichnee, fantastichnee, …
-   more.humane, more.presentable, more.specific, more.idiotic, more.romantic, more.dramatic, more.fantastic, …
+(65) Russian<br/>
+a. chelovechnee, predstavitel'nee, spetsifichnee, idiotichnee, romantichnee, dramatichnee, fantastichnee, …<br/>
+   more.humane, more.presentable, more.specific, more.idiotic, more.romantic, more.dramatic, more.fantastic, …<br/>
 b. *chelovecheskee, *predstavitel'skee, *spetsificheskee, *idioticheskee, *romanticheskee, *dramaticheskee, *fantasticheskee, …
 
-(66) (internet)
-Biznes v Rossii nemnogo spetsifichnee, chem na zapade ili v SShA, Azii.
-business in Russia a.little more.specific than in west or in USA, Asia.
+(66) (internet)<br/>
+Biznes v Rossii nemnogo spetsifichnee, chem na zapade ili v SShA, Azii.<br/>
+business in Russia a.little more.specific than in west or in USA, Asia.<br/>
 'Business in Russia is a little more specific than in the West or in the USA, Asia.'
 
-(67) Russian
-* Biznes v Rossii nemnogo spetsificheskee, chem na zapade ili v SShA, Azii.
-  * business in Russia a.little more.specific than in west or in USA, Asia.
+(67) Russian<br/>
+\* Biznes v Rossii nemnogo spetsificheskee, chem na zapade ili v SShA, Azii.<br/>
+\* business in Russia a.little more.specific than in west or in USA, Asia.<br/>
   '*Business in Russia is a little more specific than in the West or in the USA, Asia.'
 
 Regarding the prohibition of morphological comparatives (MC), N. A. Yanko-Trinitskaya also notes: "Not all qualitative adjectives form synthetic forms of the comparative degree. These forms are not present in: 1) adjectives with the suffix _-sk-_: _druzheskiy_ (friendly), _komicheskiy_ (comical) (cf. _komichnyy_ 'comical' - _komichnee_ 'more comical'), _rebyacheskiy_ (childish), _khanzheskiy_ (hypocritical), _priyatel'skiy_ (friendly), _tovarishcheskiy_ (comradely), etc.; 2) many adjectives with the suffix _-l-_: _vpalyy_ (sunken), _vyalyy_ (listless), _doshlyy_ (shrewd), _iskhudalyy_ (emaciated), _bleklyy_ (faded), _sipilyy_ (hoarse), _khripilyy_ (hoarse), etc.; 3) some adjectives with suffixes _-n-_, _-ov-_, _-k-_, for example: _ranniy_ (early), _lishniy_ (excess), _vneshniy_ (external), _zlostnyy_ (malicious), _prazdnyy_ (idle), _bol'noy_ (sick) (the form _bol'nee_ only correlates with the adverb _bol'no_); _delovoy_ (business-like), _boyevoy_ (combat), _peredovoy_ (leading), _ryadovoy_ (ordinary), _massovyy_ (mass); _gromozdkiy_ (cumbersome), _derzkiy_ (bold), _lipkiy_ (sticky), _skol'zkiy_ (slippery); 4) individual suffixless adjectives: _vetkhiy_ (dilapidated), _nishchiy_ (poor), _gordyy_ (proud), _khmuriy_ (gloomy)" (Yanko-Trinitskaya 1989: 68).
 
 It is interesting that the reasons for which comparative forms with _-sk_ are prohibited are not semantic. Indeed, the analytical comparative degree is formed from such units quite freely:
 
-(68) (internet)
-a. Rech' moderatorov priobrela bolee chelovecheskiy vid!
-   speech moderators acquired more human-ADJ appearance!
+(68) (internet)<br/>
+a. Rech' moderatorov priobrela bolee chelovecheskiy vid!<br/>
+   speech moderators acquired more human-ADJ appearance!<br/>
    'The moderators' speech took on a more human appearance!'
-b. Bolee predstavitel'skiy i universal'nyy GLklass i krossover GLA pomozhet ukrotit' dorozhnoe pokrytie odnim nazhatiem pedali.
-   more presentable and universal GL-class and crossover GLA will.help tame road surface one press.by pedal.
+
+b. Bolee predstavitel'skiy i universal'nyy GLklass i krossover GLA pomozhet ukrotit' dorozhnoe pokrytie odnim nazhatiem pedali.<br/>
+   more presentable and universal GL-class and crossover GLA will.help tame road surface one press.by pedal.<br/>
    'The more presentable and versatile GL-Class and GLA crossover will help tame the road surface with a single pedal press.'
-c. Luchshe upotrebit' bolee spetsificheskiy, chem menee spetsificheskiy termin.
-   better to.use more specific-ADJ than less specific-ADJ term.
+
+c. Luchshe upotrebit' bolee spetsificheskiy, chem menee spetsificheskiy termin.<br/>
+   better to.use more specific-ADJ than less specific-ADJ term.<br/>
    'It is better to use a more specific rather than a less specific term.'
-d. Eshche bolee idioticheskiy sluchay v Soyedinennykh Shtatakh Ameriki…
-   even more idiotic-ADJ case in United States of.America…
+
+d. Eshche bolee idioticheskiy sluchay v Soyedinennykh Shtatakh Ameriki…<br/>
+   even more idiotic-ADJ case in United States of.America…<br/>
    'An even more idiotic case in the United States of America…'
 
 It can thus be assumed that the ungrammaticality of the combination of _-sk_ with a comparative marker does not follow from semantics, but is related to the co-occurrence properties of the suffixes themselves. The same restrictions are relevant for some other derivational markers, cf.: _*zavidushchee_ (cf. _zavidushchiy_ 'envious'), _*ustarevshee_ (cf. _ustarevshiy_ 'outdated'), etc.
 
 **Abstract nouns.** The formation of abstract nouns is generally subject to the same restrictions as the formation of adverbs, short forms, and comparatives:
 
-(69) Russian
-a. chelovechnost', predstavitel'nost', spetsifichnost', idiotichnost', romantichnost', dramatichnost', fantastichnost', …
-   humanity, presentableness, specificity, idioticness, romanticness, dramaticness, fantasticness, …
+(69) Russian<br/>
+a. chelovechnost', predstavitel'nost', spetsifichnost', idiotichnost', romantichnost', dramatichnost', fantastichnost', …<br/>
+   humanity, presentableness, specificity, idioticness, romanticness, dramaticness, fantasticness, …<br/>
 b. *chelovecheskost', *predstavitel'skost', *spetsificheskost', *idioticheskost', *romanticheskost', *dramaticheskost', *fantasticheskost', …
 
-(70) (internet)
-Nesmotrya na fantastichnost', ryad izobrazheniy zhivotnykh sdelan s glubokim znaniem chert i povadok zverey…
-despite on fantasticness, series of.images of.animals made with deep knowledge of.features and habits of.animals…
+(70) (internet)<br/>
+Nesmotrya na fantastichnost', ryad izobrazheniy zhivotnykh sdelan s glubokim znaniem chert i povadok zverey…<br/>
+despite on fantasticness, series of.images of.animals made with deep knowledge of.features and habits of.animals…<br/>
 'Despite the fantastical nature, a number of animal images are made with deep knowledge of the animals' features and habits…'
 
-(71) (internet)
-* Nesmotrya na fantasticheskost', ryad izobrazheniy zhivotnykh sdelan s glubokim znaniem chert i povadok zverey…
-  * despite on fantasticness, series of.images of.animals made with deep knowledge of.features and habits of.animals…
+(71) (internet)<br/>
+\* Nesmotrya na fantasticheskost', ryad izobrazheniy zhivotnykh sdelan s glubokim znaniem chert i povadok zverey…<br/>
+\* despite on fantasticness, series of.images of.animals made with deep knowledge of.features and habits of.animals…<br/>
   '*Despite the fantasticalness, a number of animal images are made with deep knowledge of the animals' features and habits…'
 
 From this regularity, however, a number of exceptions are observed:
 
-(72) Russian
-svetskost', detskost', zverskost', nebrokost', antisovetskost', …
+(72) Russian<br/>
+svetskost', detskost', zverskost', nebrokost', antisovetskost', …<br/>
 secularity, childishness, brutality, unobtrusiveness, anti-sovietness, …
 
-(73) (internet)
-Dochka Mashka byla «romanticheskaya osoba» i vsyacheski etu samuyu «romanticheskost' natury» podcherkivala.
-daughter Mashka was "romantic person" and by.all.means this very "romanticness of.nature" emphasized.
+(73) (internet)<br/>
+Dochka Mashka byla «romanticheskaya osoba» i vsyacheski etu samuyu «romanticheskost' natury» podcherkivala.<br/>
+daughter Mashka was "romantic person" and by.all.means this very "romanticness of.nature" emphasized.<br/>
 'Daughter Mashka was a "romantic person" and emphasized this "romanticness of nature" in every possible way.'
 
 Despite the grammaticality of some abstract nouns derived from adjectives, it can be stated that for the suffix _-n_, the process of forming nominal derivatives with _-ost'_ is absolutely productive, while for the suffix _-sk_, it is at least unproductive, and possibly limited.
 
 **Compatibility with evaluative suffixes.** (AG-80-1) lists the following suffixes that attach to adjectives, modifying the degree of the property, adding the speaker's subjective evaluation, etc.: _-ovat_, _-on'k_, _-okhon'k_/_-oshen'k_, _-usen'k_, _-ushch_, _-enn_, _-eysh_/_-sh_, _-ist_, see §§ 666-673. Not all of them readily combine with every adjective ending in _-n_, but the most regular ones, _-on'k_ and _-eysh_, form corresponding forms without visible difficulties. The combination of _-on'k_/_-eysh_ with _-sk_ is ungrammatical:
 
-(74) Russian
-a. chelovechnen'kiy, predstavitel'nen'kiy, spetsifichnen'kiy, idiotichnen'kiy, romantichnen'kiy, dramatichnen'kiy, fantastichnen'kiy, …
-   humanely-DIM, presentably-DIM, specifically-DIM, idiotically-DIM, romantically-DIM, dramatically-DIM, fantastically-DIM, …
+(74) Russian<br/>
+a. chelovechnen'kiy, predstavitel'nen'kiy, spetsifichnen'kiy, idiotichnen'kiy, romantichnen'kiy, dramatichnen'kiy, fantastichnen'kiy, …<br/>
+humanely-DIM, presentably-DIM, specifically-DIM, idiotically-DIM, romantically-DIM, dramatically-DIM, fantastically-DIM, …<br/>
 b. *chelovechesken'kiy, *predstavitel'sken'kiy, *spetsifichesken'kiy, *idiotichesken'kiy, *romantichesken'kiy, *dramatichesken'kiy, *fantastichesken'kiy, …
 
-(75) (internet)
-U menya po etomu voprosu rodilsya nemnogo fantastichnen'kiy variant.
-at me on this question was.born a.little fantastically-DIM variant.
+(75) (internet)<br/>
+U menya po etomu voprosu rodilsya nemnogo fantastichnen'kiy variant.<br/>
+at me on this question was.born a.little fantastically-DIM variant.<br/>
 'I came up with a slightly fantastic variant for this question.'
 
-(76) Russian
-* U menya po etomu voprosu rodilsya nemnogo fantastichesken'kiy variant.
-  * at me on this question was.born a.little fantastically-DIM variant.
+(76) Russian<br/>
+\* U menya po etomu voprosu rodilsya nemnogo fantastichesken'kiy variant.<br/>
+\* at me on this question was.born a.little fantastically-DIM variant.<br/>
   '*I came up with a slightly fantastic variant for this question.'
 
-(77) Russian
-a. chelovechneyshiy, predstavitel'neyshiy, spetsifichneyshiy, idiotichneyshiy, romantichneyshiy, dramatichneyshiy, fantastichneyshiy, …
-   most.humane, most.presentable, most.specific, most.idiotic, most.romantic, most.dramatic, most.fantastic, …
+(77) Russian<br/>
+a. chelovechneyshiy, predstavitel'neyshiy, spetsifichneyshiy, idiotichneyshiy, romantichneyshiy, dramatichneyshiy, fantastichneyshiy, …<br/>
+most.humane, most.presentable, most.specific, most.idiotic, most.romantic, most.dramatic, most.fantastic, …<br/>
 b. *chelovecheskeyshiy, *predstavitel'skeyshiy, *spetsificheskeyshiy, *idioticheskeyshiy, *romanticheskeyshiy, *dramaticheskeyshiy, *fantasticheskeyshiy, …
 
-(78) (internet)
-I etot-to spetsifichneyshiy razmer, razmer s takoy «reputatsiey», okazyvaetsya v razlichnykh modifikatsiyakh vpolne ravnopravnym…
-And this-EMPH most.specific size, size with such "reputation", turns.out in various modifications quite equal…
+(78) (internet)<br/>
+I etot-to spetsifichneyshiy razmer, razmer s takoy «reputatsiey», okazyvaetsya v razlichnykh modifikatsiyakh vpolne ravnopravnym…<br/>
+And this-EMPH most.specific size, size with such "reputation", turns.out in various modifications quite equal…<br/>
 'And this most specific size, a size with such a "reputation," turns out to be quite equal in various modifications…'
 
-(79) Russian
-* I etot-to spetsificheskeyshiy razmer, razmer s takoy «reputatsiey», okazyvaetsya v razlichnykh modifikatsiyakh vpolne ravnopravnym…
-  * And this-EMPH most.specific size, size with such "reputation", turns.out in various modifications quite equal…
-  '*And this most specific size, a size with such a "reputation," turns out to be quite equal in various modifications…'
+(79) Russian<br/>
+\* I etot-to spetsificheskeyshiy razmer, razmer s takoy «reputatsiey», okazyvaetsya v razlichnykh modifikatsiyakh vpolne ravnopravnym…<br/>
+\* And this-EMPH most.specific size, size with such "reputation", turns.out in various modifications quite equal…<br/>
+'*And this most specific size, a size with such a "reputation," turns out to be quite equal in various modifications…'
 
 **Restrictions on government.** The ability of adjectival units to govern lexically is also blocked when the suffix _-sk_ is used:
 
-(80) (internet)
-a. Ved' bagazhnik etogo universala naibolee praktichnyy vo vsem semeystve Golf, dazhe po sravneniyu s venom Golf Plus.
-   after.all trunk of.this station.wagon most practical in all family Golf, even by comparison with minivan Golf Plus.
+(80) (internet)<br/>
+a. Ved' bagazhnik etogo universala naibolee praktichnyy vo vsem semeystve Golf, dazhe po sravneniyu s venom Golf Plus.<br/>
+   after.all trunk of.this station.wagon most practical in all family Golf, even by comparison with minivan Golf Plus.<br/>
    'After all, the trunk of this station wagon is the most practical in the entire Golf family, even compared to the Golf Plus minivan.'
-b. *prakticheskiy vo vsem
-   *practical in all
+
+b. *prakticheskiy vo vsem<br/>
+   \*practical in all<br/>
    '*practical in everything'
 
-(81) (internet)
-a. Mir stol' real'nyy dlya neyo i stol' fantastichnyy dlya nas.
-   world so real for her and so fantastic for us.
+(81) (internet)<br/>
+a. Mir stol' real'nyy dlya neyo i stol' fantastichnyy dlya nas.<br/>
+   world so real for her and so fantastic for us.<br/>
    'The world so real for her and so fantastic for us.'
-b. *fantasticheskiy dlya nas
-   *fantastic for us
+
+b. *fantasticheskiy dlya nas<br/>
+   \*fantastic for us<br/>
    '*fantastic for us'
 
-(82) (internet)
-a. Pri lyubykh obstoyatel'stvakh nuzhno ostavat'sya chelovechnym k lyudyam.
-   under any circumstances must remain humane to people.
+(82) (internet)<br/>
+a. Pri lyubykh obstoyatel'stvakh nuzhno ostavat'sya chelovechnym k lyudyam.<br/>
+   under any circumstances must remain humane to people.<br/>
    'Under any circumstances, one must remain humane to people.'
-b. *chelovecheskiy k lyudyam
-   *human to people
+
+b. *chelovecheskiy k lyudyam<br/>
+   \*human to people<br/>
    '*human to people'
 
 As we can see, the expression of valencies inherent in individual stems is blocked by suffixes like _-sk_.
@@ -988,26 +1020,26 @@ The different distribution of syntactic functions among different suffixes, part
 
 It seems that the following can be considered an important result, see also (Matushansky 2010):
 
-(83) Observation on the selective properties of affixes
+(83) Observation on the selective properties of affixes<br/>
 Affixes, when forming a new stem, impose restrictions on its subsequent compatibility with other affixes and its participation in particular syntactic contexts.
 
 Let us ask what type of stems the investigated suffixes can attach to. As we have seen, _-n_ and _-sk_ (like other adjective suffixes) can form nominal (a) and verbal (b) stems:
 
-(84) Russian (AG-80-1: §§ 610-682)
-a. lesnoy (forest-ADJ), morkovnyy (carrot-ADJ), trudnyy (difficult), radostnyy (joyful), …; plotnitskiy (carpenter's), morskoy (marine), universitetskiy (university), konskiy (horse's), …
+(84) Russian (AG-80-1: §§ 610-682)<br/>
+a. lesnoy (forest-ADJ), morkovnyy (carrot-ADJ), trudnyy (difficult), radostnyy (joyful), …; plotnitskiy (carpenter's), morskoy (marine), universitetskiy (university), konskiy (horse's), …<br/>
 b. sklonnyy (inclined), pokornyy (submissive), slyshnyy (audible), skuchnyy (boring), …; koldovskoy (sorcerous), brodyazhnicheskiy (vagabond-like), zhul'nicheskiy (swindler-like), …
 
 In addition, adjective suffixes can attach to borrowed stems which, from the perspective of the Russian grammatical system, do not possess any part-of-speech feature:
 
-(85) Russian
+(85) Russian<br/>
 normal'nyy (normal), neytral'nyy (neutral), kurtuaznyy (courteous), burzhuaznyy (bourgeois), kategoricheskiy (categorical), demokraticheskiy (democratic), …
 
 However, there is another open class of units to which _-n_ and _-sk_ regularly attach – syntactic formations consisting of a noun and an adjective, a noun and a numeral, a noun and a quantifier, a noun and a preposition, etc.; regarding the latter type, see, for example, (Matushansky 2010):
 
-(86) Russian
-a. yuzhnoafrikanskiy (South African), vysokogornyy (high-mountain), legkoatleticheskiy (track-and-field)
-b. dvukhkoesnyy (two-wheeled), trekh etazhnyy (three-story), pyatikomnatnyy (five-room)
-c. vserossiyskiy (all-Russian), vsepogodnyy (all-weather), kazhdodnevnyy (daily)
+(86) Russian<br/>
+a. yuzhnoafrikanskiy (South African), vysokogornyy (high-mountain), legkoatleticheskiy (track-and-field)<br/>
+b. dvukhkoesnyy (two-wheeled), trekh etazhnyy (three-story), pyatikomnatnyy (five-room)<br/>
+c. vserossiyskiy (all-Russian), vsepogodnyy (all-weather), kazhdodnevnyy (daily)<br/>
 d. pridorozhnyy (roadside), okolofutbol'nyy (football-related), zamorskiy (overseas), posleobedennyy (post-lunch)
 
 It is evident that complex derivatives to which an adjective suffix attaches in this case also do not belong to one or another lexical class. We will discuss such cases in detail in Chapter 4.
@@ -1434,16 +1466,16 @@ Let us present the results of another small study, this time related to the diac
 
 ⁹ See http://syntacticus.org
 
-(122) Old Russian
-(Syntacticus: Lavr. let.)
-a. … probězha lęḑskuyu zemlyu …
-   '… ran through the Polish land …'
-b . … so vsěmi lyud'mi grech'skimi na vsya lěta …
-   '… with all Greek people for all years …'
-c. Pridosha pechenězi na rusku zemlyu …
-   'The Pechenegs came to the Russian land …'
-d. … ponezhe uchilŭ est' yazykŭ slověneskŭ …
-   '… because he taught the Slavic language …'
+(122) Old Russian<br/>
+(Syntacticus: Lavr. let.)<br/>
+a. … probězha lęḑskuyu zemlyu …<br/>
+   '… ran through the Polish land …'<br/>
+b . … so vsěmi lyud'mi grech'skimi na vsya lěta …<br/>
+   '… with all Greek people for all years …'<br/>
+c. Pridosha pechenězi na rusku zemlyu …<br/>
+   'The Pechenegs came to the Russian land …'<br/>
+d. … ponezhe uchilŭ est' yazykŭ slověneskŭ …<br/>
+   '… because he taught the Slavic language …'<br/>
 
 It must be noted immediately that the lexical type of the head (at least at first glance) does not determine the order of adjectives. For example, the nouns _zemlya_ 'land' and _yazyk_ 'language' allow both pre- and post-position.
 

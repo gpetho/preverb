@@ -591,12 +591,12 @@ this that(DAT)-CMP big house<br/>
 An attempt to form an analogous construction based on nouns or verbs leads to ungrammaticality:
 
 (34) Kannada (Bhat 1994: 26)<br/>
-* Allig-inta jana illi se:ridda:re.<br/>
+\*Allig-inta jana illi se:ridda:re.<br/>
   there(DAT)-CMP people here gather<br/>
   '*More people here than there.'
 
 (35) Kannada (Bhat 1994: 26)<br/>
-* Avanu nanag-inta o:d-idda:ne.<br/>
+\*Avanu nanag-inta o:d-idda:ne.<br/>
   he I(DAT)-CMP read<br/>
   '*He read more than I did.'
 
@@ -641,7 +641,7 @@ The comparative in Tagalog is formed from adjectives as well as other PoS. Howev
 'The dog is heavier than the cat.'
 
 (42) Tagalog (Schachter, Otanes 1972: 241)<br/>
-* ( Mas ) pinaniniwalaan ko si Juan kaysa-sa-kay Pedro.<br/>
+\* ( Mas ) pinaniniwalaan ko si Juan kaysa-sa-kay Pedro.<br/>
   (CMP) believe I PRT Juan than Pedro<br/>
   '*I believe Juan more than Pedro.'
 
@@ -797,11 +797,11 @@ b. Donal'd Tramp postupil vpolne chelovechno, privedya mal'chika na inaugaratsiy
 
 (56) Russian<br/>
 a. * Prezident Yanukovich vyglyadit bolee idioticheski, chem Yushchenko.<br/>
-   * President Yanukovych looks more idiotically, than Yushchenko.<br/>
+   \*President Yanukovych looks more idiotically, than Yushchenko.<br/>
    '*President Yanukovych looks more idiotically than Yushchenko.'
 
 b. * Donal'd Tramp postupil chelovecheski, privedya mal'chika na inaugaratsiyu…<br/>
-   * Donald Trump acted humanly, bringing boy to inauguration…<br/>
+   \*Donald Trump acted humanly, bringing boy to inauguration…<br/>
    '*Donald Trump acted humanly by bringing the boy to the inauguration…'
 
 It should be noted that formations with _-sk_ are not absolutely ungrammatical. They regularly occur in the function of an adjective phrase modifier:
@@ -1093,7 +1093,7 @@ Such adjectives are called intersective. There are also other adjectives:
 || skillful violinist || ≠ || skillful || ∩ || violinist ||
 ≠ { x | x is skillful and x is a violinist }
 
-The meaning of the noun phrase *skilful violinist* cannot be represented as the intersection of the meanings 'to be skillful' and 'to be a violinist'. Such adjectives are called non-intersective.
+The meaning of the noun phrase _skilful violinist_ cannot be represented as the intersection of the meanings 'to be skillful' and 'to be a violinist'. Such adjectives are called non-intersective.
 
 An important property of adjectives is also the possibility of restrictive and non-restrictive use. The following English noun phrase has two interpretations:
 
@@ -1432,7 +1432,7 @@ Cinque provides the following restrictions on the order of adjectives in the wor
 a. English, Chinese<br/>
 A_size > A_color > A_nationality > N<br/>
 
-b. * A_nationality > A_color > A_size > N
+b. \* A_nationality > A_color > A_size > N
 
 c. Welsh, Irish\
 N > A_size > A_nationality > N
@@ -1541,15 +1541,15 @@ However, if markers like _-lɤ_ attach to a constituent, the order becomes fixed
 [ ak tap ]- lɤ zur sɤjɤr<br/>
 white spot-ATR big cow<br/>
 i) 'a big cow with white spots'<br/>
-ii) * 'a cow with big white spots'<br/>
-iii) * 'a big white spotted cow'
+ii) \* 'a cow with big white spots'<br/>
+iii) \* 'a big white spotted cow'
 
 (125) Mishar<br/>
 zur ak tap-lɤ sɤjɤr<br/>
 big white spot-ATR cow<br/>
-i) * 'a big cow with white spots'<br/>
+i) \* 'a big cow with white spots'<br/>
 ii) 'a cow with big white spots' {[ zur ak tap ]- lɤ sɤjɤr }<br/>
-iii) * 'a big white spotted cow'
+iii) \* 'a big white spotted cow'
 
 As the examples show, placing an attributivized constituent after a single adjective entails a change in meaning. The marker _-lɤ_ requires all preceding adjectives to be associated with the stem it modifies (while all adjectives to the right of _-lɤ_ relate to the head noun). It appears there are two reasons why extended dependents with _-lɤ_ must be located to the left of adjectives.
 
@@ -1859,12 +1859,12 @@ Furthermore, unmarked dependent nouns in English noun phrases can form quite ext
 In the case of dependents with the meaning of material, however, branching is impossible, cf.:
 
 (161) English<br/>
-a. * thousand stone(s) wall<br/>
+a. \*thousand stone(s) wall<br/>
    Expected: 'a wall of a thousand stones'
 
 b. old stone wall<br/>
    i) 'an old stone wall'<br/>
-   ii) * 'a wall of old stone'
+   ii) \*'a wall of old stone'
 
 This, it seems, is one of the significant differences between material appositives and adjectives. Adjectives (even) in English allow (left-placed) dependent material, cf. _very nice girl_, _extremely strange person_, …
 
@@ -1872,7 +1872,7 @@ Another difference between the use of adjectives and appositive nouns with the m
 
 (162) English<br/>
 a. The wall was high.<br/>
-b. * The wall was stone.<br/>
+b. \*The wall was stone.<br/>
 c. The wall was from stone.
 
 The independent stress and fixed lexical meaning suggest that such structures, like noun phrases with adjectives, are generated in the syntax, not in the lexicon. At the same time, the fixed position of material appositives, their inability to be used with dependents, and their inability to function as the nominal part of a predicate indicate the limited syntactic context of their use.
@@ -2959,8 +2959,8 @@ Let's say a few words about the typology of depictive case marking. A number of 
 
 (255) Polish<br/>
 (Richardson 2007:109)<br/>
-Wyszedłem bogaty / ??/* bogatym, wróciłem biedny / ??/* biednym.<br/>
-left.1SG wealthy-NOM / ??/* wealthy-INS returned.1SG poor-NOM / ??/* poor-INS<br/>
+Wyszedłem bogaty / ??/\* bogatym, wróciłem biedny / ??/\* biednym.<br/>
+left.1SG wealthy-NOM / ??/\* wealthy-INS returned.1SG poor-NOM / ??/\* poor-INS<br/>
 'I left wealthy and returned poor.'
 
 (256) Hill Mari<br/>
@@ -3735,7 +3735,7 @@ To "save" the syntactic approach to comparative derivation, the rule of Local Di
 
 (355) (Embick, Noyer 2001: 565)<br/>
 a. Mary is the most amazingly smart person…<br/>
-b. * Mary is the amazingly smart-est person…<br/>
+b. \*Mary is the amazingly smart-est person…<br/>
 'Mary is the smartest person' (lit.: '#Mary is the most amazingly smart woman')
 
 The operation of Local Dislocation, however, is incompatible with facts of suppletion. According to it, the phonological form must be chosen before the stem and affix combine, which makes the existence of suppletive degrees of comparison impossible (_plokhoy - khuzhe / khudshiy_ 'bad - worse / worst', _khoroshiy - luchshe / luchshiy_ 'good - better / best'; _bad - worse / worst_, _good - better / best_, etc.), see (Bobaljik 2012; Matushansky 2013).
@@ -3889,10 +3889,10 @@ In our proposed analysis, the standard of comparison, introduced by the conjunct
 
 One can assume the following two options for achieving surface word order. Firstly, one can assume the movement of the adjective to some head dominating it, i.e., a linearization process. It seems that this option is more suitable for MCs, which turn out to be ungrammatical when the standard of comparison precedes the adjective:
 
-(373) * Eta mekhanicheskaya rabota kazalas' yemu chem chteniye interesneye.<br/>
+(373) \*Eta mekhanicheskaya rabota kazalas' yemu chem chteniye interesneye.<br/>
    '*This mechanical work seemed to him than reading more interesting.'
 
-(374) * Oni stanovilis' chem sobaki strashneye dlya menya.<br/>
+(374) \*Oni stanovilis' chem sobaki strashneye dlya menya.<br/>
    '*They became than dogs scarier to me.'
 
 AC, though rarely, allows the standard to precede it:
@@ -3963,10 +3963,10 @@ The requirement for contiguous juxtaposition of the adjective and the standard o
 
 Unlike MC, a genitive standard of comparison with AC is ungrammatical, see also (Yanko-Trinitskaya 1989: 65, 67):
 
-(384) * Dlya knyazya vkusnyy stol byl boleye dorog / dorogoy / dorogim zheny.<br/>
+(384) \*Dlya knyazya vkusnyy stol byl boleye dorog / dorogoy / dorogim zheny.<br/>
    '*For the prince, the tasty table was dearer (short / long / instrumental) than his wife.'
 
-(385) * No proza togda byla boleye vazhna / vazhnaya / vazhnoy stikhov.<br/>
+(385) \*No proza togda byla boleye vazhna / vazhnaya / vazhnoy stikhov.<br/>
    '*But prose was then more important (short / long / instrumental) than poetry.'
 
 We assume that the differences in the structural position of the standard of comparison for MC and AC are responsible for this. In the case of MC, the standard is located in the specifier of the Deg head, which has the property of assigning genitive case. In the case of AC, the standard occupies the complement position of the comparative word-intensifier _boleye_ 'more'.
@@ -3983,10 +3983,10 @@ Yesli by on god provalyalsya v mogile, on vernulsya by boleye pokhozhim na sebya
 
 The order _chem_-comparative-dependent appears ungrammatical:
 
-(388) * On gorazdo boleye pokhozh, chem kazhdyy iz nikh, na nastoyashchego cheloveka.<br/>
+(388) \*On gorazdo boleye pokhozh, chem kazhdyy iz nikh, na nastoyashchego cheloveka.<br/>
    '*He is much more like, than each of them, a real person.'
 
-(389) * On byl by boleye pokhozhim, chem teper', na sebya.<br/>
+(389) \*On byl by boleye pokhozhim, chem teper', na sebya.<br/>
    '*He would be more like, than now, himself.'
 
 The reason for ungrammaticality here, however, is different: the _chem_-comparative is a constituent at the predicative level where ellipsis of identical material occurs:
@@ -4013,10 +4013,10 @@ Marshrut zheleznodorozhnykh perevozok s odnogo kryla na drugoye po etim rokadam 
 
 However, the differential with the preposition _na_ 'by' and the accusative case is ungrammatical with AC:
 
-(394) * On na tseluyu golovu boleye vysokiy.<br/>
+(394) \*On na tseluyu golovu boleye vysokiy.<br/>
    '*He is a whole head more tall.'
 
-(395) * Marshrut stal boleye korotkim na 5 km.<br/>
+(395) \*Marshrut stal boleye korotkim na 5 km.<br/>
    '*The route became more short by 5 km.'
 
 An explanation for this semantic effect can be found in (Kennedy 2009). As we have already established, MC corresponds to so-called explicit comparison, and AC to implicit comparison. According to Kennedy, one of the properties of implicit comparison is precisely its incompatibility with the differential – this has been established based on material from various languages and is explained as follows. Since prepositional phrases with _na X yedinits_ 'by X units' contain indications of absolute values, they are no longer context-dependent, and such dependence is a characteristic property of implicit comparison.
@@ -4188,23 +4188,23 @@ a. … osen'yu 1941-go vel delo Amalii Mikhaylovny Berman, sosedki Krasnogorova 
    '…in the autumn of 1941, he handled the case of Amalia Mikhailovna Berman, Krasnogorov's neighbor on the landing, who had access to their house.'
 
 a′. * vkhozhaya sosedka<br/>
-   *having.access-FEM.SG.NOM neighbor-FEM.SG.NOM<br/>
+   \*having.access-FEM.SG.NOM neighbor-FEM.SG.NOM<br/>
    '*an accessible neighbor'
 
 b. Dlya menya Poseshcheniye - eto prezhde vsego unikal'noye sobytiye, chrevatoye vozmozhnost'yu pereprygnut' srazu cherez neskol'ko stupenek v protsesse poznaniya.<br/>
    For me visit-NOM - this primarily unique event-NOM, fraught.with-N.SG.NOM possibility-INSTR jump over several steps-GEN in process-LOC knowledge-GEN.<br/>
    'For me, the Visit is first and foremost a unique event, fraught with the possibility of skipping several steps in the process of knowledge at once.'
 
-b′. * chrevatoye sobytiye<br/>
-   *fraught.with-N.SG.NOM event-NOM<br/>
+b′. \*chrevatoye sobytiye<br/>
+   \*fraught.with-N.SG.NOM event-NOM<br/>
    '*a fraught event'
 
 c. … ne bylo nichego, krome stola, za kotorym sidel, podpershi podborodok kulakami, dlinnovolosyy yunets, pokhozhiy kudryami i nezhnym dlinnym likom na Aleksandra Bloka…<br/>
    … NEG was nothing-GEN, except table-GEN, behind which sat, propping.up chin-ACC fists-INSTR, long-haired youth-NOM, similar-M.SG.NOM curls-INSTR and tender-INSTR long-INSTR face-INSTR to Alexander Blok-ACC.<br/>
    '…there was nothing but a table, behind which sat, propping his chin with his fists, a long-haired youth, similar in his curls and delicate long face to Alexander Blok…'
 
-c′. * pokhozhiy yunets<br/>
-   *similar-M.SG.NOM youth-NOM<br/>
+c′. \*pokhozhiy yunets<br/>
+   \*similar-M.SG.NOM youth-NOM<br/>
    '*a similar youth'
 
 The main part of governing adjectives, it seems, possesses obligatory semantic and optional syntactic valency. "Let's call the i-th valency of word A syntactically optional if a sentence containing word A with an unfilled i-th valency is correct" (Apresyan 1995: 149). This definition applies, for example, to participants introduced by adjectives _poleznyy_ 'useful', _dostoynyy_ 'worthy', _interesnyy_ 'interesting', etc.:
@@ -4506,7 +4506,7 @@ Firstly, it should be noted that the so-called tough-movement (see section 3.1.3
    to deceive Petya (for us) easy / difficult<br/>
    'It is easy / difficult (for us) to deceive Petya.'
 
-b. * Petya legkiy / trudnyy (chtoby) obmanut'.<br/>
+b. \*Petya legkiy / trudnyy (chtoby) obmanut'.<br/>
    Petya easy / difficult (in order to) deceive<br/>
    '*Petya is easy / difficult (in order) to deceive.'
 
@@ -4534,7 +4534,7 @@ There are also lexemes similar to non-ergative Italian adjectives (see section 3
    we sure / agree / proud / happy that Petya entered into graduate.school<br/>
    'We are sure / agree / proud / happy that Petya entered graduate school.'
 
-b. * Chto Petya postupil v aspiranturu, uvereno / soglasno / gordo / schastlivo.<br/>
+b. \*Chto Petya postupil v aspiranturu, uvereno / soglasno / gordo / schastlivo.<br/>
    that Petya entered into graduate.school sure / agreeable / proud / happy<br/>
    '*That Petya entered graduate school is sure / agreeable / proud / happy.'
 
@@ -4608,12 +4608,12 @@ The influence of intensifiers on the properties of adjectival dependents has bee
 
 (452) English (Jackendoff 1972: 227)<br/>
 a. The mattress is thin.<br/>
-b. * The mattress is thin to sleep on.<br/>
+b. \*The mattress is thin to sleep on.<br/>
 c. The mattress is too thin to sleep on.
 
 (453) English (Jackendoff 1972: 227)<br/>
 a. The football is soft.<br/>
-b. * The football is soft to kick.<br/>
+b. \*The football is soft to kick.<br/>
 c. The football is soft enough to kick.
 
 As can be seen from the Russian translations, the same dependence of target infinitives on intensifiers is observed in Russian as well.
@@ -4641,11 +4641,11 @@ b. Segodnya ya slishkom ustal, chtoby prodolzhat' put'…<br/>
    today I too tired, in.order.to continue way<br/>
    'Today I am too tired to continue on my way…'
 
-(456) a. * Strelyayesh' dlya khudozhnika, pryamo v serdtse.<br/>
+(456) a. \*Strelyayesh' dlya khudozhnika, pryamo v serdtse.<br/>
    shoot for artist, right in heart<br/>
    '*You shoot for an artist, right into the heart.'
 
-b. * Ya ustal, chtoby prodolzhat' put'…<br/>
+b. \*Ya ustal, chtoby prodolzhat' put'…<br/>
    I tired, in.order.to continue way<br/>
    '*I am tired to continue on my way…'
 
